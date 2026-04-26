@@ -6,3 +6,4 @@ logs/
 output/
 *.wav
 .DS_Store
+*.mp3 temp files
