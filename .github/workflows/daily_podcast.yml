@@ -1,0 +1,48 @@
+name: Daily Podcast Generation
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 05:00 KL time (UTC+8)
+  workflow_dispatch:         # manual trigger from GitHub UI
+
+permissions:
+  contents: write            # needed to push generated audio + feed.xml back
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install system dependencies
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate podcast episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_PAGES_BASE_URL: https://ishikawak-lab.github.io/ai-english-podcast
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python podcast_generator.py
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet && echo "Nothing to commit" || \
+            git commit -m "chore: add episode $(date -u +%Y-%m-%d)" && git push
