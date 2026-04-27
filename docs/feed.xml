@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-04-27 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3</link>
+      <description>[Startup] DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data  |  [Startup] New AI framework autonomously optimizes training data, architectures and algorithms — outperforming human baselines  |  [Startup] OpenAI ends Microsoft legal peril over its $50B Amazon deal  |  [Startup] Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks  |  [AI] The Download: DeepSeek’s latest AI breakthrough, and the race to build world models</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3" length="5554721" type="audio/mpeg" />
+      <itunes:duration>5:47</itunes:duration>
+    </item>
+    <item>
       <title>2026-04-26 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-26.mp3</link>
       <description>[Startup] Anthropic created a test marketplace for agent-on-agent commerce  |  [Startup] Monitoring LLM behavior: Drift, retries, and refusal patterns  |  [Japan] Hormuz crisis throws spotlight on world's largest 'chokepoint' — the Malacca Strait  |  [Japan] 北海道で震度5強 泊原発は異常や被害確認されず  |  [Startup] How fintech in Asia is enabling and making education affordable for everyone</description>
