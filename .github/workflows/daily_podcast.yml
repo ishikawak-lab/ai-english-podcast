@@ -37,6 +37,7 @@ jobs:
           GITHUB_PAGES_BASE_URL: https://ishikawak-lab.github.io/ai-english-podcast
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python podcast_generator.py
 
       - name: Commit and push generated files

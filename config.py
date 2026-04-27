@@ -8,6 +8,7 @@ from pathlib import Path
 GEMINI_API_KEY: str = os.environ.get("GEMINI_API_KEY", "")
 CALLMEBOT_PHONE: str = os.environ.get("CALLMEBOT_PHONE", "")   # e.g. "+60123456789"
 CALLMEBOT_APIKEY: str = os.environ.get("CALLMEBOT_APIKEY", "")
+SLACK_WEBHOOK_URL: str = os.environ.get("SLACK_WEBHOOK_URL", "")
 
 # ──────────────────────────────────────────────
 # Filesystem Paths

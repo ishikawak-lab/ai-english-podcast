@@ -594,6 +594,157 @@ def _indent_xml(elem: ET.Element, level: int = 0) -> None:
 
 
 # ─────────────────────────────────────────────────────────────
+# Step 3b — Vocabulary Extraction
+# ─────────────────────────────────────────────────────────────
+
+def extract_vocab(
+    script: str,
+    client: genai.Client,
+    log: logging.Logger,
+) -> list[dict]:
+    """Return vocabulary items highlighted in the script as a list of dicts."""
+    prompt = (
+        "The following is a podcast script for English learners. "
+        "Extract every English expression or vocabulary item that was explicitly "
+        "introduced or explained in the script.\n\n"
+        "Return a JSON array — one object per item:\n"
+        '[{"expression": "...", "meaning": "...", "example": "..."}]\n\n'
+        f"Script:\n{script}"
+    )
+    try:
+        response = _gemini_call_with_retry(
+            lambda m, p=prompt: client.models.generate_content(
+                model=m,
+                contents=p,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.1,
+                    thinking_config=types.ThinkingConfig(thinking_budget=0),
+                ),
+            ),
+            log,
+        )
+        items = json.loads(response.text)
+        log.info(f"Vocabulary extracted: {len(items)} items")
+        return items
+    except Exception as exc:
+        log.warning(f"Vocab extraction failed: {exc}")
+        return []
+
+
+# ─────────────────────────────────────────────────────────────
+# Step 8 — Slack Notification (Incoming Webhook)
+# ─────────────────────────────────────────────────────────────
+
+_SLACK_BLOCK_MAX = 2800   # stay safely under the 3000-char block limit
+
+
+def notify_slack(
+    today: datetime.date,
+    framework_name: str,
+    articles: list[Article],
+    script: str,
+    vocab: list[dict],
+    audio_url: str,
+    rss_url: str,
+    log: logging.Logger,
+) -> None:
+    if not config.SLACK_WEBHOOK_URL:
+        log.warning("SLACK_WEBHOOK_URL not set — skipping Slack notification.")
+        return
+
+    blocks: list[dict] = []
+
+    # ── Header ────────────────────────────────────────────────
+    blocks.append({
+        "type": "header",
+        "text": {
+            "type": "plain_text",
+            "text": f"Ken's AI English Podcast — {today}  |  {framework_name}",
+        },
+    })
+
+    # ── Articles ──────────────────────────────────────────────
+    articles_md = "\n".join(
+        f"{i}. <{a.url}|{a.title}>  `[{a.category}]`  score: {a.weighted_score:.2f}"
+        for i, a in enumerate(articles, 1)
+    )
+    blocks.append({
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": f"*今日の選定記事 Top {len(articles)}*\n{articles_md}"},
+    })
+
+    blocks.append({"type": "divider"})
+
+    # ── Script (chunked) ──────────────────────────────────────
+    blocks.append({
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": "*台本全文*"},
+    })
+    for chunk_start in range(0, len(script), _SLACK_BLOCK_MAX):
+        chunk = script[chunk_start : chunk_start + _SLACK_BLOCK_MAX]
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": chunk},
+        })
+
+    blocks.append({"type": "divider"})
+
+    # ── Vocabulary ────────────────────────────────────────────
+    if vocab:
+        vocab_lines = "\n".join(
+            f"• *{v.get('expression', '')}*  —  {v.get('meaning', '')}\n"
+            f"  _例: {v.get('example', '')}_"
+            for v in vocab
+        )
+        # Vocab list can also be long — chunk it
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "*語彙・表現リスト*"},
+        })
+        for chunk_start in range(0, len(vocab_lines), _SLACK_BLOCK_MAX):
+            blocks.append({
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": vocab_lines[chunk_start : chunk_start + _SLACK_BLOCK_MAX],
+                },
+            })
+
+    blocks.append({"type": "divider"})
+
+    # ── Links ─────────────────────────────────────────────────
+    blocks.append({
+        "type": "section",
+        "fields": [
+            {"type": "mrkdwn", "text": f":headphones: *音声*\n<{audio_url}|MP3を聴く>"},
+            {"type": "mrkdwn", "text": f":rss: *RSSフィード*\n<{rss_url}|feed.xml>"},
+        ],
+    })
+
+    # Slack caps at 50 blocks — trim gracefully
+    if len(blocks) > 50:
+        blocks = blocks[:49]
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": "_（ブロック上限のため一部省略）_"},
+        })
+
+    payload = json.dumps({"blocks": blocks}, ensure_ascii=False).encode("utf-8")
+    req = urllib.request.Request(
+        config.SLACK_WEBHOOK_URL,
+        data=payload,
+        headers={"Content-Type": "application/json; charset=utf-8"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            log.info(f"Slack notification sent (HTTP {resp.status})")
+    except Exception as exc:
+        log.warning(f"Slack notification failed: {exc}")
+
+
+# ─────────────────────────────────────────────────────────────
 # Step 7 — WhatsApp Notification (CallMeBot)
 # ─────────────────────────────────────────────────────────────
 
@@ -686,8 +837,12 @@ def main() -> None:
         sys.exit(1)
 
     # 3. Script
-    log.info("Step 3/7  Generating podcast script …")
+    log.info("Step 3/8  Generating podcast script …")
     script = generate_script(selected, today, client, log)
+
+    # 3b. Vocabulary extraction
+    log.info("Step 3b/8  Extracting vocabulary list …")
+    vocab = extract_vocab(script, client, log)
 
     # Dry-run exit after printing results
     if dry_run:
@@ -699,11 +854,16 @@ def main() -> None:
             print(f"  {i}. [{a.category:10s}] score={a.weighted_score:.2f}  {a.title}")
         print("\nGENERATED SCRIPT:\n")
         print(script)
+        if vocab:
+            print("\nVOCABULARY LIST:")
+            for v in vocab:
+                print(f"  • {v.get('expression')}: {v.get('meaning')}")
+                print(f"    例: {v.get('example')}")
         print("\n[DRY RUN] No files written, no notifications sent.")
         return
 
     # 4. TTS
-    log.info("Step 4/7  Synthesizing audio …")
+    log.info("Step 4/8  Synthesizing audio …")
     config.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     slug = today.strftime("%Y-%m-%d")
     raw_wav = config.OUTPUT_DIR / f"{slug}_raw.wav"
@@ -712,28 +872,38 @@ def main() -> None:
     synthesize_audio(script, raw_wav, client, log)
 
     # 5. Normalise
-    log.info("Step 5/7  Normalising audio …")
+    log.info("Step 5/8  Normalising audio …")
     normalize_audio(raw_wav, final_mp3, log)
     raw_wav.unlink(missing_ok=True)
 
     # 6. RSS feed
-    log.info("Step 6/7  Updating RSS feed …")
+    log.info("Step 6/8  Updating RSS feed …")
     episode_title = f"{today} | {fw_name} | Ken's AI English Podcast"
     episode_desc = "  |  ".join(
         f"[{a.category}] {a.title}" for a in selected
     )
     update_rss_feed(today, episode_title, episode_desc, final_mp3, log)
 
+    audio_url = f"{config.GITHUB_PAGES_BASE_URL}/audio/{final_mp3.name}"
+    rss_url = f"{config.GITHUB_PAGES_BASE_URL}/feed.xml"
+
     # 7. WhatsApp
-    log.info("Step 7/7  Sending WhatsApp notification …")
+    log.info("Step 7/8  Sending WhatsApp notification …")
     story_lines = "\n".join(
         f"  {i}. [{a.category}] {a.title}" for i, a in enumerate(selected, 1)
     )
     notify_whatsapp(
         f"New episode: {episode_title}\n\n"
         f"Stories:\n{story_lines}\n\n"
-        f"Listen: {config.GITHUB_PAGES_BASE_URL}/audio/{final_mp3.name}",
+        f"Listen: {audio_url}",
         log,
+    )
+
+    # 8. Slack
+    log.info("Step 8/8  Sending Slack notification …")
+    notify_slack(
+        today, fw_name, selected, script, vocab,
+        audio_url, rss_url, log,
     )
 
     log.info("Done.")
