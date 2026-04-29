@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-04-29 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3</link>
+      <description>[Startup] Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies  |  [AI] GPT-5.5 is OpenAI’s most capable agentic AI model yet  |  [Startup] AI vs AI: Inside Southeast Asia’s new cybersecurity war  |  [Startup] Southeast Asia’s cyber boom is fuelled by fear—and AI  |  [Startup] Parallel Web Systems hits $2B valuation five months after its last big raise</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3" length="5158914" type="audio/mpeg" />
+      <itunes:duration>5:22</itunes:duration>
+    </item>
+    <item>
       <title>2026-04-28 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-28.mp3</link>
       <description>[Malaysia] Musk faces OpenAI in court over claims it betrayed founding mission  |  [Startup] Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud  |  [AI] Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents  |  [Startup] Amazon is already offering new OpenAI products on AWS  |  [Startup] Google expands Pentagon’s access to its AI after Anthropic’s refusal</description>
