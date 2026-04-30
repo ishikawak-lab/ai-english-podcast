@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-04-30 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</link>
+      <description>[AI] Exclusive eBook: Inside the stealthy startup that pitched brainless human clones  |  [Japan] NY市場 円相場1ドル＝156円台 市場介入に警戒高まる  |  [Japan] Yen soars as Japan intervenes after issuing 'final' warning  |  [Startup] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks  |  [Startup] Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3" length="7417565" type="audio/mpeg" />
+      <itunes:duration>7:43</itunes:duration>
+    </item>
+    <item>
       <title>2026-04-29 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3</link>
       <description>[Startup] Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies  |  [AI] GPT-5.5 is OpenAI’s most capable agentic AI model yet  |  [Startup] AI vs AI: Inside Southeast Asia’s new cybersecurity war  |  [Startup] Southeast Asia’s cyber boom is fuelled by fear—and AI  |  [Startup] Parallel Web Systems hits $2B valuation five months after its last big raise</description>
