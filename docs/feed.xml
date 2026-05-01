@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-01 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3</link>
+      <description>[Startup] 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature  |  [Startup] xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite  |  [Startup] The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.  |  [Startup] Coatue has a plan to buy up land for data centers, possibly for Anthropic  |  [Startup] Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3" length="5728592" type="audio/mpeg" />
+      <itunes:duration>5:58</itunes:duration>
+    </item>
+    <item>
       <title>2026-04-30 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</link>
       <description>[AI] Exclusive eBook: Inside the stealthy startup that pitched brainless human clones  |  [Japan] NY市場 円相場1ドル＝156円台 市場介入に警戒高まる  |  [Japan] Yen soars as Japan intervenes after issuing 'final' warning  |  [Startup] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks  |  [Startup] Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it</description>
