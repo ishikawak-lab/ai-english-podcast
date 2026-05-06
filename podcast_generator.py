@@ -178,18 +178,39 @@ def _extract_retry_delay(exc: Exception) -> float:
     return float(m.group(1)) if m else 60.0
 
 
+def _call_with_503_retry(
+    fn, model: str, log: logging.Logger, max_retries: int = 3
+):
+    """Retry fn(model) on transient 503 UNAVAILABLE with a fixed 60s wait."""
+    for attempt in range(max_retries + 1):
+        try:
+            return fn(model)
+        except genai_errors.ServerError as exc:
+            if "503" not in str(exc) or attempt == max_retries:
+                raise
+            log.warning(
+                f"Gemini 503 on {model}. "
+                f"Waiting 60s before retry {attempt + 1}/{max_retries} …"
+            )
+            time.sleep(60)
+
+
 def _gemini_call_with_retry(fn, log: logging.Logger, max_retries: int = 2):
     """Call fn() and retry on 429.
 
     fn receives the active model name as its sole argument so callers can
     substitute the fallback model on each attempt.
     Primary model → GEMINI_MODEL_FALLBACKS[0] → GEMINI_MODEL_FALLBACKS[1] …
+    Transient 503 UNAVAILABLE responses are retried in-place via
+    _call_with_503_retry without consuming the 429-retry budget or switching
+    models, since 503 is a server-side load issue rather than a quota/model
+    problem.
     """
     models = [config.GEMINI_MODEL] + config.GEMINI_MODEL_FALLBACKS
     for model in models:
         for attempt in range(max_retries):
             try:
-                return fn(model)
+                return _call_with_503_retry(fn, model, log)
             except genai_errors.ClientError as exc:
                 err = str(exc)
                 if "404" in err:
