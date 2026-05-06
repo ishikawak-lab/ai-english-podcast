@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-06 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</link>
+      <description>[Startup] Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.  |  [Startup] One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it  |  [Japan] Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial  |  [Startup] GPT-5.5 Instant shows you what it remembered — just not all of it  |  [AI] The Download: inside the Musk v. Altman trial, and AI for democracy</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3" length="7546297" type="audio/mpeg" />
+      <itunes:duration>7:51</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-04 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3</link>
       <description>[Startup] Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions  |  [Startup] The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next  |  [Startup] OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO  |  [Startup] Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat  |  [Startup] Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race</description>
