@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-07 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</link>
+      <description>[Startup] How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro  |  [Startup] Agentic economy: The real promise of AI and crypto convergence  |  [Startup] Anthropic Skill scanners passed every check. The malicious code rode in on a test file.  |  [Startup] Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs  |  [Japan] MUFG to form strategic partnership with Google</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3" length="6113951" type="audio/mpeg" />
+      <itunes:duration>6:22</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-06 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</link>
       <description>[Startup] Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.  |  [Startup] One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it  |  [Japan] Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial  |  [Startup] GPT-5.5 Instant shows you what it remembered — just not all of it  |  [AI] The Download: inside the Musk v. Altman trial, and AI for democracy</description>
