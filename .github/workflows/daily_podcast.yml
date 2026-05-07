@@ -3,7 +3,12 @@ name: Daily Podcast Generation
 on:
   schedule:
     - cron: '0 21 * * *'   # 05:00 KL time (UTC+8)
-  workflow_dispatch:         # manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Override episode date (YYYY-MM-DD). Leave blank to use UTC today.'
+        required: false
+        default: ''
 
 permissions:
   contents: write            # needed to push generated audio + feed.xml back
@@ -38,15 +43,29 @@ jobs:
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python podcast_generator.py
+          INPUT_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$INPUT_DATE" ]; then
+            python podcast_generator.py --date "$INPUT_DATE"
+          else
+            python podcast_generator.py
+          fi
 
       - name: Commit and push generated files
+        env:
+          INPUT_DATE: ${{ inputs.date }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/
-          git diff --staged --quiet && echo "Nothing to commit" || \
-            git commit -m "chore: add episode $(date -u +%Y-%m-%d)" && git push
+          if git diff --staged --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          EPISODE_DATE="${INPUT_DATE:-$(date -u +%Y-%m-%d)}"
+          git commit -m "chore: add episode ${EPISODE_DATE}"
+          git pull --rebase origin main
+          git push
 
   retry:
     runs-on: ubuntu-latest
@@ -82,9 +101,17 @@ jobs:
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python podcast_generator.py
+          INPUT_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$INPUT_DATE" ]; then
+            python podcast_generator.py --date "$INPUT_DATE"
+          else
+            python podcast_generator.py
+          fi
 
       - name: Commit and push generated files
+        env:
+          INPUT_DATE: ${{ inputs.date }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -93,6 +120,7 @@ jobs:
             echo "Nothing to commit"
             exit 0
           fi
-          git commit -m "chore: add episode $(date -u +%Y-%m-%d) (retry)"
+          EPISODE_DATE="${INPUT_DATE:-$(date -u +%Y-%m-%d)}"
+          git commit -m "chore: add episode ${EPISODE_DATE} (retry)"
           git pull --rebase origin main
           git push
