@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-08 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3</link>
+      <description>[Startup] OpenAI launches new voice intelligence features in its API  |  [Startup] Anthropic introduces "dreaming," a system that lets AI agents learn from their own mistakes  |  [Startup] How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro  |  [AI] Advancing voice intelligence with new models in the API  |  [Japan] MUFG to form strategic partnership with Google</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3" length="6697422" type="audio/mpeg" />
+      <itunes:duration>6:58</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-07 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</link>
       <description>[Startup] How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro  |  [Startup] Agentic economy: The real promise of AI and crypto convergence  |  [Startup] Anthropic Skill scanners passed every check. The malicious code rode in on a test file.  |  [Startup] Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs  |  [Japan] MUFG to form strategic partnership with Google</description>
