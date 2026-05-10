@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-10 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</link>
+      <description>[Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [Startup] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts  |  [Japan] 米ベッセント財務長官 あす来日し高市首相らと会談へ  |  [Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Japan] Japan to mull whether to call China 'threat' in key papers</description>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3" length="6154911" type="audio/mpeg" />
+      <itunes:duration>6:24</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-09 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3</link>
       <description>[Startup] Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth  |  [Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Startup] Intent-based chaos testing is designed for when AI behaves confidently — and wrongly  |  [AI] Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman  |  [Startup] An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.</description>
