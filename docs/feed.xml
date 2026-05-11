@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-11 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</link>
+      <description>[Startup] AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.  |  [Startup] Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation  |  [Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [AI] OpenAI launches DeployCo to help businesses build around intelligence  |  [RealEstate] Inventory growth making housing more affordable</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3" length="7545461" type="audio/mpeg" />
+      <itunes:duration>7:51</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-10 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</link>
       <description>[Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [Startup] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts  |  [Japan] 米ベッセント財務長官 あす来日し高市首相らと会談へ  |  [Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Japan] Japan to mull whether to call China 'threat' in key papers</description>
