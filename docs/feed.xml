@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-12 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</link>
+      <description>[Startup] Musk mulled handing OpenAI to his children, Altman testifies  |  [Startup] Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI &amp; Google  |  [Japan] 新築マンション引き渡し遅延の可能性 通知広がる イラン影響で  |  [AI] The Download: a Nobel winner on AI, and the case for fixing everything  |  [AI] World Models: 10 Things That Matter in AI Right Now</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3" length="7053941" type="audio/mpeg" />
+      <itunes:duration>7:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-11 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</link>
       <description>[Startup] AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.  |  [Startup] Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation  |  [Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [AI] OpenAI launches DeployCo to help businesses build around intelligence  |  [RealEstate] Inventory growth making housing more affordable</description>
