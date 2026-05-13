@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-13 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</link>
+      <description>[AI] AI chatbots are giving out people’s real phone numbers  |  [Startup] Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead  |  [Startup] Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch  |  [Japan] イラン情勢受け石油供給量は日量1280万バレル減 IEA  |  [Startup] Notion just turned its workspace into a hub for AI agents</description>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3" length="7957568" type="audio/mpeg" />
+      <itunes:duration>8:17</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-12 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</link>
       <description>[Startup] Musk mulled handing OpenAI to his children, Altman testifies  |  [Startup] Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI &amp; Google  |  [Japan] 新築マンション引き渡し遅延の可能性 通知広がる イラン影響で  |  [AI] The Download: a Nobel winner on AI, and the case for fixing everything  |  [AI] World Models: 10 Things That Matter in AI Right Now</description>
