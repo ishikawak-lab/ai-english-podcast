@@ -551,6 +551,13 @@ def update_rss_feed(
         _duration_from_size(file_size)
     )
 
+    # Drop any existing item for the same audio_url so re-runs don't duplicate
+    for old in channel.findall("item"):
+        old_guid = old.findtext("guid") or ""
+        old_link = old.findtext("link") or ""
+        if audio_url in (old_guid, old_link):
+            channel.remove(old)
+
     # Insert before existing items so feed stays newest-first
     children = list(channel)
     first_item_idx = next(
