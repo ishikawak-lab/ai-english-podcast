@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-14 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</link>
+      <description>[Startup] What happens when AI starts building itself?  |  [Startup] Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure  |  [RealEstate] The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity  |  [Startup] The unexpected ways AI is already changing Malaysia’s economy  |  [Japan] 防衛省 地対艦ミサイルのフィリピンへの輸出を検討</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3" length="5731936" type="audio/mpeg" />
+      <itunes:duration>5:58</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-13 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</link>
       <description>[AI] AI chatbots are giving out people’s real phone numbers  |  [Startup] Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead  |  [Startup] Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch  |  [Japan] イラン情勢受け石油供給量は日量1280万バレル減 IEA  |  [Startup] Notion just turned its workspace into a hub for AI agents</description>
