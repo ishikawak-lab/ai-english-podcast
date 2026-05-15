@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-15 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</link>
+      <description>[Startup] How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%  |  [Startup] Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent  |  [Startup] Claude’s next enterprise battle is not models: it’s the agent control plane  |  [Startup] Tesla reveals two Robotaxi crashes involving teleoperators  |  [Startup] Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3" length="7569284" type="audio/mpeg" />
+      <itunes:duration>7:53</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-14 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</link>
       <description>[Startup] What happens when AI starts building itself?  |  [Startup] Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure  |  [RealEstate] The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity  |  [Startup] The unexpected ways AI is already changing Malaysia’s economy  |  [Japan] 防衛省 地対艦ミサイルのフィリピンへの輸出を検討</description>
