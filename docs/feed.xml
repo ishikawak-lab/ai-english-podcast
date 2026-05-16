@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-16 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3</link>
+      <description>[Startup] The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from  |  [Startup] Research repository ArXiv will ban authors for a year if they let AI do all the work  |  [Japan] ウクライナ政府高官 “デジタル技術で戦い方大きく変容”  |  [Startup] OpenAI co-founder Greg Brockman takes charge of product strategy  |  [AI] Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.</description>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3" length="8268112" type="audio/mpeg" />
+      <itunes:duration>8:36</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-15 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</link>
       <description>[Startup] How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%  |  [Startup] Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent  |  [Startup] Claude’s next enterprise battle is not models: it’s the agent control plane  |  [Startup] Tesla reveals two Robotaxi crashes involving teleoperators  |  [Startup] Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</description>
