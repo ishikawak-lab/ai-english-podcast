@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-17 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3</link>
+      <description>[Startup] Why trust is a big question at the Elon Musk-OpenAI trial  |  [Japan] 米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず  |  [Startup] Apple’s Siri revamp could include auto-deleting chats  |  [Startup] TechCrunch Mobility: The AI skills arms race is coming for automotive  |  [Startup] Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production</description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3" length="6873382" type="audio/mpeg" />
+      <itunes:duration>7:09</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-16 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3</link>
       <description>[Startup] The enterprise risk nobody is modeling: AI is replacing the very experts it needs to learn from  |  [Startup] Research repository ArXiv will ban authors for a year if they let AI do all the work  |  [Japan] ウクライナ政府高官 “デジタル技術で戦い方大きく変容”  |  [Startup] OpenAI co-founder Greg Brockman takes charge of product strategy  |  [AI] Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.</description>
