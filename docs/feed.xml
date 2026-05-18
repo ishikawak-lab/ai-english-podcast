@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-18 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3</link>
+      <description>[Startup] Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering  |  [Startup] The agentic shift: Why AI agents are rewriting the rules of ERP software in Singapore and Malaysia  |  [Japan] トランプ大統領 “19日に予定のイランへの軍事攻撃 停止指示”  |  [Startup] SandboxAQ brings its drug discovery models to Claude — no PhD in computing required  |  [Startup] Elon Musk has lost his lawsuit against Sam Altman and OpenAI</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3" length="4879299" type="audio/mpeg" />
+      <itunes:duration>5:04</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-17 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3</link>
       <description>[Startup] Why trust is a big question at the Elon Musk-OpenAI trial  |  [Japan] 米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず  |  [Startup] Apple’s Siri revamp could include auto-deleting chats  |  [Startup] TechCrunch Mobility: The AI skills arms race is coming for automotive  |  [Startup] Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production</description>
