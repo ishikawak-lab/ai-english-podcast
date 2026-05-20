@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-20 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3</link>
+      <description>[Startup] Anthropic will pay xAI $1.25B per month for compute  |  [Startup] Sam Altman makes ‘mic drop’ offer to every Y Combinator startup  |  [Startup] Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds  |  [AI] An OpenAI model has disproved a central conjecture in discrete geometry  |  [Malaysia] Nvidia posts record US$81.6bil quarterly revenue on AI spending boom</description>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3" length="6181660" type="audio/mpeg" />
+      <itunes:duration>6:26</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-19 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-19.mp3</link>
       <description>[Startup] Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money  |  [Startup] Google unveils Gemini Omni 'any-to-any' AI model: what enterprises should know  |  [Startup] Superagent: The AI-native real estate brokerage running at 65%+ gross margin in an industry capped at 10%  |  [AI] Roundtables: Inside the Musk v. Altman Trial  |  [Startup] You can now talk to your Gmail inbox, as seen at Google IO 2026</description>
