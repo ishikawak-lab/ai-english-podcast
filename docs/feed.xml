@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-21 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3</link>
+      <description>[Startup] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes  |  [AI] Roundtables: Can AI Learn to Understand the World?  |  [Startup] A 0.12% parameter add-on gives AI agents the working memory RAG can't  |  [Startup] Enterprise AI agents keep failing because they forget what they learned  |  [Startup] Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3" length="6197542" type="audio/mpeg" />
+      <itunes:duration>6:27</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-20 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3</link>
       <description>[Startup] Anthropic will pay xAI $1.25B per month for compute  |  [Startup] Sam Altman makes ‘mic drop’ offer to every Y Combinator startup  |  [Startup] Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds  |  [AI] An OpenAI model has disproved a central conjecture in discrete geometry  |  [Malaysia] Nvidia posts record US$81.6bil quarterly revenue on AI spending boom</description>
