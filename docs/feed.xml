@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-25 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</link>
+      <description>[Startup] Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk  |  [Startup] What ClickUp’s mass layoff tells us about the future of work  |  [Japan] Nikkei 225 stock average tops 65,000 for first time  |  [Startup] The pope’s AI encyclical isn’t really about AI  |  [RealEstate] What happens to mortgage rates if the Iran conflict is over?</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3" length="5589830" type="audio/mpeg" />
+      <itunes:duration>5:49</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-24 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3</link>
       <description>[Startup] AI agents are quietly generating chaos engineering failures enterprises don’t track yet  |  [Malaysia] Malaysia to take Israeli abuses during Gaza flotilla mission to international court  |  [Japan] ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ  |  [Startup] Everyone is navigating AI security in real time — even Google  |  [Startup] Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry</description>
