@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-26 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</link>
+      <description>[Startup] The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.  |  [Startup] This startup is betting India’s gig economy can train the world’s robots  |  [Startup] Beyond the buzz: How AI and sustainability are reshaping design, manufacturing, and construction in APAC  |  [Startup] OpenRouter more than doubles valuation to $1.3B in a year  |  [Startup] Starship’s path to reusability looks murky after SpaceX’s S-1</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3" length="6337141" type="audio/mpeg" />
+      <itunes:duration>6:36</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-25 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</link>
       <description>[Startup] Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk  |  [Startup] What ClickUp’s mass layoff tells us about the future of work  |  [Japan] Nikkei 225 stock average tops 65,000 for first time  |  [Startup] The pope’s AI encyclical isn’t really about AI  |  [RealEstate] What happens to mortgage rates if the Iran conflict is over?</description>
