@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-27 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</link>
+      <description>[AI] ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM  |  [Startup] MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost  |  [Startup] In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips  |  [Startup] Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.  |  [AI] Election information and safeguards in 2026</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3" length="6476321" type="audio/mpeg" />
+      <itunes:duration>6:44</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-26 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</link>
       <description>[Startup] The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.  |  [Startup] This startup is betting India’s gig economy can train the world’s robots  |  [Startup] Beyond the buzz: How AI and sustainability are reshaping design, manufacturing, and construction in APAC  |  [Startup] OpenRouter more than doubles valuation to $1.3B in a year  |  [Startup] Starship’s path to reusability looks murky after SpaceX’s S-1</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3" length="5554721" type="audio/mpeg" />
       <itunes:duration>5:47</itunes:duration>
-    </item>
-    <item>
-      <title>2026-04-26 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-26.mp3</link>
-      <description>[Startup] Anthropic created a test marketplace for agent-on-agent commerce  |  [Startup] Monitoring LLM behavior: Drift, retries, and refusal patterns  |  [Japan] Hormuz crisis throws spotlight on world's largest 'chokepoint' — the Malacca Strait  |  [Japan] 北海道で震度5強 泊原発は異常や被害確認されず  |  [Startup] How fintech in Asia is enabling and making education affordable for everyone</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-26.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-26.mp3" length="6689062" type="audio/mpeg" />
-      <itunes:duration>6:58</itunes:duration>
     </item>
   </channel>
 </rss>
