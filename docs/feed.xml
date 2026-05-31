@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-05-31 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-31.mp3</link>
+      <description>[Japan] SoftBank to spend $87.5 bil on AI centers in France: Son  |  [Startup] SoftBank says it will invest up to €75 billion to build French data centers  |  [Startup] Anthropic’s US$65B cheque redraws AI funding map  |  [Startup] MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26%  |  [Japan] Koizumi meets Hegseth</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-31.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-31.mp3" length="6824481" type="audio/mpeg" />
+      <itunes:duration>7:06</itunes:duration>
+    </item>
+    <item>
       <title>2026-05-27 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</link>
       <description>[AI] ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM  |  [Startup] MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost  |  [Startup] In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips  |  [Startup] Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.  |  [AI] Election information and safeguards in 2026</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-28.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-28.mp3" length="6445392" type="audio/mpeg" />
       <itunes:duration>6:42</itunes:duration>
-    </item>
-    <item>
-      <title>2026-04-27 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3</link>
-      <description>[Startup] DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data  |  [Startup] New AI framework autonomously optimizes training data, architectures and algorithms — outperforming human baselines  |  [Startup] OpenAI ends Microsoft legal peril over its $50B Amazon deal  |  [Startup] Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks  |  [AI] The Download: DeepSeek’s latest AI breakthrough, and the race to build world models</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-27.mp3" length="5554721" type="audio/mpeg" />
-      <itunes:duration>5:47</itunes:duration>
     </item>
   </channel>
 </rss>
