@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-02 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</link>
+      <description>[Malaysia] Microsoft unveils AI models in push for independence from OpenAI  |  [Malaysia] Stalled Mideast peace talks send oil soaring, tech lifts stocks  |  [Startup] Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary  |  [Startup] Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board  |  [Startup] Perplexity AI unveils hybrid local-cloud inference system at Computex 2026</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3" length="6550300" type="audio/mpeg" />
+      <itunes:duration>6:49</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-01 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-01.mp3</link>
       <description>[Malaysia] Google parent Alphabet to raise US$80bil to fuel AI expansion  |  [Startup] Alphabet plans to raise $80 billion to pay for AI buildout  |  [AI] The Download: China’s brain implant ambitions  |  [AI] China has approved the world’s first invasive brain-computer chip—here’s what’s next  |  [Startup] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3" length="7417565" type="audio/mpeg" />
       <itunes:duration>7:43</itunes:duration>
-    </item>
-    <item>
-      <title>2026-04-29 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3</link>
-      <description>[Startup] Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies  |  [AI] GPT-5.5 is OpenAI’s most capable agentic AI model yet  |  [Startup] AI vs AI: Inside Southeast Asia’s new cybersecurity war  |  [Startup] Southeast Asia’s cyber boom is fuelled by fear—and AI  |  [Startup] Parallel Web Systems hits $2B valuation five months after its last big raise</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-29.mp3" length="5158914" type="audio/mpeg" />
-      <itunes:duration>5:22</itunes:duration>
     </item>
   </channel>
 </rss>
