@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-03 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</link>
+      <description>[Startup] Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal  |  [Startup] Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop  |  [Startup] Cool Japan backs JumpStart’s Series C as vending machines reshape Indonesian retail  |  [Malaysia] SpaceX aims to raise record US$75bil in stock market debut  |  [AI] A blueprint for democratic governance of frontier AI</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3" length="6439541" type="audio/mpeg" />
+      <itunes:duration>6:42</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-02 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</link>
       <description>[Malaysia] Microsoft unveils AI models in push for independence from OpenAI  |  [Malaysia] Stalled Mideast peace talks send oil soaring, tech lifts stocks  |  [Startup] Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary  |  [Startup] Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board  |  [Startup] Perplexity AI unveils hybrid local-cloud inference system at Computex 2026</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3" length="5728592" type="audio/mpeg" />
       <itunes:duration>5:58</itunes:duration>
-    </item>
-    <item>
-      <title>2026-04-30 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</link>
-      <description>[AI] Exclusive eBook: Inside the stealthy startup that pitched brainless human clones  |  [Japan] NY市場 円相場1ドル＝156円台 市場介入に警戒高まる  |  [Japan] Yen soars as Japan intervenes after issuing 'final' warning  |  [Startup] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks  |  [Startup] Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-04-30.mp3" length="7417565" type="audio/mpeg" />
-      <itunes:duration>7:43</itunes:duration>
     </item>
   </channel>
 </rss>
