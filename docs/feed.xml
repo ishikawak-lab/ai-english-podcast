@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-04 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</link>
+      <description>[Startup] Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up  |  [Japan] 原発 2040年代までに2～5基建て替えの目標 政府  |  [AI] How courts are coping with a flood of AI-generated lawsuits  |  [Startup] Apple approves Poke as the first AI agent on its Messages for Business platform  |  [Japan] Japan’s new growth strategy to promote overseas investment</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3" length="5980204" type="audio/mpeg" />
+      <itunes:duration>6:13</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-03 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</link>
       <description>[Startup] Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal  |  [Startup] Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop  |  [Startup] Cool Japan backs JumpStart’s Series C as vending machines reshape Indonesian retail  |  [Malaysia] SpaceX aims to raise record US$75bil in stock market debut  |  [AI] A blueprint for democratic governance of frontier AI</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-02.mp3" length="8561102" type="audio/mpeg" />
       <itunes:duration>8:55</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-01 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3</link>
-      <description>[Startup] 200,000 MCP servers expose a command execution flaw that Anthropic calls a feature  |  [Startup] xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite  |  [Startup] The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.  |  [Startup] Coatue has a plan to buy up land for data centers, possibly for Anthropic  |  [Startup] Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI</description>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-01.mp3" length="5728592" type="audio/mpeg" />
-      <itunes:duration>5:58</itunes:duration>
     </item>
   </channel>
 </rss>
