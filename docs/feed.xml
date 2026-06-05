@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-05 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</link>
+      <description>[Startup] Google will pay SpaceX $920M per month for compute  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [AI] The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains  |  [AI] Are AI chatbots making us lose control of our brains?  |  [Japan] 安定的な皇位継承 とりまとめ案 8日に各党・各会派に提示へ</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3" length="6164524" type="audio/mpeg" />
+      <itunes:duration>6:25</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-04 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</link>
       <description>[Startup] Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up  |  [Japan] 原発 2040年代までに2～5基建て替えの目標 政府  |  [AI] How courts are coping with a flood of AI-generated lawsuits  |  [Startup] Apple approves Poke as the first AI agent on its Messages for Business platform  |  [Japan] Japan’s new growth strategy to promote overseas investment</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-03.mp3" length="5643328" type="audio/mpeg" />
       <itunes:duration>5:52</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-02 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-02.mp3</link>
-      <description>[AI] Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models  |  [Startup] Uber wants to turn its millions of drivers into a sensor grid for self-driving companies  |  [Japan] 日本国憲法 施行から79年 緊急事態条項など国会で議論活発化へ  |  [Japan] Takaichi pledges ‘more proactive’ role for Japan in Indo-Pacific strategy update  |  [Startup] The rise of agentic work: Can AI replicate a team, not just a person?</description>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-02.mp3" length="8561102" type="audio/mpeg" />
-      <itunes:duration>8:55</itunes:duration>
     </item>
   </channel>
 </rss>
