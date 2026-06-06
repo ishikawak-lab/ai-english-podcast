@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-06 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</link>
+      <description>[Startup] The Trump administration might take an equity stake in OpenAI  |  [Startup] Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [Startup] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks  |  [Japan] Japan steps up efforts on cooking oil in race for sustainable aviation fuel​​</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3" length="7770323" type="audio/mpeg" />
+      <itunes:duration>8:05</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-05 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</link>
       <description>[Startup] Google will pay SpaceX $920M per month for compute  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [AI] The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains  |  [AI] Are AI chatbots making us lose control of our brains?  |  [Japan] 安定的な皇位継承 とりまとめ案 8日に各党・各会派に提示へ</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3" length="4967071" type="audio/mpeg" />
       <itunes:duration>5:10</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-03 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-03.mp3</link>
-      <description>[Startup] In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors  |  [Japan] きょう日豪首脳会談 経済安全保障協力の指針となる共同宣言へ  |  [Japan] ASEAN＋3 経済の減速リスクやインフレ懸念踏まえ“結束”確認  |  [Startup] ‘This is fine’ creator says AI startup stole his art  |  [Malaysia] Meta faces New Mexico trial that could force changes to its platforms</description>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-03.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-03.mp3" length="5643328" type="audio/mpeg" />
-      <itunes:duration>5:52</itunes:duration>
     </item>
   </channel>
 </rss>
