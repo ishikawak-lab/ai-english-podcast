@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-07 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</link>
+      <description>[Startup] OpenAI is still working on that ‘super app’  |  [Japan] Fear and uncertainty for foreign business owners after Japan revises rules  |  [Startup] Agentic AI solved coding — and exposed every other problem in software engineering  |  [Malaysia] Markets may be masking economic cracks behind AI fever  |  [Startup] Is this the dawn of the Tokenpocalypse?</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3" length="6424912" type="audio/mpeg" />
+      <itunes:duration>6:41</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-06 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</link>
       <description>[Startup] The Trump administration might take an equity stake in OpenAI  |  [Startup] Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [Startup] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks  |  [Japan] Japan steps up efforts on cooking oil in race for sustainable aviation fuel​​</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3" length="7546297" type="audio/mpeg" />
       <itunes:duration>7:51</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-04 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3</link>
-      <description>[Startup] Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions  |  [Startup] The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next  |  [Startup] OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO  |  [Startup] Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat  |  [Startup] Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-04.mp3" length="4967071" type="audio/mpeg" />
-      <itunes:duration>5:10</itunes:duration>
     </item>
   </channel>
 </rss>
