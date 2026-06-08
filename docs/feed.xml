@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-08 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</link>
+      <description>[Startup] Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information  |  [Japan] オープンAI 新規株式公開を申請 AI開発大手の上場相次ぐ見通し  |  [Startup] OpenAI files confidentially for IPO, following Anthropic  |  [Startup] Apple plays catch-up at WWDC  |  [AI] Confidential submission of draft S-1 to the SEC</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3" length="4894764" type="audio/mpeg" />
+      <itunes:duration>5:05</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-07 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</link>
       <description>[Startup] OpenAI is still working on that ‘super app’  |  [Japan] Fear and uncertainty for foreign business owners after Japan revises rules  |  [Startup] Agentic AI solved coding — and exposed every other problem in software engineering  |  [Malaysia] Markets may be masking economic cracks behind AI fever  |  [Startup] Is this the dawn of the Tokenpocalypse?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3" length="6113951" type="audio/mpeg" />
       <itunes:duration>6:22</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-06 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</link>
-      <description>[Startup] Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.  |  [Startup] One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it  |  [Japan] Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial  |  [Startup] GPT-5.5 Instant shows you what it remembered — just not all of it  |  [AI] The Download: inside the Musk v. Altman trial, and AI for democracy</description>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-06.mp3" length="7546297" type="audio/mpeg" />
-      <itunes:duration>7:51</itunes:duration>
     </item>
   </channel>
 </rss>
