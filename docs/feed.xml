@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-09 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</link>
+      <description>[Startup] On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.  |  [Startup] Can tech companies learn to love cheaper AI models?  |  [Startup] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more  |  [Startup] Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer  |  [Startup] Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3" length="7206496" type="audio/mpeg" />
+      <itunes:duration>7:30</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-08 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</link>
       <description>[Startup] Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information  |  [Japan] オープンAI 新規株式公開を申請 AI開発大手の上場相次ぐ見通し  |  [Startup] OpenAI files confidentially for IPO, following Anthropic  |  [Startup] Apple plays catch-up at WWDC  |  [AI] Confidential submission of draft S-1 to the SEC</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3" length="5850218" type="audio/mpeg" />
       <itunes:duration>6:05</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-07 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</link>
-      <description>[Startup] How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro  |  [Startup] Agentic economy: The real promise of AI and crypto convergence  |  [Startup] Anthropic Skill scanners passed every check. The malicious code rode in on a test file.  |  [Startup] Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs  |  [Japan] MUFG to form strategic partnership with Google</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-07.mp3" length="6113951" type="audio/mpeg" />
-      <itunes:duration>6:22</itunes:duration>
     </item>
   </channel>
 </rss>
