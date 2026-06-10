@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-10 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</link>
+      <description>[Startup] Researchers say they trained a foundation model from scratch for about $1,500  |  [Startup] Everyone wants a piece of Tesla’s battery business  |  [Startup] Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know  |  [Japan] アメリカ中央軍「イラン国内の複数の標的に攻撃開始」  |  [Startup] xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3" length="6111443" type="audio/mpeg" />
+      <itunes:duration>6:21</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-09 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</link>
       <description>[Startup] On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.  |  [Startup] Can tech companies learn to love cheaper AI models?  |  [Startup] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more  |  [Startup] Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer  |  [Startup] Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3" length="6905147" type="audio/mpeg" />
       <itunes:duration>7:11</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-08 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3</link>
-      <description>[Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Startup] An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.  |  [Startup] Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth  |  [Startup] Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high  |  [Startup] 5,000 vibe-coded apps just proved shadow AI is the new S3 bucket crisis</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-08.mp3" length="5850218" type="audio/mpeg" />
-      <itunes:duration>6:05</itunes:duration>
     </item>
   </channel>
 </rss>
