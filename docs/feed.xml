@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-11 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</link>
+      <description>[Startup] Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit  |  [Japan] 安定的な皇位継承 男系男子の養子案 法整備のあり方論点に  |  [Startup] Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights  |  [Startup] SpaceX officially prices shares at $135 in the largest IPO ever  |  [AI] Google DeepMind is worried about what happens when millions of agents start to interact</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3" length="8498408" type="audio/mpeg" />
+      <itunes:duration>8:51</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-10 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</link>
       <description>[Startup] Researchers say they trained a foundation model from scratch for about $1,500  |  [Startup] Everyone wants a piece of Tesla’s battery business  |  [Startup] Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know  |  [Japan] アメリカ中央軍「イラン国内の複数の標的に攻撃開始」  |  [Startup] xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3" length="6154911" type="audio/mpeg" />
       <itunes:duration>6:24</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-09 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3</link>
-      <description>[Startup] Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth  |  [Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Startup] Intent-based chaos testing is designed for when AI behaves confidently — and wrongly  |  [AI] Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman  |  [Startup] An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.</description>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-09.mp3" length="6905147" type="audio/mpeg" />
-      <itunes:duration>7:11</itunes:duration>
     </item>
   </channel>
 </rss>
