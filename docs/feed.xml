@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-12 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</link>
+      <description>[Japan] 「スペースX」が上場 調達資金 約12兆円は過去最大規模  |  [Malaysia] World’s first gig economy treaty adopted at the ILO  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Japan] 高市首相 重要鉱物「共同備蓄連携構想」提案へ G7サミット  |  [Startup] NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3" length="8058297" type="audio/mpeg" />
+      <itunes:duration>8:23</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-11 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</link>
       <description>[Startup] Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit  |  [Japan] 安定的な皇位継承 男系男子の養子案 法整備のあり方論点に  |  [Startup] Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights  |  [Startup] SpaceX officially prices shares at $135 in the largest IPO ever  |  [AI] Google DeepMind is worried about what happens when millions of agents start to interact</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3" length="7545461" type="audio/mpeg" />
       <itunes:duration>7:51</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-10 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</link>
-      <description>[Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [Startup] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts  |  [Japan] 米ベッセント財務長官 あす来日し高市首相らと会談へ  |  [Startup] OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  |  [Japan] Japan to mull whether to call China 'threat' in key papers</description>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-10.mp3" length="6154911" type="audio/mpeg" />
-      <itunes:duration>6:24</itunes:duration>
     </item>
   </channel>
 </rss>
