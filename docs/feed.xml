@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-13 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</link>
+      <description>[Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do  |  [Startup] KPMG pulls report on AI usage due to apparent hallucinations  |  [Startup] Amazon CEO reportedly raised Anthropic model concerns before government crackdown  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Startup] OpenAI faces investigation from state attorneys general</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3" length="7052269" type="audio/mpeg" />
+      <itunes:duration>7:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-12 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</link>
       <description>[Japan] 「スペースX」が上場 調達資金 約12兆円は過去最大規模  |  [Malaysia] World’s first gig economy treaty adopted at the ILO  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Japan] 高市首相 重要鉱物「共同備蓄連携構想」提案へ G7サミット  |  [Startup] NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3" length="7053941" type="audio/mpeg" />
       <itunes:duration>7:20</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-11 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</link>
-      <description>[Startup] AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.  |  [Startup] Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation  |  [Startup] AI tool poisoning exposes a major flaw in enterprise agent security  |  [AI] OpenAI launches DeployCo to help businesses build around intelligence  |  [RealEstate] Inventory growth making housing more affordable</description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-11.mp3" length="7545461" type="audio/mpeg" />
-      <itunes:duration>7:51</itunes:duration>
     </item>
   </channel>
 </rss>
