@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-14 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</link>
+      <description>[Japan] 【速報】トランプ大統領 「イランとの合意完了 海峡は開放」  |  [Startup] UK may ban social media for children under 16  |  [Japan] 日銀 きょうから金融政策決定会合 利上げを最終判断へ  |  [Malaysia] Trump says deal with Iran is 'now complete'  |  [Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do</description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3" length="5273435" type="audio/mpeg" />
+      <itunes:duration>5:29</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-13 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</link>
       <description>[Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do  |  [Startup] KPMG pulls report on AI usage due to apparent hallucinations  |  [Startup] Amazon CEO reportedly raised Anthropic model concerns before government crackdown  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Startup] OpenAI faces investigation from state attorneys general</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3" length="7957568" type="audio/mpeg" />
       <itunes:duration>8:17</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-12 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</link>
-      <description>[Startup] Musk mulled handing OpenAI to his children, Altman testifies  |  [Startup] Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI &amp; Google  |  [Japan] 新築マンション引き渡し遅延の可能性 通知広がる イラン影響で  |  [AI] The Download: a Nobel winner on AI, and the case for fixing everything  |  [AI] World Models: 10 Things That Matter in AI Right Now</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-12.mp3" length="7053941" type="audio/mpeg" />
-      <itunes:duration>7:20</itunes:duration>
     </item>
   </channel>
 </rss>
