@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-15 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</link>
+      <description>[Japan] 日銀 きょう金融政策決定会合2日目の議論 利上げ判断へ  |  [Startup] The US government’s Anthropic models ban was never about an AI jailbreak  |  [Startup] When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours  |  [Startup] Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization  |  [Startup] SpaceX is public: Everything you need to know post-IPO</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3" length="4761017" type="audio/mpeg" />
+      <itunes:duration>4:57</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-14 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</link>
       <description>[Japan] 【速報】トランプ大統領 「イランとの合意完了 海峡は開放」  |  [Startup] UK may ban social media for children under 16  |  [Japan] 日銀 きょうから金融政策決定会合 利上げを最終判断へ  |  [Malaysia] Trump says deal with Iran is 'now complete'  |  [Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3" length="5731936" type="audio/mpeg" />
       <itunes:duration>5:58</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-13 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</link>
-      <description>[AI] AI chatbots are giving out people’s real phone numbers  |  [Startup] Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead  |  [Startup] Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch  |  [Japan] イラン情勢受け石油供給量は日量1280万バレル減 IEA  |  [Startup] Notion just turned its workspace into a hub for AI agents</description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-13.mp3" length="7957568" type="audio/mpeg" />
-      <itunes:duration>8:17</itunes:duration>
     </item>
   </channel>
 </rss>
