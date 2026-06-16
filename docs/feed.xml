@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-16 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</link>
+      <description>[Startup] Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost  |  [Japan] Nvidia's Jensen Huang says society needs 'new social norms' in the age of AI  |  [Startup] Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents  |  [Startup] Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator  |  [Japan] Bank of Japan takes rates to 1%, the highest level since 1995</description>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3" length="4581712" type="audio/mpeg" />
+      <itunes:duration>4:46</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-15 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</link>
       <description>[Japan] 日銀 きょう金融政策決定会合2日目の議論 利上げ判断へ  |  [Startup] The US government’s Anthropic models ban was never about an AI jailbreak  |  [Startup] When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours  |  [Startup] Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization  |  [Startup] SpaceX is public: Everything you need to know post-IPO</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3" length="7569284" type="audio/mpeg" />
       <itunes:duration>7:53</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-14 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</link>
-      <description>[Startup] What happens when AI starts building itself?  |  [Startup] Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure  |  [RealEstate] The Clarity Act is coming: How real estate tokenization unlocks $40 trillion in dead equity  |  [Startup] The unexpected ways AI is already changing Malaysia’s economy  |  [Japan] 防衛省 地対艦ミサイルのフィリピンへの輸出を検討</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-14.mp3" length="5731936" type="audio/mpeg" />
-      <itunes:duration>5:58</itunes:duration>
     </item>
   </channel>
 </rss>
