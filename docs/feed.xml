@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-17 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-17.mp3</link>
+      <description>[Startup] Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI  |  [Startup] NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI  |  [Startup] AWS enters the context layer race with a graph that learns from agents, not manual curation  |  [Japan] G7サミット閉幕 仏マクロン大統領 “協力実現 大きな転換点”  |  [Startup] ESG as strategic value: Why Asian boards must move beyond disclosure</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-17.mp3" length="7713898" type="audio/mpeg" />
+      <itunes:duration>8:02</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-16 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</link>
       <description>[Startup] Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost  |  [Japan] Nvidia's Jensen Huang says society needs 'new social norms' in the age of AI  |  [Startup] Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents  |  [Startup] Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator  |  [Japan] Bank of Japan takes rates to 1%, the highest level since 1995</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-16.mp3" length="8268112" type="audio/mpeg" />
       <itunes:duration>8:36</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-15 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</link>
-      <description>[Startup] How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%  |  [Startup] Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent  |  [Startup] Claude’s next enterprise battle is not models: it’s the agent control plane  |  [Startup] Tesla reveals two Robotaxi crashes involving teleoperators  |  [Startup] Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-15.mp3" length="7569284" type="audio/mpeg" />
-      <itunes:duration>7:53</itunes:duration>
     </item>
   </channel>
 </rss>
