@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-20 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</link>
+      <description>[AI] A startup claims it broke through a bottleneck that’s holding back LLMs  |  [Japan] Japan to enhance global cooperation on AI risks  |  [Startup] Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’  |  [Startup] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic  |  [Malaysia] Rise above hate peddled by certain leaders, says Anwar</description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3" length="6199632" type="audio/mpeg" />
+      <itunes:duration>6:27</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-19 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-19.mp3</link>
       <description>[Startup] Is the US government’s Anthropic ban accidentally helping the brand?  |  [AI] A startup claims it broke through a bottleneck that’s holding back LLMs  |  [Startup] Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem  |  [Startup] Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters  |  [Japan] Yen nears four-decade low, and Katayama issues warning</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3" length="4879299" type="audio/mpeg" />
       <itunes:duration>5:04</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-17 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3</link>
-      <description>[Startup] Why trust is a big question at the Elon Musk-OpenAI trial  |  [Japan] 米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず  |  [Startup] Apple’s Siri revamp could include auto-deleting chats  |  [Startup] TechCrunch Mobility: The AI skills arms race is coming for automotive  |  [Startup] Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production</description>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-17.mp3" length="6873382" type="audio/mpeg" />
-      <itunes:duration>7:09</itunes:duration>
     </item>
   </channel>
 </rss>
