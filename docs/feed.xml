@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-21 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3</link>
+      <description>[Japan] U.S. to deploy powerful midrange missile system to Japan for joint drills  |  [Startup] When the Trump administration cracks down on Anthropic, who benefits?  |  [Startup] Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem  |  [Startup] Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27  |  [Japan] 沖縄戦81年 当時の県知事 島田叡の資料50点以上 親族が保管</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3" length="5927123" type="audio/mpeg" />
+      <itunes:duration>6:10</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-20 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</link>
       <description>[AI] A startup claims it broke through a bottleneck that’s holding back LLMs  |  [Japan] Japan to enhance global cooperation on AI risks  |  [Startup] Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’  |  [Startup] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic  |  [Malaysia] Rise above hate peddled by certain leaders, says Anwar</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-19.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-19.mp3" length="5177722" type="audio/mpeg" />
       <itunes:duration>5:23</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-18 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3</link>
-      <description>[Startup] Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering  |  [Startup] The agentic shift: Why AI agents are rewriting the rules of ERP software in Singapore and Malaysia  |  [Japan] トランプ大統領 “19日に予定のイランへの軍事攻撃 停止指示”  |  [Startup] SandboxAQ brings its drug discovery models to Claude — no PhD in computing required  |  [Startup] Elon Musk has lost his lawsuit against Sam Altman and OpenAI</description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-18.mp3" length="4879299" type="audio/mpeg" />
-      <itunes:duration>5:04</itunes:duration>
     </item>
   </channel>
 </rss>
