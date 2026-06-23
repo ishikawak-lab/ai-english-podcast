@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-23 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</link>
+      <description>[AI] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery  |  [Startup] From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan  |  [AI] Helping build shared standards for advanced AI  |  [Startup] Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism  |  [Startup] Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license</description>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3" length="6070901" type="audio/mpeg" />
+      <itunes:duration>6:19</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-22 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3</link>
       <description>[Startup] Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away  |  [Japan] 円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も  |  [Startup] Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%  |  [RealEstate] Will the Fed really hike rates 3 times in 2026, per Bank of America?  |  [Startup] Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3" length="6197542" type="audio/mpeg" />
       <itunes:duration>6:27</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-20 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3</link>
-      <description>[Startup] Anthropic will pay xAI $1.25B per month for compute  |  [Startup] Sam Altman makes ‘mic drop’ offer to every Y Combinator startup  |  [Startup] Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds  |  [AI] An OpenAI model has disproved a central conjecture in discrete geometry  |  [Malaysia] Nvidia posts record US$81.6bil quarterly revenue on AI spending boom</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-20.mp3" length="6181660" type="audio/mpeg" />
-      <itunes:duration>6:26</itunes:duration>
     </item>
   </channel>
 </rss>
