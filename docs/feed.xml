@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-24 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</link>
+      <description>[Startup] Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026  |  [Startup] Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks  |  [Startup] Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most  |  [Startup] How Shopify built an AI stack that doesn't care which models survive  |  [Japan] Japan unveils $2.3 trillion investment plan for next 14 years</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3" length="6461275" type="audio/mpeg" />
+      <itunes:duration>6:43</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-23 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</link>
       <description>[AI] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery  |  [Startup] From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan  |  [AI] Helping build shared standards for advanced AI  |  [Startup] Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism  |  [Startup] Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-22.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-22.mp3" length="8885020" type="audio/mpeg" />
       <itunes:duration>9:15</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-21 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3</link>
-      <description>[Startup] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes  |  [AI] Roundtables: Can AI Learn to Understand the World?  |  [Startup] A 0.12% parameter add-on gives AI agents the working memory RAG can't  |  [Startup] Enterprise AI agents keep failing because they forget what they learned  |  [Startup] Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-21.mp3" length="6197542" type="audio/mpeg" />
-      <itunes:duration>6:27</itunes:duration>
     </item>
   </channel>
 </rss>
