@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-25 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3</link>
+      <description>[AI] IBM has unveiled chip technology that could help extend Moore’s Law another decade  |  [Startup] Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents  |  [Startup] OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API  |  [Startup] How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses  |  [AI] The math behind the OpenAI Jalapeño chip</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3" length="5399658" type="audio/mpeg" />
+      <itunes:duration>5:37</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-24 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</link>
       <description>[Startup] Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026  |  [Startup] Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks  |  [Startup] Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most  |  [Startup] How Shopify built an AI stack that doesn't care which models survive  |  [Japan] Japan unveils $2.3 trillion investment plan for next 14 years</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-23.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-23.mp3" length="8105108" type="audio/mpeg" />
       <itunes:duration>8:26</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-22 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-22.mp3</link>
-      <description>[Japan] 米軍岩国基地 核兵器扱う部隊 配備示す軍の内部資料残る  |  [Japan] NPT再検討会議「最終文書」採択できず閉会へ 米イランが対立  |  [Startup] Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code  |  [Startup] Building the ASEAN AI archipelago: How Southeast Asia can secure its place in the global AI value chain  |  [Startup] The US$1M per person revolution: How AI is reshaping Southeast Asia’s startup landscape</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-22.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-22.mp3" length="8885020" type="audio/mpeg" />
-      <itunes:duration>9:15</itunes:duration>
     </item>
   </channel>
 </rss>
