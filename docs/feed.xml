@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-26 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3</link>
+      <description>[Startup] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Startup] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)  |  [AI] Previewing GPT-5.6 Sol: a next-generation model  |  [Startup] Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3" length="6044987" type="audio/mpeg" />
+      <itunes:duration>6:17</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-25 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3</link>
       <description>[AI] IBM has unveiled chip technology that could help extend Moore’s Law another decade  |  [Startup] Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents  |  [Startup] OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API  |  [Startup] How Southeast Asia’s agritech startups are turning smallholder farms into high-tech powerhouses  |  [AI] The math behind the OpenAI Jalapeño chip</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3" length="6085947" type="audio/mpeg" />
       <itunes:duration>6:20</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-23 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-23.mp3</link>
-      <description>[Japan] 細かい凹凸で空気抵抗抑える可能性 航空機へ応用目指す 東北大  |  [Japan] カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初  |  [AI] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models  |  [Startup] Elon Musk has given up on solar power (on Earth)  |  [Startup] Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code</description>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-23.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-23.mp3" length="8105108" type="audio/mpeg" />
-      <itunes:duration>8:26</itunes:duration>
     </item>
   </channel>
 </rss>
