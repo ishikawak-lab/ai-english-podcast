@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-27 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</link>
+      <description>[Startup] Claude Code turned every engineer into three. Now companies need more product thinkers  |  [Startup] Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on  |  [Japan] 「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害  |  [Japan] 豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に  |  [Startup] Apple Vision Pro exec is reportedly leaving for OpenAI</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3" length="8766737" type="audio/mpeg" />
+      <itunes:duration>9:07</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-26 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3</link>
       <description>[Startup] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Startup] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)  |  [AI] Previewing GPT-5.6 Sol: a next-generation model  |  [Startup] Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3" length="5589830" type="audio/mpeg" />
       <itunes:duration>5:49</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-24 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3</link>
-      <description>[Startup] AI agents are quietly generating chaos engineering failures enterprises don’t track yet  |  [Malaysia] Malaysia to take Israeli abuses during Gaza flotilla mission to international court  |  [Japan] ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ  |  [Startup] Everyone is navigating AI security in real time — even Google  |  [Startup] Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry</description>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-24.mp3" length="6085947" type="audio/mpeg" />
-      <itunes:duration>6:20</itunes:duration>
     </item>
   </channel>
 </rss>
