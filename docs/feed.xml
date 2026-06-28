@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-28 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</link>
+      <description>[Startup] Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers  |  [Startup] Ford rehires ‘gray beard’ engineers after AI falls short  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Japan] A Taiwan crisis and America’s faltering industrial base  |  [Startup] Claude Code turned every engineer into three. Now companies need more product thinkers</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3" length="6154911" type="audio/mpeg" />
+      <itunes:duration>6:24</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-27 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</link>
       <description>[Startup] Claude Code turned every engineer into three. Now companies need more product thinkers  |  [Startup] Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on  |  [Japan] 「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害  |  [Japan] 豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に  |  [Startup] Apple Vision Pro exec is reportedly leaving for OpenAI</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3" length="6337141" type="audio/mpeg" />
       <itunes:duration>6:36</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-25 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</link>
-      <description>[Startup] Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk  |  [Startup] What ClickUp’s mass layoff tells us about the future of work  |  [Japan] Nikkei 225 stock average tops 65,000 for first time  |  [Startup] The pope’s AI encyclical isn’t really about AI  |  [RealEstate] What happens to mortgage rates if the Iran conflict is over?</description>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-25.mp3" length="5589830" type="audio/mpeg" />
-      <itunes:duration>5:49</itunes:duration>
     </item>
   </channel>
 </rss>
