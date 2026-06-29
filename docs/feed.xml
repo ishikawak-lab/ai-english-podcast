@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-29 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</link>
+      <description>[Japan] 円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に  |  [Startup] The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.  |  [Startup] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%  |  [AI] Mapping Europe’s AI Workforce Opportunity  |  [AI] AI agents are not your “coworkers”</description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3" length="5528390" type="audio/mpeg" />
+      <itunes:duration>5:45</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-28 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</link>
       <description>[Startup] Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers  |  [Startup] Ford rehires ‘gray beard’ engineers after AI falls short  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Japan] A Taiwan crisis and America’s faltering industrial base  |  [Startup] Claude Code turned every engineer into three. Now companies need more product thinkers</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3" length="6476321" type="audio/mpeg" />
       <itunes:duration>6:44</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-26 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</link>
-      <description>[Startup] The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.  |  [Startup] This startup is betting India’s gig economy can train the world’s robots  |  [Startup] Beyond the buzz: How AI and sustainability are reshaping design, manufacturing, and construction in APAC  |  [Startup] OpenRouter more than doubles valuation to $1.3B in a year  |  [Startup] Starship’s path to reusability looks murky after SpaceX’s S-1</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-26.mp3" length="6337141" type="audio/mpeg" />
-      <itunes:duration>6:36</itunes:duration>
     </item>
   </channel>
 </rss>
