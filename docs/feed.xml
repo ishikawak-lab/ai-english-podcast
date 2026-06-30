@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-06-30 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3</link>
+      <description>[Startup] Realta Fusion generates electricity directly from a fusion reaction, an apparent first  |  [Japan] 1ドル＝162円台後半に値下がり 日米の金利差拡大などで  |  [Japan] 皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に  |  [AI] Claude Science is Anthropic’s newest flagship product  |  [Malaysia] CIA boss compares cutting-edge AI to nuclear weapons</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3" length="5299766" type="audio/mpeg" />
+      <itunes:duration>5:31</itunes:duration>
+    </item>
+    <item>
       <title>2026-06-29 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</link>
       <description>[Japan] 円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に  |  [Startup] The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.  |  [Startup] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%  |  [AI] Mapping Europe’s AI Workforce Opportunity  |  [AI] AI agents are not your “coworkers”</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-31.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-31.mp3" length="6110607" type="audio/mpeg" />
       <itunes:duration>6:21</itunes:duration>
-    </item>
-    <item>
-      <title>2026-05-27 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</link>
-      <description>[AI] ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM  |  [Startup] MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost  |  [Startup] In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips  |  [Startup] Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.  |  [AI] Election information and safeguards in 2026</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-05-27.mp3" length="6476321" type="audio/mpeg" />
-      <itunes:duration>6:44</itunes:duration>
     </item>
   </channel>
 </rss>
