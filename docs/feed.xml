@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-02 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</link>
+      <description>[Startup] A warning sign about AI’s real cost, courtesy of Google and Amazon  |  [Startup] New Alibaba AI framework skips loading every tool, cutting agent token use 99%  |  [Japan] Finance Minister Katayama says G7 will discuss AI defense standards  |  [AI] Japan’s answer to its worker shortage: An AI model for 10 million robots  |  [Startup] Meta quietly launches vibe-coded gaming app Pocket</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3" length="1633846" type="audio/mpeg" />
+      <itunes:duration>1:42</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-01 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3</link>
       <description>[Japan] きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整  |  [Startup] SpaceX has an AI device prototype, and it sure sounds phone-ish  |  [Startup] Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?  |  [AI] LLMs are stuck in a groupthink groove. This startup is trying to get them out.  |  [Startup] The VCs writing off Indonesia are making a US$300B mistake</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3" length="6550300" type="audio/mpeg" />
       <itunes:duration>6:49</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-01 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-01.mp3</link>
-      <description>[Malaysia] Google parent Alphabet to raise US$80bil to fuel AI expansion  |  [Startup] Alphabet plans to raise $80 billion to pay for AI buildout  |  [AI] The Download: China’s brain implant ambitions  |  [AI] China has approved the world’s first invasive brain-computer chip—here’s what’s next  |  [Startup] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP</description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-01.mp3" length="6064631" type="audio/mpeg" />
-      <itunes:duration>6:19</itunes:duration>
     </item>
   </channel>
 </rss>
