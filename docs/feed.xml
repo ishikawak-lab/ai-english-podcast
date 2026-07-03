@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-03 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3</link>
+      <description>[Japan] Japan’s 2026 wage talks result in third year of gains above 5%  |  [Japan] Murakami says his novels are ‘different’ from AI literature  |  [AI] A device that revives eyeballs from dead donors could make eye transplants possible  |  [Startup] Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge  |  [Startup] Enterprise infra just became SEA’s most explosive sector, surging 503 per cent YoY</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3" length="7280057" type="audio/mpeg" />
+      <itunes:duration>7:35</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-02 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</link>
       <description>[Startup] A warning sign about AI’s real cost, courtesy of Google and Amazon  |  [Startup] New Alibaba AI framework skips loading every tool, cutting agent token use 99%  |  [Japan] Finance Minister Katayama says G7 will discuss AI defense standards  |  [AI] Japan’s answer to its worker shortage: An AI model for 10 million robots  |  [Startup] Meta quietly launches vibe-coded gaming app Pocket</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3" length="6439541" type="audio/mpeg" />
       <itunes:duration>6:42</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-02 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</link>
-      <description>[Malaysia] Microsoft unveils AI models in push for independence from OpenAI  |  [Malaysia] Stalled Mideast peace talks send oil soaring, tech lifts stocks  |  [Startup] Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary  |  [Startup] Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board  |  [Startup] Perplexity AI unveils hybrid local-cloud inference system at Computex 2026</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-02.mp3" length="6550300" type="audio/mpeg" />
-      <itunes:duration>6:49</itunes:duration>
     </item>
   </channel>
 </rss>
