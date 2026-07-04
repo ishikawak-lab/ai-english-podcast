@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-04 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3</link>
+      <description>[Startup] How America's 250th birthday became a test of AI-powered collective intelligence  |  [Japan] はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ  |  [Startup] What is Mistral AI? Everything to know about the OpenAI competitor  |  [Startup] Alibaba reportedly bans employees from using Claude Code  |  [Startup] Midjourney wants Hollywood studios to reveal the details of their AI usage</description>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3" length="7775338" type="audio/mpeg" />
+      <itunes:duration>8:05</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-03 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3</link>
       <description>[Japan] Japan’s 2026 wage talks result in third year of gains above 5%  |  [Japan] Murakami says his novels are ‘different’ from AI literature  |  [AI] A device that revives eyeballs from dead donors could make eye transplants possible  |  [Startup] Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge  |  [Startup] Enterprise infra just became SEA’s most explosive sector, surging 503 per cent YoY</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3" length="5980204" type="audio/mpeg" />
       <itunes:duration>6:13</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-03 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</link>
-      <description>[Startup] Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal  |  [Startup] Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop  |  [Startup] Cool Japan backs JumpStart’s Series C as vending machines reshape Indonesian retail  |  [Malaysia] SpaceX aims to raise record US$75bil in stock market debut  |  [AI] A blueprint for democratic governance of frontier AI</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-03.mp3" length="6439541" type="audio/mpeg" />
-      <itunes:duration>6:42</itunes:duration>
     </item>
   </channel>
 </rss>
