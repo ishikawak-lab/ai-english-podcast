@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-05 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</link>
+      <description>[Japan] Hayabusa2 flies past asteroid as Japan aims to acquire data for planetary defense  |  [Startup] Trump memecoin investors lost $3.8 billion, analysis finds  |  [Japan] 野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ  |  [Japan] ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出  |  [Japan] Djokovic makes history, Osaka sends Sabalenka crashing out of Wimbledon</description>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3" length="5731100" type="audio/mpeg" />
+      <itunes:duration>5:58</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-04 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3</link>
       <description>[Startup] How America's 250th birthday became a test of AI-powered collective intelligence  |  [Japan] はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ  |  [Startup] What is Mistral AI? Everything to know about the OpenAI competitor  |  [Startup] Alibaba reportedly bans employees from using Claude Code  |  [Startup] Midjourney wants Hollywood studios to reveal the details of their AI usage</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3" length="6164524" type="audio/mpeg" />
       <itunes:duration>6:25</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-04 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</link>
-      <description>[Startup] Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up  |  [Japan] 原発 2040年代までに2～5基建て替えの目標 政府  |  [AI] How courts are coping with a flood of AI-generated lawsuits  |  [Startup] Apple approves Poke as the first AI agent on its Messages for Business platform  |  [Japan] Japan’s new growth strategy to promote overseas investment</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-04.mp3" length="5980204" type="audio/mpeg" />
-      <itunes:duration>6:13</itunes:duration>
     </item>
   </channel>
 </rss>
