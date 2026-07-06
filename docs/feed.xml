@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-06 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</link>
+      <description>[AI] Your family’s $300 stake in OpenAI  |  [Startup] Every major tech layoff in 2026 that has name-checked AI  |  [RealEstate] $95M funding, USLBM deal back Higharc AI push in homebuilding  |  [Startup] Vercel CEO Guillermo Rauch on the fight to split off models from agents  |  [Japan] Japan-linked ships escaping Hormuz in convoy through Iran route</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3" length="6622189" type="audio/mpeg" />
+      <itunes:duration>6:53</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-05 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</link>
       <description>[Japan] Hayabusa2 flies past asteroid as Japan aims to acquire data for planetary defense  |  [Startup] Trump memecoin investors lost $3.8 billion, analysis finds  |  [Japan] 野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ  |  [Japan] ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出  |  [Japan] Djokovic makes history, Osaka sends Sabalenka crashing out of Wimbledon</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3" length="7770323" type="audio/mpeg" />
       <itunes:duration>8:05</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-05 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</link>
-      <description>[Startup] Google will pay SpaceX $920M per month for compute  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [AI] The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains  |  [AI] Are AI chatbots making us lose control of our brains?  |  [Japan] 安定的な皇位継承 とりまとめ案 8日に各党・各会派に提示へ</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-05.mp3" length="6164524" type="audio/mpeg" />
-      <itunes:duration>6:25</itunes:duration>
     </item>
   </channel>
 </rss>
