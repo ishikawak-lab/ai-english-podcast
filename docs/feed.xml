@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-07 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</link>
+      <description>[Japan] Global AI industry falls short on safety, think tank warns  |  [Japan] リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も  |  [Startup] Why the rise of open source AI isn’t hurting Anthropic … yet  |  [Startup] The real cost, security, and culture problems behind enterprise AI agents  |  [Japan] ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3" length="6862097" type="audio/mpeg" />
+      <itunes:duration>7:08</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-06 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</link>
       <description>[AI] Your family’s $300 stake in OpenAI  |  [Startup] Every major tech layoff in 2026 that has name-checked AI  |  [RealEstate] $95M funding, USLBM deal back Higharc AI push in homebuilding  |  [Startup] Vercel CEO Guillermo Rauch on the fight to split off models from agents  |  [Japan] Japan-linked ships escaping Hormuz in convoy through Iran route</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3" length="6424912" type="audio/mpeg" />
       <itunes:duration>6:41</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-06 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</link>
-      <description>[Startup] The Trump administration might take an equity stake in OpenAI  |  [Startup] Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  |  [Startup] Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.  |  [Startup] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks  |  [Japan] Japan steps up efforts on cooking oil in race for sustainable aviation fuel​​</description>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-06.mp3" length="7770323" type="audio/mpeg" />
-      <itunes:duration>8:05</itunes:duration>
     </item>
   </channel>
 </rss>
