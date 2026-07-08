@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-08 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</link>
+      <description>[Startup] OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person  |  [Startup] SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’  |  [AI] Our approach to government and national security partnerships  |  [Startup] With EU backing, QuantumDiamonds aims to speed up chip manufacturing  |  [Startup] Southeast Asia’s AI buildout is racing toward a power wall</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3" length="4739283" type="audio/mpeg" />
+      <itunes:duration>4:56</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-07 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</link>
       <description>[Japan] Global AI industry falls short on safety, think tank warns  |  [Japan] リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も  |  [Startup] Why the rise of open source AI isn’t hurting Anthropic … yet  |  [Startup] The real cost, security, and culture problems behind enterprise AI agents  |  [Japan] ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3" length="4894764" type="audio/mpeg" />
       <itunes:duration>5:05</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-07 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</link>
-      <description>[Startup] OpenAI is still working on that ‘super app’  |  [Japan] Fear and uncertainty for foreign business owners after Japan revises rules  |  [Startup] Agentic AI solved coding — and exposed every other problem in software engineering  |  [Malaysia] Markets may be masking economic cracks behind AI fever  |  [Startup] Is this the dawn of the Tokenpocalypse?</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-07.mp3" length="6424912" type="audio/mpeg" />
-      <itunes:duration>6:41</itunes:duration>
     </item>
   </channel>
 </rss>
