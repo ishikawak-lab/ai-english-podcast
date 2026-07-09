@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-09 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</link>
+      <description>[Startup] OpenAI launches its new family of models with GPT-5.6  |  [AI] Anthropic found a hidden space where Claude puzzles over concepts  |  [Startup] An AI agent startup just let its agent run its $100 million fundraise  |  [Startup] Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds  |  [Startup] Can AI answer the $3 trillion question?</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3" length="5538421" type="audio/mpeg" />
+      <itunes:duration>5:46</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-08 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</link>
       <description>[Startup] OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person  |  [Startup] SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’  |  [AI] Our approach to government and national security partnerships  |  [Startup] With EU backing, QuantumDiamonds aims to speed up chip manufacturing  |  [Startup] Southeast Asia’s AI buildout is racing toward a power wall</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3" length="7206496" type="audio/mpeg" />
       <itunes:duration>7:30</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-08 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</link>
-      <description>[Startup] Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information  |  [Japan] オープンAI 新規株式公開を申請 AI開発大手の上場相次ぐ見通し  |  [Startup] OpenAI files confidentially for IPO, following Anthropic  |  [Startup] Apple plays catch-up at WWDC  |  [AI] Confidential submission of draft S-1 to the SEC</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-08.mp3" length="4894764" type="audio/mpeg" />
-      <itunes:duration>5:05</itunes:duration>
     </item>
   </channel>
 </rss>
