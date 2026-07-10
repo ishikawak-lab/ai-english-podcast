@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-10 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3</link>
+      <description>[Malaysia] Apple sues OpenAI for trade secrets violations  |  [Japan] Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets  |  [Startup] Apple sues OpenAI over alleged trade secret theft  |  [Startup] SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs  |  [Startup] OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3" length="6818630" type="audio/mpeg" />
+      <itunes:duration>7:06</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-09 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</link>
       <description>[Startup] OpenAI launches its new family of models with GPT-5.6  |  [AI] Anthropic found a hidden space where Claude puzzles over concepts  |  [Startup] An AI agent startup just let its agent run its $100 million fundraise  |  [Startup] Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds  |  [Startup] Can AI answer the $3 trillion question?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3" length="6111443" type="audio/mpeg" />
       <itunes:duration>6:21</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-09 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</link>
-      <description>[Startup] On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.  |  [Startup] Can tech companies learn to love cheaper AI models?  |  [Startup] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more  |  [Startup] Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer  |  [Startup] Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-09.mp3" length="7206496" type="audio/mpeg" />
-      <itunes:duration>7:30</itunes:duration>
     </item>
   </channel>
 </rss>
