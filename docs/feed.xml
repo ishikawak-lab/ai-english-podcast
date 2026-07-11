@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-11 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3</link>
+      <description>[Malaysia] PRN Johor: BN rasmi menang 48 kerusi  |  [Startup] Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools  |  [Japan] Japan weighing AI agents for understaffed local governments  |  [Japan] 新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か  |  [Startup] OpenAI bets on families as ChatGPT goes deeper into households</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3" length="7114963" type="audio/mpeg" />
+      <itunes:duration>7:24</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-10 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3</link>
       <description>[Malaysia] Apple sues OpenAI for trade secrets violations  |  [Japan] Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets  |  [Startup] Apple sues OpenAI over alleged trade secret theft  |  [Startup] SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs  |  [Startup] OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3" length="8498408" type="audio/mpeg" />
       <itunes:duration>8:51</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-10 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</link>
-      <description>[Startup] Researchers say they trained a foundation model from scratch for about $1,500  |  [Startup] Everyone wants a piece of Tesla’s battery business  |  [Startup] Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know  |  [Japan] アメリカ中央軍「イラン国内の複数の標的に攻撃開始」  |  [Startup] xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-10.mp3" length="6111443" type="audio/mpeg" />
-      <itunes:duration>6:21</itunes:duration>
     </item>
   </channel>
 </rss>
