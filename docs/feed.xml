@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-12 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3</link>
+      <description>[Japan] 南シナ海仲裁判断10年 14か国共同声明に中国が反論  |  [Startup] TechCrunch Mobility: A robotaxi ultimatum  |  [Startup] DeepSeek cut prices 75%. The 100x problem remains  |  [Startup] OpenAI bets on families as ChatGPT goes deeper into households  |  [Startup] Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3" length="6129415" type="audio/mpeg" />
+      <itunes:duration>6:23</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-11 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3</link>
       <description>[Malaysia] PRN Johor: BN rasmi menang 48 kerusi  |  [Startup] Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools  |  [Japan] Japan weighing AI agents for understaffed local governments  |  [Japan] 新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か  |  [Startup] OpenAI bets on families as ChatGPT goes deeper into households</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3" length="8058297" type="audio/mpeg" />
       <itunes:duration>8:23</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-11 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</link>
-      <description>[Startup] Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit  |  [Japan] 安定的な皇位継承 男系男子の養子案 法整備のあり方論点に  |  [Startup] Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights  |  [Startup] SpaceX officially prices shares at $135 in the largest IPO ever  |  [AI] Google DeepMind is worried about what happens when millions of agents start to interact</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-11.mp3" length="8498408" type="audio/mpeg" />
-      <itunes:duration>8:51</itunes:duration>
     </item>
   </channel>
 </rss>
