@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-13 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3</link>
+      <description>[Startup] Satya Nadella has issued a shocking warning to companies using AI  |  [Japan] アメリカ中央軍 “イランに3日連続 攻撃開始”  |  [Startup] Investors send General Fusion soaring in debut as first publicly traded fusion company  |  [RealEstate] Can mortgage rates survive hawkish Fed talk during inflation week?  |  [AI] What Anthropic’s latest AI discovery does—and doesn’t—show</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3" length="6337977" type="audio/mpeg" />
+      <itunes:duration>6:36</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-12 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3</link>
       <description>[Japan] 南シナ海仲裁判断10年 14か国共同声明に中国が反論  |  [Startup] TechCrunch Mobility: A robotaxi ultimatum  |  [Startup] DeepSeek cut prices 75%. The 100x problem remains  |  [Startup] OpenAI bets on families as ChatGPT goes deeper into households  |  [Startup] Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3" length="7052269" type="audio/mpeg" />
       <itunes:duration>7:20</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-12 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</link>
-      <description>[Japan] 「スペースX」が上場 調達資金 約12兆円は過去最大規模  |  [Malaysia] World’s first gig economy treaty adopted at the ILO  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Japan] 高市首相 重要鉱物「共同備蓄連携構想」提案へ G7サミット  |  [Startup] NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-12.mp3" length="8058297" type="audio/mpeg" />
-      <itunes:duration>8:23</itunes:duration>
     </item>
   </channel>
 </rss>
