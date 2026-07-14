@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-14 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</link>
+      <description>[Startup] Apple opens its new Siri AI to everyone with the iOS 27 public beta  |  [Startup] OpenAI’s new flagship model deletes files on its own, people keep warning  |  [AI] PsiQuantum has a plan to make a massive quantum computer out of light  |  [Startup] Canva launches Code 2.0, offering AI website building to every user — including free accounts  |  [AI] The Download: Claude’s inner workings, and the future of world models</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3" length="6005699" type="audio/mpeg" />
+      <itunes:duration>6:15</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-13 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3</link>
       <description>[Startup] Satya Nadella has issued a shocking warning to companies using AI  |  [Japan] アメリカ中央軍 “イランに3日連続 攻撃開始”  |  [Startup] Investors send General Fusion soaring in debut as first publicly traded fusion company  |  [RealEstate] Can mortgage rates survive hawkish Fed talk during inflation week?  |  [AI] What Anthropic’s latest AI discovery does—and doesn’t—show</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3" length="5273435" type="audio/mpeg" />
       <itunes:duration>5:29</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-13 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</link>
-      <description>[Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do  |  [Startup] KPMG pulls report on AI usage due to apparent hallucinations  |  [Startup] Amazon CEO reportedly raised Anthropic model concerns before government crackdown  |  [Startup] Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations  |  [Startup] OpenAI faces investigation from state attorneys general</description>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-13.mp3" length="7052269" type="audio/mpeg" />
-      <itunes:duration>7:20</itunes:duration>
     </item>
   </channel>
 </rss>
