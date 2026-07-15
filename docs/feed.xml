@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-15 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3</link>
+      <description>[AI] Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer  |  [Startup] Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'  |  [Startup] The Nvidia clampdown is a warning for Southeast Asia’s AI boom  |  [Japan] 利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞  |  [Japan] China outpolls U.S., and Xi beats Trump, in Pew survey</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3" length="6747995" type="audio/mpeg" />
+      <itunes:duration>7:01</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-14 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</link>
       <description>[Startup] Apple opens its new Siri AI to everyone with the iOS 27 public beta  |  [Startup] OpenAI’s new flagship model deletes files on its own, people keep warning  |  [AI] PsiQuantum has a plan to make a massive quantum computer out of light  |  [Startup] Canva launches Code 2.0, offering AI website building to every user — including free accounts  |  [AI] The Download: Claude’s inner workings, and the future of world models</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3" length="4761017" type="audio/mpeg" />
       <itunes:duration>4:57</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-14 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</link>
-      <description>[Japan] 【速報】トランプ大統領 「イランとの合意完了 海峡は開放」  |  [Startup] UK may ban social media for children under 16  |  [Japan] 日銀 きょうから金融政策決定会合 利上げを最終判断へ  |  [Malaysia] Trump says deal with Iran is 'now complete'  |  [Startup] Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do</description>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-14.mp3" length="5273435" type="audio/mpeg" />
-      <itunes:duration>5:29</itunes:duration>
     </item>
   </channel>
 </rss>
