@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-16 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3</link>
+      <description>[Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [Startup] The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix  |  [Startup] 163,000 workers, 37% training: Malaysia’s AI skills gap in focus  |  [Startup] Google Vids now lets you star in your own AI videos</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3" length="6895534" type="audio/mpeg" />
+      <itunes:duration>7:10</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-15 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3</link>
       <description>[AI] Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer  |  [Startup] Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'  |  [Startup] The Nvidia clampdown is a warning for Southeast Asia’s AI boom  |  [Japan] 利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞  |  [Japan] China outpolls U.S., and Xi beats Trump, in Pew survey</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3" length="4581712" type="audio/mpeg" />
       <itunes:duration>4:46</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-15 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</link>
-      <description>[Japan] 日銀 きょう金融政策決定会合2日目の議論 利上げ判断へ  |  [Startup] The US government’s Anthropic models ban was never about an AI jailbreak  |  [Startup] When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours  |  [Startup] Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization  |  [Startup] SpaceX is public: Everything you need to know post-IPO</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-15.mp3" length="4761017" type="audio/mpeg" />
-      <itunes:duration>4:57</itunes:duration>
     </item>
   </channel>
 </rss>
