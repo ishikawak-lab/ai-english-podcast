@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-17 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3</link>
+      <description>[Japan] Chinese AI model takes U.S. tech industry by surprise with abilities rivaling Claude and ChatGPT  |  [Japan] 改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府  |  [Startup] pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race  |  [Startup] How IPHatch is turning dormant MNC patents into startup equity across Asia  |  [Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3" length="5731100" type="audio/mpeg" />
+      <itunes:duration>5:58</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-16 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3</link>
       <description>[Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [Startup] The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix  |  [Startup] 163,000 workers, 37% training: Malaysia’s AI skills gap in focus  |  [Startup] Google Vids now lets you star in your own AI videos</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-17.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-17.mp3" length="7713898" type="audio/mpeg" />
       <itunes:duration>8:02</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-16 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</link>
-      <description>[Startup] Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost  |  [Japan] Nvidia's Jensen Huang says society needs 'new social norms' in the age of AI  |  [Startup] Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents  |  [Startup] Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator  |  [Japan] Bank of Japan takes rates to 1%, the highest level since 1995</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-16.mp3" length="4581712" type="audio/mpeg" />
-      <itunes:duration>4:46</itunes:duration>
     </item>
   </channel>
 </rss>
