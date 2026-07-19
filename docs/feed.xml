@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-19 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-19.mp3</link>
+      <description>[Startup] Netflix paid $587M for Ben Affleck’s AI filmmaking startup  |  [Startup] What to watch for after Jensen Huang’s Japan visit  |  [Startup] Can an Apple lawsuit derail OpenAI’s hardware plans?  |  [Startup] The cleanup trap: Stop asking RAG to fix bad data  |  [Japan] Japanese officials open X accounts to counter China’s cognitive warfare</description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-19.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-19.mp3" length="5890342" type="audio/mpeg" />
+      <itunes:duration>6:08</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-18 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-18.mp3</link>
       <description>[RealEstate] Can the housing market weather Iran conflict 2.0 and higher rates?  |  [Startup] Kimi: Threat or menace?  |  [Japan] きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し  |  [Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems  |  [AI] The Download: OpenAI unveils GPT-Red and heat pumps rise in the US</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3" length="6199632" type="audio/mpeg" />
       <itunes:duration>6:27</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-19 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-19.mp3</link>
-      <description>[Startup] Is the US government’s Anthropic ban accidentally helping the brand?  |  [AI] A startup claims it broke through a bottleneck that’s holding back LLMs  |  [Startup] Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem  |  [Startup] Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters  |  [Japan] Yen nears four-decade low, and Katayama issues warning</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-19.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-19.mp3" length="6983724" type="audio/mpeg" />
-      <itunes:duration>7:16</itunes:duration>
     </item>
   </channel>
 </rss>
