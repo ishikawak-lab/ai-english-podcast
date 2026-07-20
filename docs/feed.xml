@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-20 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3</link>
+      <description>[Japan] 中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認  |  [Japan] China, Russia navies hold live-fire drills within Japan's EEZ: Koizumi  |  [Startup] Google is working on a new AI chip designed to make Gemini more efficient  |  [Startup] OpenAI is scared of open-weight models. Should the US be?  |  [AI] China’s AI models have Trump’s AI world at war with itself</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3" length="4552873" type="audio/mpeg" />
+      <itunes:duration>4:44</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-19 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-19.mp3</link>
       <description>[Startup] Netflix paid $587M for Ben Affleck’s AI filmmaking startup  |  [Startup] What to watch for after Jensen Huang’s Japan visit  |  [Startup] Can an Apple lawsuit derail OpenAI’s hardware plans?  |  [Startup] The cleanup trap: Stop asking RAG to fix bad data  |  [Japan] Japanese officials open X accounts to counter China’s cognitive warfare</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3" length="5927123" type="audio/mpeg" />
       <itunes:duration>6:10</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-20 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</link>
-      <description>[AI] A startup claims it broke through a bottleneck that’s holding back LLMs  |  [Japan] Japan to enhance global cooperation on AI risks  |  [Startup] Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’  |  [Startup] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic  |  [Malaysia] Rise above hate peddled by certain leaders, says Anwar</description>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-20.mp3" length="6199632" type="audio/mpeg" />
-      <itunes:duration>6:27</itunes:duration>
     </item>
   </channel>
 </rss>
