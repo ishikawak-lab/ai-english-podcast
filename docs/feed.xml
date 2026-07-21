@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-21 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</link>
+      <description>[Japan] Long-term safety of iPS spinal cord therapy confirmed in Japan  |  [AI] Chinese open-weight models are cheap. Washington is deciding what that costs.  |  [AI] The Download: Chinese AI divides the White House, and a record copyright payout  |  [AI] Google’s Gemini 3.6 Flash targets enterprise agent token costs  |  [AI] Introducing the ChatGPT for small business program</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3" length="5129657" type="audio/mpeg" />
+      <itunes:duration>5:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-20 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3</link>
       <description>[Japan] 中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認  |  [Japan] China, Russia navies hold live-fire drills within Japan's EEZ: Koizumi  |  [Startup] Google is working on a new AI chip designed to make Gemini more efficient  |  [Startup] OpenAI is scared of open-weight models. Should the US be?  |  [AI] China’s AI models have Trump’s AI world at war with itself</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3" length="6306630" type="audio/mpeg" />
       <itunes:duration>6:34</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-21 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3</link>
-      <description>[Japan] U.S. to deploy powerful midrange missile system to Japan for joint drills  |  [Startup] When the Trump administration cracks down on Anthropic, who benefits?  |  [Startup] Ecosystem Roundup: Manus buyback is a geopolitical wake‑up call for SEA’s AI ecosystem  |  [Startup] Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27  |  [Japan] 沖縄戦81年 当時の県知事 島田叡の資料50点以上 親族が保管</description>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-21.mp3" length="5927123" type="audio/mpeg" />
-      <itunes:duration>6:10</itunes:duration>
     </item>
   </channel>
 </rss>
