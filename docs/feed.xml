@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-22 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3</link>
+      <description>[Startup] Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable  |  [Startup] OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know  |  [Startup] OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots  |  [Japan] U.S. and China to hold AI talks in September, sources say  |  [Startup] AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3" length="5756595" type="audio/mpeg" />
+      <itunes:duration>5:59</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-21 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</link>
       <description>[Japan] Long-term safety of iPS spinal cord therapy confirmed in Japan  |  [AI] Chinese open-weight models are cheap. Washington is deciding what that costs.  |  [AI] The Download: Chinese AI divides the White House, and a record copyright payout  |  [AI] Google’s Gemini 3.6 Flash targets enterprise agent token costs  |  [AI] Introducing the ChatGPT for small business program</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3" length="6070901" type="audio/mpeg" />
       <itunes:duration>6:19</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-22 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3</link>
-      <description>[Startup] Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away  |  [Japan] 円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も  |  [Startup] Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%  |  [RealEstate] Will the Fed really hike rates 3 times in 2026, per Bank of America?  |  [Startup] Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-22.mp3" length="6306630" type="audio/mpeg" />
-      <itunes:duration>6:34</itunes:duration>
     </item>
   </channel>
 </rss>
