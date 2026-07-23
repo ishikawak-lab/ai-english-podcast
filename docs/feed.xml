@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-23 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3</link>
+      <description>[Startup] Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop  |  [Startup] Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [AI] How AI helps scientists design the next generation of medicines  |  [AI] Supercooled kidneys have been transplanted into pigs in a “landmark achievement”</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3" length="6979962" type="audio/mpeg" />
+      <itunes:duration>7:16</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-22 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3</link>
       <description>[Startup] Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable  |  [Startup] OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know  |  [Startup] OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots  |  [Japan] U.S. and China to hold AI talks in September, sources say  |  [Startup] AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3" length="6461275" type="audio/mpeg" />
       <itunes:duration>6:43</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-23 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</link>
-      <description>[AI] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery  |  [Startup] From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan  |  [AI] Helping build shared standards for advanced AI  |  [Startup] Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism  |  [Startup] Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license</description>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-23.mp3" length="6070901" type="audio/mpeg" />
-      <itunes:duration>6:19</itunes:duration>
     </item>
   </channel>
 </rss>
