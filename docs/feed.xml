@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-24 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3</link>
+      <description>[Startup] VentureBeat Research: Where enterprise AI agent governance hasn't caught up  |  [AI] The quest to keep organs alive outside the body  |  [Startup] Why Cognition bought Poke: AI personality is becoming a competitive advantage  |  [Startup] Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows  |  [AI] The Download: an organ transplant breakthrough, and homegrown Chinese chips</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3" length="6310391" type="audio/mpeg" />
+      <itunes:duration>6:34</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-23 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3</link>
       <description>[Startup] Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop  |  [Startup] Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [AI] How AI helps scientists design the next generation of medicines  |  [AI] Supercooled kidneys have been transplanted into pigs in a “landmark achievement”</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-25.mp3" length="5399658" type="audio/mpeg" />
       <itunes:duration>5:37</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-24 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</link>
-      <description>[Startup] Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026  |  [Startup] Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks  |  [Startup] Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most  |  [Startup] How Shopify built an AI stack that doesn't care which models survive  |  [Japan] Japan unveils $2.3 trillion investment plan for next 14 years</description>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-24.mp3" length="6461275" type="audio/mpeg" />
-      <itunes:duration>6:43</itunes:duration>
     </item>
   </channel>
 </rss>
