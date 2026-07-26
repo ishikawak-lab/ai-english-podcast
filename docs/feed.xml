@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-26 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3</link>
+      <description>[Startup] Making sense of the panic over Chinese AI  |  [Startup] Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack  |  [Startup] Can Apple make smart glasses that aren’t a constant privacy threat?  |  [Startup] TechCrunch Mobility: Uber bets on its former CEO  |  [Startup] Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3" length="5902881" type="audio/mpeg" />
+      <itunes:duration>6:08</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-25 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3</link>
       <description>[Japan] 「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか  |  [Malaysia] Malaysia a homeland and not a place of transit, says Azalina  |  [Japan] 西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ  |  [Startup] Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech  |  [Japan] Takaichi stresses secure crude oil supplies as U.S.-Iran war spirals</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3" length="8766737" type="audio/mpeg" />
       <itunes:duration>9:07</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-26 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3</link>
-      <description>[Startup] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Startup] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)  |  [AI] Previewing GPT-5.6 Sol: a next-generation model  |  [Startup] Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'</description>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-26.mp3" length="6044987" type="audio/mpeg" />
-      <itunes:duration>6:17</itunes:duration>
     </item>
   </channel>
 </rss>
