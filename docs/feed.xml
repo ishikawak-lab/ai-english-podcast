@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-27 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3</link>
+      <description>[Startup] Satya Nadella says companies that trust one AI for everything may not survive  |  [RealEstate] FirstTeam Real Estate, Purlin partner on AI-powered operations  |  [AI] The path to artificial superintelligence  |  [Startup] Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system  |  [Startup] Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3" length="5517523" type="audio/mpeg" />
+      <itunes:duration>5:44</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-26 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3</link>
       <description>[Startup] Making sense of the panic over Chinese AI  |  [Startup] Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack  |  [Startup] Can Apple make smart glasses that aren’t a constant privacy threat?  |  [Startup] TechCrunch Mobility: Uber bets on its former CEO  |  [Startup] Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3" length="6154911" type="audio/mpeg" />
       <itunes:duration>6:24</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-27 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</link>
-      <description>[Startup] Claude Code turned every engineer into three. Now companies need more product thinkers  |  [Startup] Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on  |  [Japan] 「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害  |  [Japan] 豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に  |  [Startup] Apple Vision Pro exec is reportedly leaving for OpenAI</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-27.mp3" length="8766737" type="audio/mpeg" />
-      <itunes:duration>9:07</itunes:duration>
     </item>
   </channel>
 </rss>
