@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-28 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</link>
+      <description>[Startup] Sam Altman is ready to decelerate  |  [Japan] Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?  |  [Startup] Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup  |  [Startup] Instacart's CTO says AI made the company stop worrying about tech debt  |  [Startup] GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3" length="5681363" type="audio/mpeg" />
+      <itunes:duration>5:55</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-27 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3</link>
       <description>[Startup] Satya Nadella says companies that trust one AI for everything may not survive  |  [RealEstate] FirstTeam Real Estate, Purlin partner on AI-powered operations  |  [AI] The path to artificial superintelligence  |  [Startup] Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system  |  [Startup] Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3" length="5528390" type="audio/mpeg" />
       <itunes:duration>5:45</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-28 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</link>
-      <description>[Startup] Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers  |  [Startup] Ford rehires ‘gray beard’ engineers after AI falls short  |  [Startup] OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov  |  [Japan] A Taiwan crisis and America’s faltering industrial base  |  [Startup] Claude Code turned every engineer into three. Now companies need more product thinkers</description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-28.mp3" length="6154911" type="audio/mpeg" />
-      <itunes:duration>6:24</itunes:duration>
     </item>
   </channel>
 </rss>
