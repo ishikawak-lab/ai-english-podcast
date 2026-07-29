@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-29 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</link>
+      <description>[Malaysia] OpenAI says rogue AI agent attack hit other companies  |  [Japan] Japan and Australia vow to boost cooperation on quantum tech  |  [RealEstate] Hawks Lorie Logan and Beth Hammack run the Fed for now  |  [Japan] 熊本県で震度7 同程度の地震に注意 きょうも熱中症対策を  |  [Japan] 【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3" length="5696827" type="audio/mpeg" />
+      <itunes:duration>5:56</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-28 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</link>
       <description>[Startup] Sam Altman is ready to decelerate  |  [Japan] Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?  |  [Startup] Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup  |  [Startup] Instacart's CTO says AI made the company stop worrying about tech debt  |  [Startup] GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3" length="5299766" type="audio/mpeg" />
       <itunes:duration>5:31</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-29 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</link>
-      <description>[Japan] 円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に  |  [Startup] The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.  |  [Startup] DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%  |  [AI] Mapping Europe’s AI Workforce Opportunity  |  [AI] AI agents are not your “coworkers”</description>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-29.mp3" length="5528390" type="audio/mpeg" />
-      <itunes:duration>5:45</itunes:duration>
     </item>
   </channel>
 </rss>
