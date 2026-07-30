@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-30 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</link>
+      <description>[Startup] AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost  |  [Startup] Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI  |  [Startup] Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.  |  [Japan] 熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに  |  [Startup] Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3" length="7283818" type="audio/mpeg" />
+      <itunes:duration>7:35</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-29 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</link>
       <description>[Malaysia] OpenAI says rogue AI agent attack hit other companies  |  [Japan] Japan and Australia vow to boost cooperation on quantum tech  |  [RealEstate] Hawks Lorie Logan and Beth Hammack run the Fed for now  |  [Japan] 熊本県で震度7 同程度の地震に注意 きょうも熱中症対策を  |  [Japan] 【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3" length="6206737" type="audio/mpeg" />
       <itunes:duration>6:27</itunes:duration>
-    </item>
-    <item>
-      <title>2026-06-30 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3</link>
-      <description>[Startup] Realta Fusion generates electricity directly from a fusion reaction, an apparent first  |  [Japan] 1ドル＝162円台後半に値下がり 日米の金利差拡大などで  |  [Japan] 皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に  |  [AI] Claude Science is Anthropic’s newest flagship product  |  [Malaysia] CIA boss compares cutting-edge AI to nuclear weapons</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-06-30.mp3" length="5299766" type="audio/mpeg" />
-      <itunes:duration>5:31</itunes:duration>
     </item>
   </channel>
 </rss>
