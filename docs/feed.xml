@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-07-31 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3</link>
+      <description>[Startup] Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation  |  [Startup] Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations  |  [Japan] 熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表  |  [Startup] Why Southeast Asian enterprises need AI governance before scaling generative AI  |  [Startup] AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3" length="5887835" type="audio/mpeg" />
+      <itunes:duration>6:07</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-30 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</link>
       <description>[Startup] AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost  |  [Startup] Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI  |  [Startup] Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.  |  [Japan] 熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに  |  [Startup] Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3" length="1633846" type="audio/mpeg" />
       <itunes:duration>1:42</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-01 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3</link>
-      <description>[Japan] きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整  |  [Startup] SpaceX has an AI device prototype, and it sure sounds phone-ish  |  [Startup] Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?  |  [AI] LLMs are stuck in a groupthink groove. This startup is trying to get them out.  |  [Startup] The VCs writing off Indonesia are making a US$300B mistake</description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-01.mp3" length="6206737" type="audio/mpeg" />
-      <itunes:duration>6:27</itunes:duration>
     </item>
   </channel>
 </rss>
