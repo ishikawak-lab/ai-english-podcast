@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-01 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3</link>
+      <description>[Startup] Sam Altman is still making the case for parenting via ChatGPT  |  [Japan] 熊本地震 関連調査中含め36人死亡 避難所の熱中症対策を強化へ  |  [Japan] 大分 日田で40度の酷暑日予想 東北は土砂災害に厳重警戒を  |  [Japan] 熊本地震 断水の早期解消へ復旧の取り組み進める 政府  |  [Startup] Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3" length="7042656" type="audio/mpeg" />
+      <itunes:duration>7:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-07-31 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3</link>
       <description>[Startup] Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation  |  [Startup] Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations  |  [Japan] 熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表  |  [Startup] Why Southeast Asian enterprises need AI governance before scaling generative AI  |  [Startup] AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-03.mp3" length="7280057" type="audio/mpeg" />
       <itunes:duration>7:35</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-02 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</link>
-      <description>[Startup] A warning sign about AI’s real cost, courtesy of Google and Amazon  |  [Startup] New Alibaba AI framework skips loading every tool, cutting agent token use 99%  |  [Japan] Finance Minister Katayama says G7 will discuss AI defense standards  |  [AI] Japan’s answer to its worker shortage: An AI model for 10 million robots  |  [Startup] Meta quietly launches vibe-coded gaming app Pocket</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-02.mp3" length="1633846" type="audio/mpeg" />
-      <itunes:duration>1:42</itunes:duration>
     </item>
   </channel>
 </rss>
