@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-03 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</link>
+      <description>[Startup] Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated  |  [Malaysia] When rogue AI launches a cyberattack, who is legally responsible?  |  [Japan] 日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で  |  [AI] How we built a realtime system for responsive voice AI in six months  |  [Startup] AWS is helping vibe-coding startup Superblocks, and the implications are big</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3" length="5981457" type="audio/mpeg" />
+      <itunes:duration>6:13</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-02 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3</link>
       <description>[Startup] Sam Altman and AI’s decel debate  |  [Japan] 日米の協調介入 ことし5月の日米財務相会談から本格調整  |  [Japan] 熊本県 最高気温40度予想 ホテルなど「2次避難」受け付けへ  |  [Malaysia] Japan quake leaves scars beyond the rubble  |  [Japan] 震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3" length="5731100" type="audio/mpeg" />
       <itunes:duration>5:58</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-04 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3</link>
-      <description>[Startup] How America's 250th birthday became a test of AI-powered collective intelligence  |  [Japan] はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ  |  [Startup] What is Mistral AI? Everything to know about the OpenAI competitor  |  [Startup] Alibaba reportedly bans employees from using Claude Code  |  [Startup] Midjourney wants Hollywood studios to reveal the details of their AI usage</description>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-04.mp3" length="7775338" type="audio/mpeg" />
-      <itunes:duration>8:05</itunes:duration>
     </item>
   </channel>
 </rss>
