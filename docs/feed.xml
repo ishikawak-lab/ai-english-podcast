@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-04 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</link>
+      <description>[Japan] 米 ベッセント財務長官 “協調介入は象徴的な意味合い”  |  [Startup] Anthropic signs $10B deal with AI cloud startup Volta  |  [Startup] Open-weight AI models are catching up to the frontier. The safety gap remains.  |  [Startup] Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use  |  [Japan] 公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3" length="5609474" type="audio/mpeg" />
+      <itunes:duration>5:50</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-03 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</link>
       <description>[Startup] Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated  |  [Malaysia] When rogue AI launches a cyberattack, who is legally responsible?  |  [Japan] 日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で  |  [AI] How we built a realtime system for responsive voice AI in six months  |  [Startup] AWS is helping vibe-coding startup Superblocks, and the implications are big</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3" length="6622189" type="audio/mpeg" />
       <itunes:duration>6:53</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-05 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</link>
-      <description>[Japan] Hayabusa2 flies past asteroid as Japan aims to acquire data for planetary defense  |  [Startup] Trump memecoin investors lost $3.8 billion, analysis finds  |  [Japan] 野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ  |  [Japan] ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出  |  [Japan] Djokovic makes history, Osaka sends Sabalenka crashing out of Wimbledon</description>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-05.mp3" length="5731100" type="audio/mpeg" />
-      <itunes:duration>5:58</itunes:duration>
     </item>
   </channel>
 </rss>
