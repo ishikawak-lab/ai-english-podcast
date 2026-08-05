@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-05 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</link>
+      <description>[Startup] Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know  |  [RealEstate] CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots  |  [Japan] 広島 原爆投下から81年 核兵器の廃絶を国内外に訴え  |  [Startup] Meta launches Muse Code, an AI agent for large code bases  |  [Startup] Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents</description>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3" length="5874042" type="audio/mpeg" />
+      <itunes:duration>6:07</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-04 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</link>
       <description>[Japan] 米 ベッセント財務長官 “協調介入は象徴的な意味合い”  |  [Startup] Anthropic signs $10B deal with AI cloud startup Volta  |  [Startup] Open-weight AI models are catching up to the frontier. The safety gap remains.  |  [Startup] Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use  |  [Japan] 公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3" length="6862097" type="audio/mpeg" />
       <itunes:duration>7:08</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-06 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</link>
-      <description>[AI] Your family’s $300 stake in OpenAI  |  [Startup] Every major tech layoff in 2026 that has name-checked AI  |  [RealEstate] $95M funding, USLBM deal back Higharc AI push in homebuilding  |  [Startup] Vercel CEO Guillermo Rauch on the fight to split off models from agents  |  [Japan] Japan-linked ships escaping Hormuz in convoy through Iran route</description>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-06.mp3" length="6622189" type="audio/mpeg" />
-      <itunes:duration>6:53</itunes:duration>
     </item>
   </channel>
 </rss>
