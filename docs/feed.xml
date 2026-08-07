@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-07 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</link>
+      <description>[Japan] Meta says its AI model hacked another company, adding to worries about bots going rogue  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Japan] 4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大  |  [RealEstate] Are data centers the next constraint on affordable housing supply?  |  [Japan] 6月 実質消費支出 7か月連続減少 家計調査</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3" length="7723511" type="audio/mpeg" />
+      <itunes:duration>8:02</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-05 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</link>
       <description>[Startup] Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know  |  [RealEstate] CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots  |  [Japan] 広島 原爆投下から81年 核兵器の廃絶を国内外に訴え  |  [Startup] Meta launches Muse Code, an AI agent for large code bases  |  [Startup] Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3" length="4739283" type="audio/mpeg" />
       <itunes:duration>4:56</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-07 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</link>
-      <description>[Japan] Global AI industry falls short on safety, think tank warns  |  [Japan] リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も  |  [Startup] Why the rise of open source AI isn’t hurting Anthropic … yet  |  [Startup] The real cost, security, and culture problems behind enterprise AI agents  |  [Japan] ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-07.mp3" length="6862097" type="audio/mpeg" />
-      <itunes:duration>7:08</itunes:duration>
     </item>
   </channel>
 </rss>
