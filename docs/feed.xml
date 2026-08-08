@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-08 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</link>
+      <description>[Startup] Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Startup] Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks  |  [Startup] OpenAI acquires presentation startup NextSlide  |  [AI] The Download: a censorship conspiracy theory and the first virus created by AI</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3" length="7300537" type="audio/mpeg" />
+      <itunes:duration>7:36</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-07 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</link>
       <description>[Startup] Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck  |  [AI] The Download: a censorship conspiracy theory and the first virus created by AI  |  [Japan] Japan’s GPIF posts $152 billion gain with help from stocks  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Startup] Cloudflare launches Kitesurf, a browser built for AI agents</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3" length="5538421" type="audio/mpeg" />
       <itunes:duration>5:46</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-08 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</link>
-      <description>[Startup] OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person  |  [Startup] SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’  |  [AI] Our approach to government and national security partnerships  |  [Startup] With EU backing, QuantumDiamonds aims to speed up chip manufacturing  |  [Startup] Southeast Asia’s AI buildout is racing toward a power wall</description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-08.mp3" length="4739283" type="audio/mpeg" />
-      <itunes:duration>4:56</itunes:duration>
     </item>
   </channel>
 </rss>
