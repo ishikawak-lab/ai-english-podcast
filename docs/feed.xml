@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-09 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3</link>
+      <description>[Startup] The AI safety test is becoming a safety risk  |  [Startup] Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry  |  [Startup] Anthropic is turning Claude Code’s auto mode on by default  |  [Startup] TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire  |  [Startup] Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3" length="5923779" type="audio/mpeg" />
+      <itunes:duration>6:10</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-08 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</link>
       <description>[Startup] Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Startup] Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks  |  [Startup] OpenAI acquires presentation startup NextSlide  |  [AI] The Download: a censorship conspiracy theory and the first virus created by AI</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-10.mp3" length="6818630" type="audio/mpeg" />
       <itunes:duration>7:06</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-09 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</link>
-      <description>[Startup] OpenAI launches its new family of models with GPT-5.6  |  [AI] Anthropic found a hidden space where Claude puzzles over concepts  |  [Startup] An AI agent startup just let its agent run its $100 million fundraise  |  [Startup] Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds  |  [Startup] Can AI answer the $3 trillion question?</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-09.mp3" length="5538421" type="audio/mpeg" />
-      <itunes:duration>5:46</itunes:duration>
     </item>
   </channel>
 </rss>
