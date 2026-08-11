@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-11 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3</link>
+      <description>[Startup] SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month  |  [RealEstate] Lenders urged to solve business problems before adopting AI  |  [AI] How the “censorship-industrial complex” is changing the Internet and US policy  |  [Startup] Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests  |  [AI] Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3" length="7481513" type="audio/mpeg" />
+      <itunes:duration>7:47</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-10 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-10.mp3</link>
       <description>[Startup] Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI  |  [Startup] AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push  |  [Startup] Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now  |  [Startup] Tech industry is buzzing after a Claude agent hacked into a gym  |  [Startup] Brex assumes its AI agents could do anything — so it watches the network, not the code</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-12.mp3" length="6129415" type="audio/mpeg" />
       <itunes:duration>6:23</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-11 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3</link>
-      <description>[Malaysia] PRN Johor: BN rasmi menang 48 kerusi  |  [Startup] Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools  |  [Japan] Japan weighing AI agents for understaffed local governments  |  [Japan] 新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か  |  [Startup] OpenAI bets on families as ChatGPT goes deeper into households</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-11.mp3" length="7114963" type="audio/mpeg" />
-      <itunes:duration>7:24</itunes:duration>
     </item>
   </channel>
 </rss>
