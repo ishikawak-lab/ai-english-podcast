@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-13 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3</link>
+      <description>[Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done  |  [Startup] Anthropic set AI agents loose on the same task. They started a turf war.  |  [Startup] IBM partners with OpenAI to bolster enterprise AI push  |  [Japan] Spotify asks creators to label songs when they’re AI-generated  |  [Startup] OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3" length="5586068" type="audio/mpeg" />
+      <itunes:duration>5:49</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-12 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-12.mp3</link>
       <description>[Startup] As AI safety concerns mount, three pioneers make the case for staying open  |  [Startup] SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis  |  [Startup] AI coding startup Cognition reportedly already in talks to raise at $40B valuation  |  [RealEstate] The next phase of The Real Brokerage’s AI is replacing the work, not the agent  |  [RealEstate] MLS leaders say AI requires a new approach to governing real estate data</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3" length="6005699" type="audio/mpeg" />
       <itunes:duration>6:15</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-13 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3</link>
-      <description>[Startup] Satya Nadella has issued a shocking warning to companies using AI  |  [Japan] アメリカ中央軍 “イランに3日連続 攻撃開始”  |  [Startup] Investors send General Fusion soaring in debut as first publicly traded fusion company  |  [RealEstate] Can mortgage rates survive hawkish Fed talk during inflation week?  |  [AI] What Anthropic’s latest AI discovery does—and doesn’t—show</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-13.mp3" length="6337977" type="audio/mpeg" />
-      <itunes:duration>6:36</itunes:duration>
     </item>
   </channel>
 </rss>
