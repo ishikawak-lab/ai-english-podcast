@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-14 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3</link>
+      <description>[Startup] Self-driving trucks are officially testing on California highways  |  [Startup] Ecosystem Roundup: Why “Know Your Agent” will matter as much as KYC in payments  |  [Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done  |  [Startup] Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M  |  [Startup] Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3" length="6048749" type="audio/mpeg" />
+      <itunes:duration>6:18</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-13 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3</link>
       <description>[Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done  |  [Startup] Anthropic set AI agents loose on the same task. They started a turf war.  |  [Startup] IBM partners with OpenAI to bolster enterprise AI push  |  [Japan] Spotify asks creators to label songs when they’re AI-generated  |  [Startup] OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-15.mp3" length="6747995" type="audio/mpeg" />
       <itunes:duration>7:01</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-14 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</link>
-      <description>[Startup] Apple opens its new Siri AI to everyone with the iOS 27 public beta  |  [Startup] OpenAI’s new flagship model deletes files on its own, people keep warning  |  [AI] PsiQuantum has a plan to make a massive quantum computer out of light  |  [Startup] Canva launches Code 2.0, offering AI website building to every user — including free accounts  |  [AI] The Download: Claude’s inner workings, and the future of world models</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-14.mp3" length="6005699" type="audio/mpeg" />
-      <itunes:duration>6:15</itunes:duration>
     </item>
   </channel>
 </rss>
