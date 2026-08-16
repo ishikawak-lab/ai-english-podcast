@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-16 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</link>
+      <description>[Startup] Woman claims her stepfather used Grok to transform childhood photo into explicit imagery  |  [Startup] Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+  |  [Startup] Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’  |  [Startup] Cutting RAG inference costs 6x starts with deciding what never reaches the LLM  |  [Startup] An eval harness found what qualitative review couldn't: AI models are most confident when wrong</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3" length="6182914" type="audio/mpeg" />
+      <itunes:duration>6:26</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-15 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3</link>
       <description>[Startup] An eval harness found what qualitative review couldn't: AI models are most confident when wrong  |  [Startup] Anthropic shares more details about how Claude’s new watermarks will work  |  [Startup] SpaceX officially closes its Cursor acquisition  |  [Startup] Every fusion startup that has raised over $100M  |  [Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3" length="5731100" type="audio/mpeg" />
       <itunes:duration>5:58</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-16 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3</link>
-      <description>[Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [Startup] The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix  |  [Startup] 163,000 workers, 37% training: Malaysia’s AI skills gap in focus  |  [Startup] Google Vids now lets you star in your own AI videos</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-16.mp3" length="6895534" type="audio/mpeg" />
-      <itunes:duration>7:10</itunes:duration>
     </item>
   </channel>
 </rss>
