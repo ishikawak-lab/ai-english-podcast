@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-17 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-17.mp3</link>
+      <description>[Malaysia] Japan sets sights on the moons of Mars  |  [Startup] Malaysia’s sovereign AI bet: Local context becomes the next startup moat  |  [Startup] One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers  |  [Startup] Enterprises with AI context layers report agent failures at more than twice the rate of those without one  |  [Startup] ‘Unprecedented’ number of Apple users received recent spyware alert, say investigators</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-17.mp3" length="7092393" type="audio/mpeg" />
+      <itunes:duration>7:23</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-16 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</link>
       <description>[Startup] Woman claims her stepfather used Grok to transform childhood photo into explicit imagery  |  [Startup] Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+  |  [Startup] Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’  |  [Startup] Cutting RAG inference costs 6x starts with deciding what never reaches the LLM  |  [Startup] An eval harness found what qualitative review couldn't: AI models are most confident when wrong</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-18.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-18.mp3" length="6428674" type="audio/mpeg" />
       <itunes:duration>6:41</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-17 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3</link>
-      <description>[Japan] Chinese AI model takes U.S. tech industry by surprise with abilities rivaling Claude and ChatGPT  |  [Japan] 改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府  |  [Startup] pQCee’s US$3.9M raise puts Singapore in the post-quantum cybersecurity race  |  [Startup] How IPHatch is turning dormant MNC patents into startup equity across Asia  |  [Startup] China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-17.mp3" length="5731100" type="audio/mpeg" />
-      <itunes:duration>5:58</itunes:duration>
     </item>
   </channel>
 </rss>
