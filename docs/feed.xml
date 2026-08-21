@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-21 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</link>
+      <description>[Startup] Nvidia finds that simple linear math can replace costly AI model handoffs  |  [AI] When AI designs a drug, who gets the credit?  |  [Startup] TikTok reaches $400M settlement over children’s privacy lawsuit  |  [Japan] BYD’s tiny car has a big mission in Japan  |  [Startup] Nvidia just showed that the harness, not the AI model, is now the real hero</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3" length="8299041" type="audio/mpeg" />
+      <itunes:duration>8:38</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-20 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3</link>
       <description>[Japan] Why Taiwan and the South China Sea matter to U.S. and the world  |  [Startup] One in five enterprises can't stop a runaway AI agent's spending in real time  |  [Startup] Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience  |  [Malaysia] Independent review needed on US transshipment claims, says shipping CEO  |  [AI] Agentic AI in government just hit the hard part: deciding what a machine may decide</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3" length="5129657" type="audio/mpeg" />
       <itunes:duration>5:20</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-20 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3</link>
-      <description>[Japan] 中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認  |  [Japan] China, Russia navies hold live-fire drills within Japan's EEZ: Koizumi  |  [Startup] Google is working on a new AI chip designed to make Gemini more efficient  |  [Startup] OpenAI is scared of open-weight models. Should the US be?  |  [AI] China’s AI models have Trump’s AI world at war with itself</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-20.mp3" length="4552873" type="audio/mpeg" />
-      <itunes:duration>4:44</itunes:duration>
     </item>
   </channel>
 </rss>
