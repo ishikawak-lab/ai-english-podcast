@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-22 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3</link>
+      <description>[Startup] Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research  |  [Startup] OpenAI says California should strengthen its AI safety bill  |  [Startup] Frontier AI labs still won’t say how they’d contain a rogue model  |  [Startup] Will the DOJ’s investigation into a16z spook other VCs?  |  [Startup] US battery startups have found a lifeline in defense</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3" length="6649774" type="audio/mpeg" />
+      <itunes:duration>6:55</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-21 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</link>
       <description>[Startup] Nvidia finds that simple linear math can replace costly AI model handoffs  |  [AI] When AI designs a drug, who gets the credit?  |  [Startup] TikTok reaches $400M settlement over children’s privacy lawsuit  |  [Japan] BYD’s tiny car has a big mission in Japan  |  [Startup] Nvidia just showed that the harness, not the AI model, is now the real hero</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-22.mp3" length="5756595" type="audio/mpeg" />
       <itunes:duration>5:59</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-21 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</link>
-      <description>[Japan] Long-term safety of iPS spinal cord therapy confirmed in Japan  |  [AI] Chinese open-weight models are cheap. Washington is deciding what that costs.  |  [AI] The Download: Chinese AI divides the White House, and a record copyright payout  |  [AI] Google’s Gemini 3.6 Flash targets enterprise agent token costs  |  [AI] Introducing the ChatGPT for small business program</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-21.mp3" length="5129657" type="audio/mpeg" />
-      <itunes:duration>5:20</itunes:duration>
     </item>
   </channel>
 </rss>
