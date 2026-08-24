@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-24 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-24.mp3</link>
+      <description>[Startup] Alabama launches investigation into OpenAI’s hack of Hugging Face  |  [AI] XPENG IRON humanoid robot draws record physical AI funding  |  [RealEstate] Real REMAX Group closes merger, REAX begins trading Aug. 25  |  [Startup] Southeast Asia’s EV startups draw US$622M as clean mobility shifts from pitch to pilot  |  [Startup] IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-24.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-24.mp3" length="6156164" type="audio/mpeg" />
+      <itunes:duration>6:24</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-23 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-23.mp3</link>
       <description>[Startup] Uber faces fine of nearly $1B over automated driver suspensions  |  [Startup] Who’s behind the new ‘stealth model’ Ox Alpha?  |  [Startup] TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions  |  [Startup] Enterprises winning with AI agents are limiting how much the agents can do alone  |  [Startup] Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3" length="6310391" type="audio/mpeg" />
       <itunes:duration>6:34</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-23 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3</link>
-      <description>[Startup] Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop  |  [Startup] Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026  |  [Startup] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials  |  [AI] How AI helps scientists design the next generation of medicines  |  [AI] Supercooled kidneys have been transplanted into pigs in a “landmark achievement”</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-23.mp3" length="6979962" type="audio/mpeg" />
-      <itunes:duration>7:16</itunes:duration>
     </item>
   </channel>
 </rss>
