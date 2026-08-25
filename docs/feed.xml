@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-25 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3</link>
+      <description>[AI] MIT AI forecasts extreme weather without historical data  |  [Startup] Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.  |  [RealEstate] Builders FirstSource bets $25.3 million on AI build-cycle scale  |  [RealEstate] New home demand swoons even as sales prices hit a 5-year low  |  [Startup] Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3" length="8402695" type="audio/mpeg" />
+      <itunes:duration>8:45</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-24 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-24.mp3</link>
       <description>[Startup] Alabama launches investigation into OpenAI’s hack of Hugging Face  |  [AI] XPENG IRON humanoid robot draws record physical AI funding  |  [RealEstate] Real REMAX Group closes merger, REAX begins trading Aug. 25  |  [Startup] Southeast Asia’s EV startups draw US$622M as clean mobility shifts from pitch to pilot  |  [Startup] IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3" length="8314088" type="audio/mpeg" />
       <itunes:duration>8:39</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-24 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3</link>
-      <description>[Startup] VentureBeat Research: Where enterprise AI agent governance hasn't caught up  |  [AI] The quest to keep organs alive outside the body  |  [Startup] Why Cognition bought Poke: AI personality is becoming a competitive advantage  |  [Startup] Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows  |  [AI] The Download: an organ transplant breakthrough, and homegrown Chinese chips</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-24.mp3" length="6310391" type="audio/mpeg" />
-      <itunes:duration>6:34</itunes:duration>
     </item>
   </channel>
 </rss>
