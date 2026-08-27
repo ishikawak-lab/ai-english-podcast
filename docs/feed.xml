@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-27 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3</link>
+      <description>[AI] The inside story on why OpenAI agents hacked Hugging Face  |  [Startup] Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again  |  [Startup] The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it  |  [Japan] Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations  |  [Startup] Amazon just tripled its order of Nvidia chips over ‘surging demand’</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3" length="6166195" type="audio/mpeg" />
+      <itunes:duration>6:25</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-25 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3</link>
       <description>[AI] MIT AI forecasts extreme weather without historical data  |  [Startup] Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.  |  [RealEstate] Builders FirstSource bets $25.3 million on AI build-cycle scale  |  [RealEstate] New home demand swoons even as sales prices hit a 5-year low  |  [Startup] Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-26.mp3" length="5902881" type="audio/mpeg" />
       <itunes:duration>6:08</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-25 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3</link>
-      <description>[Japan] 「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか  |  [Malaysia] Malaysia a homeland and not a place of transit, says Azalina  |  [Japan] 西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ  |  [Startup] Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech  |  [Japan] Takaichi stresses secure crude oil supplies as U.S.-Iran war spirals</description>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-25.mp3" length="8314088" type="audio/mpeg" />
-      <itunes:duration>8:39</itunes:duration>
     </item>
   </channel>
 </rss>
