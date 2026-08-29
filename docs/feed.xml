@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-29 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</link>
+      <description>[Startup] An Anthropic researcher just gave us a peek at self-improving AI  |  [Japan] Math’s AI crisis has a lesson for the rest of us  |  [Startup] Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag  |  [Startup] Chinese automakers are following Tesla’s bet that robots are the next big profit machine  |  [Startup] The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3" length="7239515" type="audio/mpeg" />
+      <itunes:duration>7:32</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-28 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3</link>
       <description>[Startup] Visa ships a security AI that patches production code before any human reviews it  |  [Startup] The case for hybrid microfinance: Combining AI with social accountability  |  [AI] A quarter of Nvidia’s business next year comes from labs it is financing  |  [AI] The inside story on why OpenAI agents hacked Hugging Face  |  [Startup] Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3" length="5681363" type="audio/mpeg" />
       <itunes:duration>5:55</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-27 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3</link>
-      <description>[Startup] Satya Nadella says companies that trust one AI for everything may not survive  |  [RealEstate] FirstTeam Real Estate, Purlin partner on AI-powered operations  |  [AI] The path to artificial superintelligence  |  [Startup] Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system  |  [Startup] Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-27.mp3" length="5517523" type="audio/mpeg" />
-      <itunes:duration>5:44</itunes:duration>
     </item>
   </channel>
 </rss>
