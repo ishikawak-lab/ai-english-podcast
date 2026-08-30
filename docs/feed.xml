@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-08-30 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</link>
+      <description>[Startup] AI agents need their own identity before they need a gateway  |  [Startup] AI agents that pass authentication can still drift, expose data, or get memory-poisoned  |  [Startup] Musk’s faster path to more gas turbines comes with pollution problem  |  [Startup] Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft  |  [Startup] TechCrunch Mobility: The hidden human cost of robotaxis</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3" length="6106427" type="audio/mpeg" />
+      <itunes:duration>6:21</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-29 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</link>
       <description>[Startup] Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft  |  [Startup] Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag  |  [Japan] Japan to send SDF helicopters to wildfire-hit Indonesia  |  [Startup] “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z  |  [Startup] Visa ships a security AI that patches production code before any human reviews it</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3" length="5696827" type="audio/mpeg" />
       <itunes:duration>5:56</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-28 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</link>
-      <description>[Startup] Sam Altman is ready to decelerate  |  [Japan] Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?  |  [Startup] Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup  |  [Startup] Instacart's CTO says AI made the company stop worrying about tech debt  |  [Startup] GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-28.mp3" length="5681363" type="audio/mpeg" />
-      <itunes:duration>5:55</itunes:duration>
     </item>
   </channel>
 </rss>
