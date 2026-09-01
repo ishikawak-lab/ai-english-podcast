@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-01 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</link>
+      <description>[Startup] Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI  |  [Startup] Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break  |  [Japan] Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance  |  [Startup] a16z brings growth fund to $8.5B days after launching new $1.1B fund  |  [Malaysia] US trade curbs put Malaysia's solar, semiconductor ambitions to the test</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3" length="7425924" type="audio/mpeg" />
+      <itunes:duration>7:44</itunes:duration>
+    </item>
+    <item>
       <title>2026-08-30 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</link>
       <description>[Startup] AI agents need their own identity before they need a gateway  |  [Startup] AI agents that pass authentication can still drift, expose data, or get memory-poisoned  |  [Startup] Musk’s faster path to more gas turbines comes with pollution problem  |  [Startup] Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft  |  [Startup] TechCrunch Mobility: The hidden human cost of robotaxis</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3" length="7283818" type="audio/mpeg" />
       <itunes:duration>7:35</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-29 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</link>
-      <description>[Malaysia] OpenAI says rogue AI agent attack hit other companies  |  [Japan] Japan and Australia vow to boost cooperation on quantum tech  |  [RealEstate] Hawks Lorie Logan and Beth Hammack run the Fed for now  |  [Japan] 熊本県で震度7 同程度の地震に注意 きょうも熱中症対策を  |  [Japan] 【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-29.mp3" length="5696827" type="audio/mpeg" />
-      <itunes:duration>5:56</itunes:duration>
     </item>
   </channel>
 </rss>
