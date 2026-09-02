@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-02 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3</link>
+      <description>[Startup] OpenAI’s new reasoning technique alarms AI safety experts  |  [Japan] Trump administration backs OpenAI in New York Times' copyright case over training of chatbots  |  [Startup] The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next  |  [Malaysia] Tech bosses press G20 to build data centres, but split on risk  |  [AI] How AI plotted an interstellar journey to Alpha Centauri</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3" length="7072749" type="audio/mpeg" />
+      <itunes:duration>7:22</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-01 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</link>
       <description>[Startup] Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer  |  [Startup] Open AI’s Astra model is on the way — and very good at breaking into computer systems  |  [Startup] AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B  |  [AI] How AI plotted an interstellar journey to Alpha Centauri  |  [Japan] Bessent urges BOJ chief to combat weak yen with ‘decisive’ monetary steps</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-31.mp3" length="5887835" type="audio/mpeg" />
       <itunes:duration>6:07</itunes:duration>
-    </item>
-    <item>
-      <title>2026-07-30 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</link>
-      <description>[Startup] AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost  |  [Startup] Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI  |  [Startup] Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.  |  [Japan] 熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに  |  [Startup] Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-07-30.mp3" length="7283818" type="audio/mpeg" />
-      <itunes:duration>7:35</itunes:duration>
     </item>
   </channel>
 </rss>
