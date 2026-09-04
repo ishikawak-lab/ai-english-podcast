@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-04 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</link>
+      <description>[Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [AI] Architecting memory and storage in the AI era  |  [Startup] What will Apple’s John Ternus era look like?  |  [Startup] AI compute provider Nscale is looking for $3.5B in pre-IPO financing  |  [Startup] Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3" length="8115139" type="audio/mpeg" />
+      <itunes:duration>8:27</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-03 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3</link>
       <description>[Startup] Tesla is asking people if they want to buy and run Cybercab fleets  |  [Startup] The Cybercab is Tesla’s ‘fork in the road’ moment  |  [Startup] Startup ARR is less secure than ever, new research shows  |  [AI] NVIDIA to acquire Hugging Face for $12.93B  |  [AI] Safety overview: GPT-6 Astra</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3" length="6567854" type="audio/mpeg" />
       <itunes:duration>6:50</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-01 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3</link>
-      <description>[Startup] Sam Altman is still making the case for parenting via ChatGPT  |  [Japan] 熊本地震 関連調査中含め36人死亡 避難所の熱中症対策を強化へ  |  [Japan] 大分 日田で40度の酷暑日予想 東北は土砂災害に厳重警戒を  |  [Japan] 熊本地震 断水の早期解消へ復旧の取り組み進める 政府  |  [Startup] Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-01.mp3" length="7042656" type="audio/mpeg" />
-      <itunes:duration>7:20</itunes:duration>
     </item>
   </channel>
 </rss>
