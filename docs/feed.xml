@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-05 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</link>
+      <description>[Japan] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  |  [Startup] OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure  |  [Startup] Hikers rescued after using Google Gemini for planning  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Japan] The woman at the center of Japan’s currency fight</description>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3" length="5039795" type="audio/mpeg" />
+      <itunes:duration>5:14</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-04 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</link>
       <description>[Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [AI] Architecting memory and storage in the AI era  |  [Startup] What will Apple’s John Ternus era look like?  |  [Startup] AI compute provider Nscale is looking for $3.5B in pre-IPO financing  |  [Startup] Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3" length="5981457" type="audio/mpeg" />
       <itunes:duration>6:13</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-02 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3</link>
-      <description>[Startup] Sam Altman and AI’s decel debate  |  [Japan] 日米の協調介入 ことし5月の日米財務相会談から本格調整  |  [Japan] 熊本県 最高気温40度予想 ホテルなど「2次避難」受け付けへ  |  [Malaysia] Japan quake leaves scars beyond the rubble  |  [Japan] 震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」</description>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-02.mp3" length="6567854" type="audio/mpeg" />
-      <itunes:duration>6:50</itunes:duration>
     </item>
   </channel>
 </rss>
