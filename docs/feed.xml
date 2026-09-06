@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-06 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</link>
+      <description>[AI] Research acceleration: The view inside OpenAI  |  [AI] An Alien Mind  |  [Startup] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Startup] Authors push back as publishers and agents make claims on Anthropic settlement</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3" length="5470711" type="audio/mpeg" />
+      <itunes:duration>5:41</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-05 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</link>
       <description>[Japan] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  |  [Startup] OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure  |  [Startup] Hikers rescued after using Google Gemini for planning  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Japan] The woman at the center of Japan’s currency fight</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3" length="5609474" type="audio/mpeg" />
       <itunes:duration>5:50</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-03 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</link>
-      <description>[Startup] Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated  |  [Malaysia] When rogue AI launches a cyberattack, who is legally responsible?  |  [Japan] 日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で  |  [AI] How we built a realtime system for responsive voice AI in six months  |  [Startup] AWS is helping vibe-coding startup Superblocks, and the implications are big</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-03.mp3" length="5981457" type="audio/mpeg" />
-      <itunes:duration>6:13</itunes:duration>
     </item>
   </channel>
 </rss>
