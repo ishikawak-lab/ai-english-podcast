@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-07 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</link>
+      <description>[Malaysia] Macron, South Korea leader warn at film summit of AI risks to creativity  |  [Startup] Why Kyoto, not Tokyo, is Japan’s real deeptech bet  |  [Japan] Yen rises to highest since February, topping intervention rally  |  [Japan] Japan needs artificial intelligence its factories can plug in  |  [Startup] The US$103K visa fee is a gift to SEA’s talent pool if the region actually wants it</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3" length="5837262" type="audio/mpeg" />
+      <itunes:duration>6:04</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-06 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</link>
       <description>[AI] Research acceleration: The view inside OpenAI  |  [AI] An Alien Mind  |  [Startup] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Startup] Authors push back as publishers and agents make claims on Anthropic settlement</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3" length="5874042" type="audio/mpeg" />
       <itunes:duration>6:07</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-04 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</link>
-      <description>[Japan] 米 ベッセント財務長官 “協調介入は象徴的な意味合い”  |  [Startup] Anthropic signs $10B deal with AI cloud startup Volta  |  [Startup] Open-weight AI models are catching up to the frontier. The safety gap remains.  |  [Startup] Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use  |  [Japan] 公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-04.mp3" length="5609474" type="audio/mpeg" />
-      <itunes:duration>5:50</itunes:duration>
     </item>
   </channel>
 </rss>
