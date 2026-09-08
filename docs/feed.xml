@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-08 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</link>
+      <description>[Malaysia] OpenAI says AI solved one of math’s hardest problems in days  |  [AI] On the Navier–Stokes Millennium Prize Problem  |  [Startup] Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market  |  [Startup] Meta debuts its Muse AI agent. Will consumers trust it?  |  [EarlyEd] AI Videos Are Warping Early Learning, Teachers Say</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3" length="5468622" type="audio/mpeg" />
+      <itunes:duration>5:41</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-07 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</link>
       <description>[Malaysia] Macron, South Korea leader warn at film summit of AI risks to creativity  |  [Startup] Why Kyoto, not Tokyo, is Japan’s real deeptech bet  |  [Japan] Yen rises to highest since February, topping intervention rally  |  [Japan] Japan needs artificial intelligence its factories can plug in  |  [Startup] The US$103K visa fee is a gift to SEA’s talent pool if the region actually wants it</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3" length="6680285" type="audio/mpeg" />
       <itunes:duration>6:57</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-05 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</link>
-      <description>[Startup] Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know  |  [RealEstate] CRMLS CEO Art Carter sees more industry litigation ahead, AI blindspots  |  [Japan] 広島 原爆投下から81年 核兵器の廃絶を国内外に訴え  |  [Startup] Meta launches Muse Code, an AI agent for large code bases  |  [Startup] Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-05.mp3" length="5874042" type="audio/mpeg" />
-      <itunes:duration>6:07</itunes:duration>
     </item>
   </channel>
 </rss>
