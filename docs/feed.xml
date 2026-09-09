@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-09 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</link>
+      <description>[AI] What OpenAI’s latest controversy tells us about the future of math  |  [AI] GPT-6 Astra: The next generation in intelligence for work  |  [Startup] SEA’s AI boom has a water problem it cannot offset away  |  [Japan] Iran and U.S. hit tankers in biggest wave of attacks on shipping since war began  |  [Japan] Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3" length="7346512" type="audio/mpeg" />
+      <itunes:duration>7:39</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-08 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</link>
       <description>[Malaysia] OpenAI says AI solved one of math’s hardest problems in days  |  [AI] On the Navier–Stokes Millennium Prize Problem  |  [Startup] Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market  |  [Startup] Meta debuts its Muse AI agent. Will consumers trust it?  |  [EarlyEd] AI Videos Are Warping Early Learning, Teachers Say</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3" length="7300537" type="audio/mpeg" />
       <itunes:duration>7:36</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-07 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</link>
-      <description>[Startup] Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck  |  [AI] The Download: a censorship conspiracy theory and the first virus created by AI  |  [Japan] Japan’s GPIF posts $152 billion gain with help from stocks  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Startup] Cloudflare launches Kitesurf, a browser built for AI agents</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-07.mp3" length="6680285" type="audio/mpeg" />
-      <itunes:duration>6:57</itunes:duration>
     </item>
   </channel>
 </rss>
