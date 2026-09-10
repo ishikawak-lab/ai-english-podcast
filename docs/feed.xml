@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-10 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</link>
+      <description>[Startup] Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek  |  [AI] Introducing the Agents API  |  [Startup] Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality  |  [Startup] The capital drought: Over 7,500 SEA startups extinguished since 2020  |  [AI] JD.com expands physical AI in logistics with 3 million robots</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3" length="6424494" type="audio/mpeg" />
+      <itunes:duration>6:41</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-09 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</link>
       <description>[AI] What OpenAI’s latest controversy tells us about the future of math  |  [AI] GPT-6 Astra: The next generation in intelligence for work  |  [Startup] SEA’s AI boom has a water problem it cannot offset away  |  [Japan] Iran and U.S. hit tankers in biggest wave of attacks on shipping since war began  |  [Japan] Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3" length="5923779" type="audio/mpeg" />
       <itunes:duration>6:10</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-08 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</link>
-      <description>[Startup] Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck  |  [Startup] No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi  |  [Startup] Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks  |  [Startup] OpenAI acquires presentation startup NextSlide  |  [AI] The Download: a censorship conspiracy theory and the first virus created by AI</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-08.mp3" length="7300537" type="audio/mpeg" />
-      <itunes:duration>7:36</itunes:duration>
     </item>
   </channel>
 </rss>
