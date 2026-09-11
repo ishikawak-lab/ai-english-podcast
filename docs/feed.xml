@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-11 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3</link>
+      <description>[Japan] Koizumi says Japan not ruling out nuclear subs, days after U.S. offers positive view  |  [AI] Roundtables: AI’s apocalypse crisis  |  [AI] Rapidly scaling online storage to serve over 1 billion ChatGPT users  |  [Japan] Ratio of Japanese singles seeking marriage drops below 80% for first time  |  [Startup] Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3" length="5968083" type="audio/mpeg" />
+      <itunes:duration>6:13</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-10 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</link>
       <description>[Startup] Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek  |  [AI] Introducing the Agents API  |  [Startup] Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality  |  [Startup] The capital drought: Over 7,500 SEA startups extinguished since 2020  |  [AI] JD.com expands physical AI in logistics with 3 million robots</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-10.mp3" length="5665898" type="audio/mpeg" />
       <itunes:duration>5:54</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-09 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3</link>
-      <description>[Startup] The AI safety test is becoming a safety risk  |  [Startup] Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry  |  [Startup] Anthropic is turning Claude Code’s auto mode on by default  |  [Startup] TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire  |  [Startup] Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy</description>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-09.mp3" length="5923779" type="audio/mpeg" />
-      <itunes:duration>6:10</itunes:duration>
     </item>
   </channel>
 </rss>
