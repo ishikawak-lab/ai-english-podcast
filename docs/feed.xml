@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-13 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3</link>
+      <description>[Startup] What’s behind the AI industry’s latest warnings of doom?  |  [AI] Perplexity trusts GPT-6 Astra with end-to-end systems  |  [Startup] Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic  |  [Startup] The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs  |  [Startup] Obama urges Democrats to have a ‘clear plan’ for AI safeguards</description>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3" length="5958888" type="audio/mpeg" />
+      <itunes:duration>6:12</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-12 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3</link>
       <description>[Startup] Anthropic CEO outlines plan to slow AI development  |  [Startup] OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026  |  [AI] Perplexity trusts GPT-6 Astra with end-to-end systems  |  [RealEstate] Housing market faces headwinds as mortgage rates move above 7%  |  [Startup] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-12.mp3" length="6039554" type="audio/mpeg" />
       <itunes:duration>6:17</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-11 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3</link>
-      <description>[Startup] SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month  |  [RealEstate] Lenders urged to solve business problems before adopting AI  |  [AI] How the “censorship-industrial complex” is changing the Internet and US policy  |  [Startup] Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests  |  [AI] Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-11.mp3" length="7481513" type="audio/mpeg" />
-      <itunes:duration>7:47</itunes:duration>
     </item>
   </channel>
 </rss>
