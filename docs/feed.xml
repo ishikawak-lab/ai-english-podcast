@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-15 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</link>
+      <description>[Japan] Amid Japan’s immigration squeeze, foreign residents ask: Should we stay?  |  [AI] Roundtables: Could AI really kill us all?  |  [Startup] US data centers could consume more natural gas than Germany and Japan combined by 2035  |  [Startup] The AI graveyard: a running list of projects and startups that didn’t make it  |  [AI] What’s at stake in AI’s trillion-dollar gamble</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3" length="5160168" type="audio/mpeg" />
+      <itunes:duration>5:22</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-14 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3</link>
       <description>[Startup] Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’  |  [AI] The AI industry has taken a doomer turn. What now?  |  [Startup] Everyone has adopted AI. Almost nobody is ready for it  |  [Malaysia] Microsoft publishes AI code of conduct  |  [AI] Donated livers can be made biologically younger</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3" length="6048749" type="audio/mpeg" />
       <itunes:duration>6:18</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-13 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3</link>
-      <description>[Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done  |  [Startup] Anthropic set AI agents loose on the same task. They started a turf war.  |  [Startup] IBM partners with OpenAI to bolster enterprise AI push  |  [Japan] Spotify asks creators to label songs when they’re AI-generated  |  [Startup] OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-13.mp3" length="5586068" type="audio/mpeg" />
-      <itunes:duration>5:49</itunes:duration>
     </item>
   </channel>
 </rss>
