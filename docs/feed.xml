@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-16 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</link>
+      <description>[Startup] Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?  |  [RealEstate] The Fed rate-hike cycle has started. What’s next?  |  [AI] Microsoft AI CEO criticises Anthropic over model ‘rights’  |  [Malaysia] US Fed raises rates to tackle 'too high' inflation, irking Trump  |  [Japan] Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3" length="5303110" type="audio/mpeg" />
+      <itunes:duration>5:31</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-15 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</link>
       <description>[Japan] Amid Japan’s immigration squeeze, foreign residents ask: Should we stay?  |  [AI] Roundtables: Could AI really kill us all?  |  [Startup] US data centers could consume more natural gas than Germany and Japan combined by 2035  |  [Startup] The AI graveyard: a running list of projects and startups that didn’t make it  |  [AI] What’s at stake in AI’s trillion-dollar gamble</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3" length="9091074" type="audio/mpeg" />
       <itunes:duration>9:28</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-14 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3</link>
-      <description>[Startup] Self-driving trucks are officially testing on California highways  |  [Startup] Ecosystem Roundup: Why “Know Your Agent” will matter as much as KYC in payments  |  [Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done  |  [Startup] Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M  |  [Startup] Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-14.mp3" length="6048749" type="audio/mpeg" />
-      <itunes:duration>6:18</itunes:duration>
     </item>
   </channel>
 </rss>
