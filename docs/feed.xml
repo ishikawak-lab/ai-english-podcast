@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-17 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3</link>
+      <description>[Malaysia] NYT alleges Microsoft, OpenAI knew using news content was theft  |  [Startup] The fix for rogue AI agents could be more AI  |  [Startup] Google DeepMind launches institute to widen the AGI debate  |  [Malaysia] Oversight Board blasts ‘inadequate’ Meta safeguards for AI deepfakes  |  [Japan] Apollo mulls raising SoftBank loan to $9 billion for OpenAI bets</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3" length="6073408" type="audio/mpeg" />
+      <itunes:duration>6:19</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-16 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</link>
       <description>[Startup] Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?  |  [RealEstate] The Fed rate-hike cycle has started. What’s next?  |  [AI] Microsoft AI CEO criticises Anthropic over model ‘rights’  |  [Malaysia] US Fed raises rates to tackle 'too high' inflation, irking Trump  |  [Japan] Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3" length="6182914" type="audio/mpeg" />
       <itunes:duration>6:26</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-15 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3</link>
-      <description>[Startup] An eval harness found what qualitative review couldn't: AI models are most confident when wrong  |  [Startup] Anthropic shares more details about how Claude’s new watermarks will work  |  [Startup] SpaceX officially closes its Cursor acquisition  |  [Startup] Every fusion startup that has raised over $100M  |  [Startup] Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-15.mp3" length="9091074" type="audio/mpeg" />
-      <itunes:duration>9:28</itunes:duration>
     </item>
   </channel>
 </rss>
