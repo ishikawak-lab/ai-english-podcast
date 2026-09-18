@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-18 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3</link>
+      <description>[Startup] A new kind of AI model from a ChatGPT inventor is thrilling developers  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech  |  [AI] The Download: AI’s extinction risk and bioweapons threat  |  [AI] Could AI really kill us all? Your questions, answered.  |  [Startup] Anthropic’s first embedded evaluator is … Accenture?</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3" length="5880311" type="audio/mpeg" />
+      <itunes:duration>6:07</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-17 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3</link>
       <description>[Malaysia] NYT alleges Microsoft, OpenAI knew using news content was theft  |  [Startup] The fix for rogue AI agents could be more AI  |  [Startup] Google DeepMind launches institute to widen the AGI debate  |  [Malaysia] Oversight Board blasts ‘inadequate’ Meta safeguards for AI deepfakes  |  [Japan] Apollo mulls raising SoftBank loan to $9 billion for OpenAI bets</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-17.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-17.mp3" length="7092393" type="audio/mpeg" />
       <itunes:duration>7:23</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-16 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</link>
-      <description>[Startup] Woman claims her stepfather used Grok to transform childhood photo into explicit imagery  |  [Startup] Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+  |  [Startup] Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’  |  [Startup] Cutting RAG inference costs 6x starts with deciding what never reaches the LLM  |  [Startup] An eval harness found what qualitative review couldn't: AI models are most confident when wrong</description>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-16.mp3" length="6182914" type="audio/mpeg" />
-      <itunes:duration>6:26</itunes:duration>
     </item>
   </channel>
 </rss>
