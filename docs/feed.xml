@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-20 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</link>
+      <description>[Startup] Is the AI industry really ready to slow down?  |  [Japan] In superaged Japan, athletes are making waves well into their 90s  |  [Startup] World model companies are keeping a lot of secrets  |  [Japan] Senior Taiwan official makes rare trip to China  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3" length="6764713" type="audio/mpeg" />
+      <itunes:duration>7:02</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-19 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3</link>
       <description>[Startup] Google’s Gemini is the latest AI model to hack other companies  |  [Startup] Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech  |  [Malaysia] Trump says will not tolerate attempts to slow AI growth  |  [Japan] Trump says he will not tolerate attempts to slow AI growth</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3" length="10483296" type="audio/mpeg" />
       <itunes:duration>10:55</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-18 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-18.mp3</link>
-      <description>[Startup] 85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one  |  [AI] Strengthening democratic oversight in national security  |  [Startup] TikTok explores peer-to-peer payments via DMs, report says  |  [AI] AI’s recursive self-improvement might not come so quickly after all  |  [AI] Pacing model development in an era of cyber-critical capabilities</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-18.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-18.mp3" length="6428674" type="audio/mpeg" />
-      <itunes:duration>6:41</itunes:duration>
     </item>
   </channel>
 </rss>
