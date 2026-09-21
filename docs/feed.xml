@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-21 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3</link>
+      <description>[Startup] OpenAI forms math advisory group as its AI resolves more than 100 open problems  |  [Malaysia] After making a killing with AI, are we at the end times?  |  [Startup] Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses  |  [Startup] Meta’s Muse is outpacing ChatGPT’s early mobile launch  |  [Startup] Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3" length="4943247" type="audio/mpeg" />
+      <itunes:duration>5:08</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-20 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</link>
       <description>[Startup] Is the AI industry really ready to slow down?  |  [Japan] In superaged Japan, athletes are making waves well into their 90s  |  [Startup] World model companies are keeping a lot of secrets  |  [Japan] Senior Taiwan official makes rare trip to China  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3" length="8299041" type="audio/mpeg" />
       <itunes:duration>8:38</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-20 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3</link>
-      <description>[Japan] Why Taiwan and the South China Sea matter to U.S. and the world  |  [Startup] One in five enterprises can't stop a runaway AI agent's spending in real time  |  [Startup] Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience  |  [Malaysia] Independent review needed on US transshipment claims, says shipping CEO  |  [AI] Agentic AI in government just hit the hard part: deciding what a machine may decide</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-20.mp3" length="10483296" type="audio/mpeg" />
-      <itunes:duration>10:55</itunes:duration>
     </item>
   </channel>
 </rss>
