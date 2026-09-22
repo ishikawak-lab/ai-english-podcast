@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-22 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3</link>
+      <description>[Startup] Qualcomm launches two new smartphone chips with emphasis on AI  |  [AI] Introducing GPT-6 Sol and Luna  |  [Japan] Takaichi and Trump discuss China ahead of Xi visit to U.S.  |  [Japan] As Trump and Xi meet, investors play both sides of AI divide  |  [Malaysia] Anthropic, OpenAI release cheaper AI even as safety fears grow</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3" length="6489696" type="audio/mpeg" />
+      <itunes:duration>6:45</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-21 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3</link>
       <description>[Startup] OpenAI forms math advisory group as its AI resolves more than 100 open problems  |  [Malaysia] After making a killing with AI, are we at the end times?  |  [Startup] Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses  |  [Startup] Meta’s Muse is outpacing ChatGPT’s early mobile launch  |  [Startup] Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3" length="6649774" type="audio/mpeg" />
       <itunes:duration>6:55</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-21 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</link>
-      <description>[Startup] Nvidia finds that simple linear math can replace costly AI model handoffs  |  [AI] When AI designs a drug, who gets the credit?  |  [Startup] TikTok reaches $400M settlement over children’s privacy lawsuit  |  [Japan] BYD’s tiny car has a big mission in Japan  |  [Startup] Nvidia just showed that the harness, not the AI model, is now the real hero</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-21.mp3" length="8299041" type="audio/mpeg" />
-      <itunes:duration>8:38</itunes:duration>
     </item>
   </channel>
 </rss>
