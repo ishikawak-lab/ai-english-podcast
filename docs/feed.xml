@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-23 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3</link>
+      <description>[Japan] AI leaders warn U.N. of security risks as systems grow more powerful  |  [Startup] Anthropic says its biology lab has already found something big  |  [AI] Sam Altman’s remarks at the United Nations Security Council  |  [AI] The AI Hype Index: AI loves cheating  |  [Startup] Enveda secures $311M to bring more nature-derived AI drugs into clinical trials</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3" length="4446711" type="audio/mpeg" />
+      <itunes:duration>4:37</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-22 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3</link>
       <description>[Startup] Qualcomm launches two new smartphone chips with emphasis on AI  |  [AI] Introducing GPT-6 Sol and Luna  |  [Japan] Takaichi and Trump discuss China ahead of Xi visit to U.S.  |  [Japan] As Trump and Xi meet, investors play both sides of AI divide  |  [Malaysia] Anthropic, OpenAI release cheaper AI even as safety fears grow</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-23.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-23.mp3" length="6775580" type="audio/mpeg" />
       <itunes:duration>7:03</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-22 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3</link>
-      <description>[Startup] Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research  |  [Startup] OpenAI says California should strengthen its AI safety bill  |  [Startup] Frontier AI labs still won’t say how they’d contain a rogue model  |  [Startup] Will the DOJ’s investigation into a16z spook other VCs?  |  [Startup] US battery startups have found a lifeline in defense</description>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-22.mp3" length="6649774" type="audio/mpeg" />
-      <itunes:duration>6:55</itunes:duration>
     </item>
   </channel>
 </rss>
