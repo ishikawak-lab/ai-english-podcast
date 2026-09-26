@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-26 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</link>
+      <description>[Japan] Takaichi says Trump gave her ‘detailed’ briefing on U.S.-China summit  |  [Startup] Insurers claim AI is already increasing healthcare costs  |  [Japan] As temperatures rise, Japan’s sake rice is feeling the heat  |  [Startup] TikTok agrees to pay at least $100M in Alabama settlement  |  [Startup] Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3" length="6572870" type="audio/mpeg" />
+      <itunes:duration>6:50</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-25 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3</link>
       <description>[Startup] Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge  |  [Japan] Japan regulator is boosting scrutiny of AI data center financing  |  [Startup] Crusoe abandons $1.25B plan to use Boom turbines at AI data centers  |  [Startup] Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier  |  [AI] The Download: the Pentagon’s AI-powered lie detector and young organ limits</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3" length="6166195" type="audio/mpeg" />
       <itunes:duration>6:25</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-25 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3</link>
-      <description>[AI] MIT AI forecasts extreme weather without historical data  |  [Startup] Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.  |  [RealEstate] Builders FirstSource bets $25.3 million on AI build-cycle scale  |  [RealEstate] New home demand swoons even as sales prices hit a 5-year low  |  [Startup] Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-25.mp3" length="8402695" type="audio/mpeg" />
-      <itunes:duration>8:45</itunes:duration>
     </item>
   </channel>
 </rss>
