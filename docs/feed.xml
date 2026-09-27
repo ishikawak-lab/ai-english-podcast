@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-27 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3</link>
+      <description>[Malaysia] From mine to magnet: Malaysia's rare earths meed more than a ban  |  [Startup] Anthropic’s CEO is about to have dinner with President Trump  |  [Japan] Anthropic CEO Amodei to meet Trump with AI safety concern rising  |  [RealEstate] Mortgage rates have gone wild, so what’s next for housing?  |  [Japan] Anime’s boom finally pays off — for some</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3" length="5940915" type="audio/mpeg" />
+      <itunes:duration>6:11</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-26 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</link>
       <description>[Japan] Takaichi says Trump gave her ‘detailed’ briefing on U.S.-China summit  |  [Startup] Insurers claim AI is already increasing healthcare costs  |  [Japan] As temperatures rise, Japan’s sake rice is feeling the heat  |  [Startup] TikTok agrees to pay at least $100M in Alabama settlement  |  [Startup] Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3" length="7473990" type="audio/mpeg" />
       <itunes:duration>7:47</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-27 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3</link>
-      <description>[AI] The inside story on why OpenAI agents hacked Hugging Face  |  [Startup] Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again  |  [Startup] The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it  |  [Japan] Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations  |  [Startup] Amazon just tripled its order of Nvidia chips over ‘surging demand’</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-27.mp3" length="6166195" type="audio/mpeg" />
-      <itunes:duration>6:25</itunes:duration>
     </item>
   </channel>
 </rss>
