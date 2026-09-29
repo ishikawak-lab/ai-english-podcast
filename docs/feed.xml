@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-29 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3</link>
+      <description>[Malaysia] OpenAI cancels release of newest model due to safety concerns  |  [Startup] OpenAI reportedly ditches model over safety concerns  |  [Startup] AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion  |  [Malaysia] Anthropic's IPO prospectus shows sweeping AI vision, surging costs  |  [Startup] Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3" length="5154734" type="audio/mpeg" />
+      <itunes:duration>5:22</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-27 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3</link>
       <description>[Malaysia] From mine to magnet: Malaysia's rare earths meed more than a ban  |  [Startup] Anthropic’s CEO is about to have dinner with President Trump  |  [Japan] Anthropic CEO Amodei to meet Trump with AI safety concern rising  |  [RealEstate] Mortgage rates have gone wild, so what’s next for housing?  |  [Japan] Anime’s boom finally pays off — for some</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3" length="7861856" type="audio/mpeg" />
       <itunes:duration>8:11</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-28 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3</link>
-      <description>[Startup] Visa ships a security AI that patches production code before any human reviews it  |  [Startup] The case for hybrid microfinance: Combining AI with social accountability  |  [AI] A quarter of Nvidia’s business next year comes from labs it is financing  |  [AI] The inside story on why OpenAI agents hacked Hugging Face  |  [Startup] Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-28.mp3" length="7473990" type="audio/mpeg" />
-      <itunes:duration>7:47</itunes:duration>
     </item>
   </channel>
 </rss>
