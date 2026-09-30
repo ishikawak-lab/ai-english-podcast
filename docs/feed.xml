@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-09-30 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</link>
+      <description>[AI] DevDay 2026 Recap  |  [Startup] Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk  |  [AI] Introducing GPT-6.1 Sol  |  [Malaysia] Will AI take Asian youths’ jobs?  |  [Startup] Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3" length="5341562" type="audio/mpeg" />
+      <itunes:duration>5:33</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-29 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3</link>
       <description>[Malaysia] OpenAI cancels release of newest model due to safety concerns  |  [Startup] OpenAI reportedly ditches model over safety concerns  |  [Startup] AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion  |  [Malaysia] Anthropic's IPO prospectus shows sweeping AI vision, surging costs  |  [Startup] Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3" length="6106427" type="audio/mpeg" />
       <itunes:duration>6:21</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-29 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</link>
-      <description>[Startup] Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft  |  [Startup] Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag  |  [Japan] Japan to send SDF helicopters to wildfire-hit Indonesia  |  [Startup] “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z  |  [Startup] Visa ships a security AI that patches production code before any human reviews it</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-29.mp3" length="7861856" type="audio/mpeg" />
-      <itunes:duration>8:11</itunes:duration>
     </item>
   </channel>
 </rss>
