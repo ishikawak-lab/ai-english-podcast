@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-01 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</link>
+      <description>[Startup] Google releases Gemini 4 Argon, called its most powerful model yet  |  [AI] “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer  |  [Japan] Google restricts access to new AI model over safety concerns  |  [Japan] U.K. accuses China of using academics to spy on AI and other tech research  |  [Malaysia] BoJ debated need for more rate hikes at September meeting, summary shows</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3" length="5043975" type="audio/mpeg" />
+      <itunes:duration>5:15</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-30 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</link>
       <description>[AI] DevDay 2026 Recap  |  [Startup] Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk  |  [AI] Introducing GPT-6.1 Sol  |  [Malaysia] Will AI take Asian youths’ jobs?  |  [Startup] Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3" length="7759456" type="audio/mpeg" />
       <itunes:duration>8:04</itunes:duration>
-    </item>
-    <item>
-      <title>2026-08-30 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</link>
-      <description>[Startup] AI agents need their own identity before they need a gateway  |  [Startup] AI agents that pass authentication can still drift, expose data, or get memory-poisoned  |  [Startup] Musk’s faster path to more gas turbines comes with pollution problem  |  [Startup] Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft  |  [Startup] TechCrunch Mobility: The hidden human cost of robotaxis</description>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-08-30.mp3" length="6106427" type="audio/mpeg" />
-      <itunes:duration>6:21</itunes:duration>
     </item>
   </channel>
 </rss>
