@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-02 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</link>
+      <description>[Startup] Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president  |  [Malaysia] NUTP, academic propose age limit on generative AI use  |  [Japan] Takaichi says government will compile action plan to spread the use of AI  |  [AI] An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  |  [Malaysia] OpenAI fires three researchers over mishandling of 'sensitive' information</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3" length="6089709" type="audio/mpeg" />
+      <itunes:duration>6:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-01 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</link>
       <description>[Startup] Google releases Gemini 4 Argon, called its most powerful model yet  |  [AI] “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer  |  [Japan] Google restricts access to new AI model over safety concerns  |  [Japan] U.K. accuses China of using academics to spy on AI and other tech research  |  [Malaysia] BoJ debated need for more rate hikes at September meeting, summary shows</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3" length="7072749" type="audio/mpeg" />
       <itunes:duration>7:22</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-01 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</link>
-      <description>[Startup] Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer  |  [Startup] Open AI’s Astra model is on the way — and very good at breaking into computer systems  |  [Startup] AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B  |  [AI] How AI plotted an interstellar journey to Alpha Centauri  |  [Japan] Bessent urges BOJ chief to combat weak yen with ‘decisive’ monetary steps</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-01.mp3" length="7759456" type="audio/mpeg" />
-      <itunes:duration>8:04</itunes:duration>
     </item>
   </channel>
 </rss>
