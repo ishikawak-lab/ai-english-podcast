@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-03 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</link>
+      <description>[Startup] Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents  |  [Startup] Sean Parker is rebuilding Stability AI around music  |  [AI] Don’t be fooled—LLMs don’t reason  |  [Japan] U.S. to put missile system on island near Taiwan for drills  |  [Startup] It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3" length="7540445" type="audio/mpeg" />
+      <itunes:duration>7:51</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-02 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</link>
       <description>[Startup] Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president  |  [Malaysia] NUTP, academic propose age limit on generative AI use  |  [Japan] Takaichi says government will compile action plan to spread the use of AI  |  [AI] An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  |  [Malaysia] OpenAI fires three researchers over mishandling of 'sensitive' information</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3" length="6504742" type="audio/mpeg" />
       <itunes:duration>6:46</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-02 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3</link>
-      <description>[Startup] OpenAI’s new reasoning technique alarms AI safety experts  |  [Japan] Trump administration backs OpenAI in New York Times' copyright case over training of chatbots  |  [Startup] The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next  |  [Malaysia] Tech bosses press G20 to build data centres, but split on risk  |  [AI] How AI plotted an interstellar journey to Alpha Centauri</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-02.mp3" length="7072749" type="audio/mpeg" />
-      <itunes:duration>7:22</itunes:duration>
     </item>
   </channel>
 </rss>
