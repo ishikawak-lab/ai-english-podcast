@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-04 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</link>
+      <description>[Startup] Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions  |  [Malaysia] OpenAI’s Altman says AI benefits warrant accepting some risks  |  [Malaysia] Can Malaysia break the FBM KLCI's 'lost decade' curse?  |  [Malaysia] Sustainability, AI, and the new era of corporate reporting  |  [Startup] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3" length="5554721" type="audio/mpeg" />
+      <itunes:duration>5:47</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-03 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</link>
       <description>[Japan] AI needs safety layers like nuclear plants: ex-OpenAI engineer  |  [Japan] AI’s race to transform the world before the money runs out  |  [Malaysia] AI, digital forensics key tools to combat fake motor insurance claims  |  [Startup] Federal judge calls Flock ‘indiscriminate mass surveillance’  |  [Startup] Amazon responds to data center backlash, says it no longer uses NDAs</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3" length="8115139" type="audio/mpeg" />
       <itunes:duration>8:27</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-03 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3</link>
-      <description>[Startup] Tesla is asking people if they want to buy and run Cybercab fleets  |  [Startup] The Cybercab is Tesla’s ‘fork in the road’ moment  |  [Startup] Startup ARR is less secure than ever, new research shows  |  [AI] NVIDIA to acquire Hugging Face for $12.93B  |  [AI] Safety overview: GPT-6 Astra</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-03.mp3" length="6504742" type="audio/mpeg" />
-      <itunes:duration>6:46</itunes:duration>
     </item>
   </channel>
 </rss>
