@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-06 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</link>
+      <description>[Startup] The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia  |  [Startup] Investors do not just fund startups. They fund predictability  |  [Startup] Etched fields funding offers at $40B+ valuation, sources say  |  [Startup] OpenAI will start watermarking ChatGPT’s text in the EU  |  [Startup] Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3" length="5105415" type="audio/mpeg" />
+      <itunes:duration>5:19</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-04 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</link>
       <description>[Startup] Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions  |  [Malaysia] OpenAI’s Altman says AI benefits warrant accepting some risks  |  [Malaysia] Can Malaysia break the FBM KLCI's 'lost decade' curse?  |  [Malaysia] Sustainability, AI, and the new era of corporate reporting  |  [Startup] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3" length="5039795" type="audio/mpeg" />
       <itunes:duration>5:14</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-04 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</link>
-      <description>[Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [AI] Architecting memory and storage in the AI era  |  [Startup] What will Apple’s John Ternus era look like?  |  [Startup] AI compute provider Nscale is looking for $3.5B in pre-IPO financing  |  [Startup] Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-04.mp3" length="8115139" type="audio/mpeg" />
-      <itunes:duration>8:27</itunes:duration>
     </item>
   </channel>
 </rss>
