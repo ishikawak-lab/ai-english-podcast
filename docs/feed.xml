@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-07 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</link>
+      <description>[Startup] Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet  |  [Startup] MDI Ventures sharpens SEA thesis around AI, blockchain, digital asset infra  |  [Japan] Takaichi asked Trump to broker Japan-North Korea summit  |  [AI] Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance  |  [RealEstate] CRMLS went on offense against Compass. Will other MLSs follow?</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3" length="5726502" type="audio/mpeg" />
+      <itunes:duration>5:57</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-06 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</link>
       <description>[Startup] The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia  |  [Startup] Investors do not just fund startups. They fund predictability  |  [Startup] Etched fields funding offers at $40B+ valuation, sources say  |  [Startup] OpenAI will start watermarking ChatGPT’s text in the EU  |  [Startup] Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3" length="5470711" type="audio/mpeg" />
       <itunes:duration>5:41</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-05 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</link>
-      <description>[Japan] OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  |  [Startup] OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure  |  [Startup] Hikers rescued after using Google Gemini for planning  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Japan] The woman at the center of Japan’s currency fight</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-05.mp3" length="5039795" type="audio/mpeg" />
-      <itunes:duration>5:14</itunes:duration>
     </item>
   </channel>
 </rss>
