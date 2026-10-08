@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-08 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</link>
+      <description>[Malaysia] World Bank lifts Malaysia growth forecast to 5.1pct, warns of AI slowdown [WATCH]  |  [Startup] Robot data startup Mecka AI nabs $60M from Sequoia  |  [Startup] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users  |  [Startup] Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11  |  [Startup] When the carer has dementia too: Japan turns to physical AI to rescue eldercare</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3" length="5380014" type="audio/mpeg" />
+      <itunes:duration>5:36</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-07 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</link>
       <description>[Startup] Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet  |  [Startup] MDI Ventures sharpens SEA thesis around AI, blockchain, digital asset infra  |  [Japan] Takaichi asked Trump to broker Japan-North Korea summit  |  [AI] Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance  |  [RealEstate] CRMLS went on offense against Compass. Will other MLSs follow?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3" length="5837262" type="audio/mpeg" />
       <itunes:duration>6:04</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-06 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</link>
-      <description>[AI] Research acceleration: The view inside OpenAI  |  [AI] An Alien Mind  |  [Startup] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft  |  [Startup] OpenAI’s Astra aims to turn AI from chatbot into digital worker  |  [Startup] Authors push back as publishers and agents make claims on Anthropic settlement</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-06.mp3" length="5470711" type="audio/mpeg" />
-      <itunes:duration>5:41</itunes:duration>
     </item>
   </channel>
 </rss>
