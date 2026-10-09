@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-09 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</link>
+      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect  |  [Malaysia] Anwar to table 2027 Budget at 3.30pm today  |  [RealEstate] Leo Pareja says rising rates have already prompted a housing collapse  |  [AI] Building a safer path to autonomous industrial AI</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3" length="7174313" type="audio/mpeg" />
+      <itunes:duration>7:28</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-08 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</link>
       <description>[Malaysia] World Bank lifts Malaysia growth forecast to 5.1pct, warns of AI slowdown [WATCH]  |  [Startup] Robot data startup Mecka AI nabs $60M from Sequoia  |  [Startup] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users  |  [Startup] Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11  |  [Startup] When the carer has dementia too: Japan turns to physical AI to rescue eldercare</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3" length="5468622" type="audio/mpeg" />
       <itunes:duration>5:41</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-07 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</link>
-      <description>[Malaysia] Macron, South Korea leader warn at film summit of AI risks to creativity  |  [Startup] Why Kyoto, not Tokyo, is Japan’s real deeptech bet  |  [Japan] Yen rises to highest since February, topping intervention rally  |  [Japan] Japan needs artificial intelligence its factories can plug in  |  [Startup] The US$103K visa fee is a gift to SEA’s talent pool if the region actually wants it</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-07.mp3" length="5837262" type="audio/mpeg" />
-      <itunes:duration>6:04</itunes:duration>
     </item>
   </channel>
 </rss>
