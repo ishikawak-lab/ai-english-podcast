@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-10 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</link>
+      <description>[Startup] Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead  |  [Startup] The maker of non-text AI model Jev valued at $7.5B just weeks after launch  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] An Anthropic AI model sent a false homicide tip to Philadelphia police  |  [Startup] SoftBank, Grab, PETROS explore AI infra  platform in Sarawak</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3" length="6793552" type="audio/mpeg" />
+      <itunes:duration>7:04</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-09 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</link>
       <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect  |  [Malaysia] Anwar to table 2027 Budget at 3.30pm today  |  [RealEstate] Leo Pareja says rising rates have already prompted a housing collapse  |  [AI] Building a safer path to autonomous industrial AI</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3" length="7346512" type="audio/mpeg" />
       <itunes:duration>7:39</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-08 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</link>
-      <description>[Malaysia] OpenAI says AI solved one of math’s hardest problems in days  |  [AI] On the Navier–Stokes Millennium Prize Problem  |  [Startup] Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market  |  [Startup] Meta debuts its Muse AI agent. Will consumers trust it?  |  [EarlyEd] AI Videos Are Warping Early Learning, Teachers Say</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-08.mp3" length="5468622" type="audio/mpeg" />
-      <itunes:duration>5:41</itunes:duration>
     </item>
   </channel>
 </rss>
