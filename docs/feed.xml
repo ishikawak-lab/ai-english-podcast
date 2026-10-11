@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-11 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</link>
+      <description>[Startup] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Apple discloses deal to hire team and license tech from personalized podcast startup Huxe  |  [Japan] Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan  |  [Japan] Taiwan’s leader says increasing defense spending to ‘deter war’</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3" length="5939244" type="audio/mpeg" />
+      <itunes:duration>6:11</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-10 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</link>
       <description>[Startup] Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead  |  [Startup] The maker of non-text AI model Jev valued at $7.5B just weeks after launch  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] An Anthropic AI model sent a false homicide tip to Philadelphia police  |  [Startup] SoftBank, Grab, PETROS explore AI infra  platform in Sarawak</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3" length="6424494" type="audio/mpeg" />
       <itunes:duration>6:41</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-09 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</link>
-      <description>[AI] What OpenAI’s latest controversy tells us about the future of math  |  [AI] GPT-6 Astra: The next generation in intelligence for work  |  [Startup] SEA’s AI boom has a water problem it cannot offset away  |  [Japan] Iran and U.S. hit tankers in biggest wave of attacks on shipping since war began  |  [Japan] Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-09.mp3" length="7346512" type="audio/mpeg" />
-      <itunes:duration>7:39</itunes:duration>
     </item>
   </channel>
 </rss>
