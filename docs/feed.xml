@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-12 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</link>
+      <description>[Startup] Will the HomeView be Apple’s first smart home success?  |  [Malaysia] SJPP guarantees RM123.8bil in business financing  |  [RealEstate] MBA forecast: Mortgage volume to dip below $2T in 2027 as 7% rates linger  |  [Malaysia] Defence budget must make up for years of underinvestment, says analyst  |  [Malaysia] 2027 Budget: Make growth pay</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3" length="6853738" type="audio/mpeg" />
+      <itunes:duration>7:08</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-11 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</link>
       <description>[Startup] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Apple discloses deal to hire team and license tech from personalized podcast startup Huxe  |  [Japan] Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan  |  [Japan] Taiwan’s leader says increasing defense spending to ‘deter war’</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3" length="5968083" type="audio/mpeg" />
       <itunes:duration>6:13</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-10 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</link>
-      <description>[Startup] Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek  |  [AI] Introducing the Agents API  |  [Startup] Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality  |  [Startup] The capital drought: Over 7,500 SEA startups extinguished since 2020  |  [AI] JD.com expands physical AI in logistics with 3 million robots</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-10.mp3" length="6424494" type="audio/mpeg" />
-      <itunes:duration>6:41</itunes:duration>
     </item>
   </channel>
 </rss>
