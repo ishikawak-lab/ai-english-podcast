@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-13 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</link>
+      <description>[Startup] AI can generate a video in minutes. Making it usable is the hard part  |  [Japan] Katayama to be first Japanese chair of IMF-World Bank development panel  |  [Startup] Everyone is talking about AI adoption. But are enterprises actually ready for it?  |  [Startup] Microsoft president says UK is best placed to drive AI regulation  |  [Japan] Why doesn't the United States appoint career diplomats as ambassadors, as Japan and many other countries do?</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3" length="6519789" type="audio/mpeg" />
+      <itunes:duration>6:47</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-12 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</link>
       <description>[Startup] Will the HomeView be Apple’s first smart home success?  |  [Malaysia] SJPP guarantees RM123.8bil in business financing  |  [RealEstate] MBA forecast: Mortgage volume to dip below $2T in 2027 as 7% rates linger  |  [Malaysia] Defence budget must make up for years of underinvestment, says analyst  |  [Malaysia] 2027 Budget: Make growth pay</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3" length="8751273" type="audio/mpeg" />
       <itunes:duration>9:06</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-11 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3</link>
-      <description>[Japan] Koizumi says Japan not ruling out nuclear subs, days after U.S. offers positive view  |  [AI] Roundtables: AI’s apocalypse crisis  |  [AI] Rapidly scaling online storage to serve over 1 billion ChatGPT users  |  [Japan] Ratio of Japanese singles seeking marriage drops below 80% for first time  |  [Startup] Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-11.mp3" length="5968083" type="audio/mpeg" />
-      <itunes:duration>6:13</itunes:duration>
     </item>
   </channel>
 </rss>
