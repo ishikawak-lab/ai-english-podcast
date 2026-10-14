@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-14 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</link>
+      <description>[Startup] Science Corporation implants its vision-restoring chip in its first Stargardt disease patient  |  [Japan] Russia detains Japanese journalist on suspicion of spying  |  [Japan] Lawmakers split on including nuclear submarine study in security documents  |  [Startup] Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots  |  [Startup] Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3" length="6595022" type="audio/mpeg" />
+      <itunes:duration>6:52</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-13 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</link>
       <description>[Startup] AI can generate a video in minutes. Making it usable is the hard part  |  [Japan] Katayama to be first Japanese chair of IMF-World Bank development panel  |  [Startup] Everyone is talking about AI adoption. But are enterprises actually ready for it?  |  [Startup] Microsoft president says UK is best placed to drive AI regulation  |  [Japan] Why doesn't the United States appoint career diplomats as ambassadors, as Japan and many other countries do?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3" length="5958888" type="audio/mpeg" />
       <itunes:duration>6:12</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-12 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3</link>
-      <description>[Startup] Anthropic CEO outlines plan to slow AI development  |  [Startup] OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026  |  [AI] Perplexity trusts GPT-6 Astra with end-to-end systems  |  [RealEstate] Housing market faces headwinds as mortgage rates move above 7%  |  [Startup] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-12.mp3" length="8751273" type="audio/mpeg" />
-      <itunes:duration>9:06</itunes:duration>
     </item>
   </channel>
 </rss>
