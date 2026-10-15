@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-15 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</link>
+      <description>[Startup] Anthropic is letting METR researchers look under the hood with employee-level access  |  [Startup] Meta launches an open-weight AI model that runs on Macs  |  [AI] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta  |  [Startup] Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps  |  [AI] Bringing GPT-Rosalind to academic research labs</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3" length="5842695" type="audio/mpeg" />
+      <itunes:duration>6:05</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-14 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</link>
       <description>[Startup] CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes  |  [Startup] Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts  |  [Japan] GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan  |  [Startup] Intero Biosystems wants drugmakers to test on mini human intestines, not animals  |  [RealEstate] AI can speed up permitting, but messy zoning data holds it back</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3" length="7141712" type="audio/mpeg" />
       <itunes:duration>7:26</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-13 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3</link>
-      <description>[Startup] What’s behind the AI industry’s latest warnings of doom?  |  [AI] Perplexity trusts GPT-6 Astra with end-to-end systems  |  [Startup] Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic  |  [Startup] The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs  |  [Startup] Obama urges Democrats to have a ‘clear plan’ for AI safeguards</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-13.mp3" length="5958888" type="audio/mpeg" />
-      <itunes:duration>6:12</itunes:duration>
     </item>
   </channel>
 </rss>
