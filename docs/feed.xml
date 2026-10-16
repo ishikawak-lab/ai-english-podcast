@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-16 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</link>
+      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] India becomes the latest country to report rogue AI agent activity  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet  |  [Startup] Replit is no longer working with Anthropic, CEO says</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3" length="7528742" type="audio/mpeg" />
+      <itunes:duration>7:50</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-15 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</link>
       <description>[Startup] Anthropic is letting METR researchers look under the hood with employee-level access  |  [Startup] Meta launches an open-weight AI model that runs on Macs  |  [AI] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta  |  [Startup] Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps  |  [AI] Bringing GPT-Rosalind to academic research labs</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3" length="5160168" type="audio/mpeg" />
       <itunes:duration>5:22</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-14 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3</link>
-      <description>[Startup] Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’  |  [AI] The AI industry has taken a doomer turn. What now?  |  [Startup] Everyone has adopted AI. Almost nobody is ready for it  |  [Malaysia] Microsoft publishes AI code of conduct  |  [AI] Donated livers can be made biologically younger</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-14.mp3" length="7141712" type="audio/mpeg" />
-      <itunes:duration>7:26</itunes:duration>
     </item>
   </channel>
 </rss>
