@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-17 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</link>
+      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [RealEstate] Can mortgage rates get under 7% for the holidays?  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] Meta removes language that raised scraping and AI training concerns  |  [Startup] Replit makes OpenAI its default over Anthropic, CEO says</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3" length="6911835" type="audio/mpeg" />
+      <itunes:duration>7:11</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-16 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</link>
       <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] India becomes the latest country to report rogue AI agent activity  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet  |  [Startup] Replit is no longer working with Anthropic, CEO says</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3" length="5303110" type="audio/mpeg" />
       <itunes:duration>5:31</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-15 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</link>
-      <description>[Japan] Amid Japan’s immigration squeeze, foreign residents ask: Should we stay?  |  [AI] Roundtables: Could AI really kill us all?  |  [Startup] US data centers could consume more natural gas than Germany and Japan combined by 2035  |  [Startup] The AI graveyard: a running list of projects and startups that didn’t make it  |  [AI] What’s at stake in AI’s trillion-dollar gamble</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-15.mp3" length="5160168" type="audio/mpeg" />
-      <itunes:duration>5:22</itunes:duration>
     </item>
   </channel>
 </rss>
