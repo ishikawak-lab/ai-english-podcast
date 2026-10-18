@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-18 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3</link>
+      <description>[Malaysia] MediAsas plan to offer financial, health safety net to Malaysia's M40: Dzulkefly  |  [Malaysia] Anthropic to commit 5% stake to new public benefit fund  |  [Startup] No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market  |  [Startup] Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’  |  [Malaysia] E-Commerce Bill set for first parliamentary sitting next year</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3" length="5146793" type="audio/mpeg" />
+      <itunes:duration>5:21</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-17 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</link>
       <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [RealEstate] Can mortgage rates get under 7% for the holidays?  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] Meta removes language that raised scraping and AI training concerns  |  [Startup] Replit makes OpenAI its default over Anthropic, CEO says</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-17.mp3" length="6073408" type="audio/mpeg" />
       <itunes:duration>6:19</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-16 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</link>
-      <description>[Startup] Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?  |  [RealEstate] The Fed rate-hike cycle has started. What’s next?  |  [AI] Microsoft AI CEO criticises Anthropic over model ‘rights’  |  [Malaysia] US Fed raises rates to tackle 'too high' inflation, irking Trump  |  [Japan] Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-16.mp3" length="5303110" type="audio/mpeg" />
-      <itunes:duration>5:31</itunes:duration>
     </item>
   </channel>
 </rss>
