@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-21 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</link>
+      <description>[AI] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required  |  [Startup] Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing  |  [EarlyEd] How AI Is Breaking the Way We Reward High-Achieving Students  |  [AI] OpenAI models are coming to Google Cloud  |  [Startup] The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3" length="5624102" type="audio/mpeg" />
+      <itunes:duration>5:51</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-20 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3</link>
       <description>[AI] NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation  |  [Malaysia] Can Toyota and Daihatsu help Perodua take on China’s EV giants?  |  [RealEstate] Real-REMAX CEO says AI will take over housing systems  |  [Startup] Anthropic pitches AI safety bill that may block a model if 50+ people could be killed  |  [Startup] SpaceX’s AI business is beating expectations</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3" length="6959900" type="audio/mpeg" />
       <itunes:duration>7:14</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-18 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3</link>
-      <description>[Startup] A new kind of AI model from a ChatGPT inventor is thrilling developers  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech  |  [AI] The Download: AI’s extinction risk and bioweapons threat  |  [AI] Could AI really kill us all? Your questions, answered.  |  [Startup] Anthropic’s first embedded evaluator is … Accenture?</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-18.mp3" length="5880311" type="audio/mpeg" />
-      <itunes:duration>6:07</itunes:duration>
     </item>
   </channel>
 </rss>
