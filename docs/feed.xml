@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-22 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3</link>
+      <description>[Startup] OpenAI working on new $30B raise at $1.25T valuation ahead of IPO  |  [RealEstate] The 10-year yield is under 5%. Are sub-7% mortgage rates next?  |  [Startup] Rivian buys world model startup to accelerate self-driving ambitions  |  [EarlyEd] How AI Is Breaking the Way We Reward High-Achieving Students  |  [Startup] Who referees the AI agents? Enterprises aren’t sure, new report shows</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3" length="5933392" type="audio/mpeg" />
+      <itunes:duration>6:10</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-21 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</link>
       <description>[AI] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required  |  [Startup] Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing  |  [EarlyEd] How AI Is Breaking the Way We Reward High-Achieving Students  |  [AI] OpenAI models are coming to Google Cloud  |  [Startup] The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3" length="6764713" type="audio/mpeg" />
       <itunes:duration>7:02</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-19 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3</link>
-      <description>[Startup] Google’s Gemini is the latest AI model to hack other companies  |  [Startup] Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech  |  [Malaysia] Trump says will not tolerate attempts to slow AI growth  |  [Japan] Trump says he will not tolerate attempts to slow AI growth</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-19.mp3" length="6959900" type="audio/mpeg" />
-      <itunes:duration>7:14</itunes:duration>
     </item>
   </channel>
 </rss>
