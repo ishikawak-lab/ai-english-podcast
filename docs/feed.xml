@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-23 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3</link>
+      <description>[Startup] OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”  |  [Startup] Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping  |  [Japan] Can a traditional ‘ryokan’ inn go global?  |  [AI] Securing our frontier model training environment  |  [AI] OpenAI and Poland’s NASK partner to advance AI safety and security</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3" length="7196047" type="audio/mpeg" />
+      <itunes:duration>7:29</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-22 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3</link>
       <description>[Startup] OpenAI working on new $30B raise at $1.25T valuation ahead of IPO  |  [RealEstate] The 10-year yield is under 5%. Are sub-7% mortgage rates next?  |  [Startup] Rivian buys world model startup to accelerate self-driving ambitions  |  [EarlyEd] How AI Is Breaking the Way We Reward High-Achieving Students  |  [Startup] Who referees the AI agents? Enterprises aren’t sure, new report shows</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-21.mp3" length="4943247" type="audio/mpeg" />
       <itunes:duration>5:08</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-20 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</link>
-      <description>[Startup] Is the AI industry really ready to slow down?  |  [Japan] In superaged Japan, athletes are making waves well into their 90s  |  [Startup] World model companies are keeping a lot of secrets  |  [Japan] Senior Taiwan official makes rare trip to China  |  [AI] The specter of AI-enabled bioweapons is a wake-up call for biotech</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-20.mp3" length="6764713" type="audio/mpeg" />
-      <itunes:duration>7:02</itunes:duration>
     </item>
   </channel>
 </rss>
