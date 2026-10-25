@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-25 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-25.mp3</link>
+      <description>[Startup] AI delivers ‘zero financial payoff’ to most companies, Apollo economist says  |  [Startup] Grok releases the first seven minutes of its AI-generated ‘Odyssey’  |  [Japan] What can Asia do to avoid crossing crucial climate tipping points?  |  [Japan] Japan faces shortage of language teachers for foreign workers  |  [Startup] Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-25.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-25.mp3" length="6511848" type="audio/mpeg" />
+      <itunes:duration>6:46</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-24 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-24.mp3</link>
       <description>[Startup] Will AI expose the rickety infrastructure of the internet?  |  [Startup] The AI graveyard: a running list of projects and startups that didn’t make it  |  [Startup] Block’s new voice model sounds eerily human  |  [Japan] North Korea’s Kim visits China ahead of key anniversary  |  [Startup] Starlink seems to be working normally again in Ukraine</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3" length="4446711" type="audio/mpeg" />
       <itunes:duration>4:37</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-22 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3</link>
-      <description>[Startup] Qualcomm launches two new smartphone chips with emphasis on AI  |  [AI] Introducing GPT-6 Sol and Luna  |  [Japan] Takaichi and Trump discuss China ahead of Xi visit to U.S.  |  [Japan] As Trump and Xi meet, investors play both sides of AI divide  |  [Malaysia] Anthropic, OpenAI release cheaper AI even as safety fears grow</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-22.mp3" length="6489696" type="audio/mpeg" />
-      <itunes:duration>6:45</itunes:duration>
     </item>
   </channel>
 </rss>
