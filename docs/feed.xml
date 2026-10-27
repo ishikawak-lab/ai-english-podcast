@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-27 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-27.mp3</link>
+      <description>[AI] Working with academic communities to build scientific understanding  |  [Malaysia] Gen Z grew up with social media, yet many now want restrictions  |  [Japan] Digital Agency adds AI agent to Gennai government platform  |  [Startup] Fusion startups are giving the government shares in exchange for awards. Is it worth it?  |  [Startup] GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-27.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-27.mp3" length="7051015" type="audio/mpeg" />
+      <itunes:duration>7:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-25 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-25.mp3</link>
       <description>[Startup] AI delivers ‘zero financial payoff’ to most companies, Apollo economist says  |  [Startup] Grok releases the first seven minutes of its AI-generated ‘Odyssey’  |  [Japan] What can Asia do to avoid crossing crucial climate tipping points?  |  [Japan] Japan faces shortage of language teachers for foreign workers  |  [Startup] Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-24.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-24.mp3" length="6304540" type="audio/mpeg" />
       <itunes:duration>6:34</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-23 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3</link>
-      <description>[Japan] AI leaders warn U.N. of security risks as systems grow more powerful  |  [Startup] Anthropic says its biology lab has already found something big  |  [AI] Sam Altman’s remarks at the United Nations Security Council  |  [AI] The AI Hype Index: AI loves cheating  |  [Startup] Enveda secures $311M to bring more nature-derived AI drugs into clinical trials</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-23.mp3" length="4446711" type="audio/mpeg" />
-      <itunes:duration>4:37</itunes:duration>
     </item>
   </channel>
 </rss>
