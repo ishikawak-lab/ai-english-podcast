@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-28 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-28.mp3</link>
+      <description>[Startup] Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication  |  [Startup] The data center boom has an upside: innovation for the US grid  |  [AI] How solid-state transformers could help power the AI boom  |  [Startup] Guidewire buys Hyperexponential for $1.7B in cash  |  [Malaysia] Our cities are polluted, with or without haze</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-28.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-28.mp3" length="7434284" type="audio/mpeg" />
+      <itunes:duration>7:44</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-27 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-27.mp3</link>
       <description>[AI] Working with academic communities to build scientific understanding  |  [Malaysia] Gen Z grew up with social media, yet many now want restrictions  |  [Japan] Digital Agency adds AI agent to Gennai government platform  |  [Startup] Fusion startups are giving the government shares in exchange for awards. Is it worth it?  |  [Startup] GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3" length="5362460" type="audio/mpeg" />
       <itunes:duration>5:35</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-24 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-24.mp3</link>
-      <description>[Startup] PrismML brings its tiny LLMs to Qualcomm-powered smart glasses  |  [Startup] Seoul tops global AI implementation as Singapore enters top tier  |  [Malaysia] Tough for Sarawak to get compensation for haze problem  |  [Malaysia] Sukar bagi Sarawak tuntut pampasan akibat jerebu  |  [AI] Sam Altman’s remarks at the United Nations Security Council</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-24.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-24.mp3" length="6304540" type="audio/mpeg" />
-      <itunes:duration>6:34</itunes:duration>
     </item>
   </channel>
 </rss>
