@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-29 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-29.mp3</link>
+      <description>[Startup] Microsoft recorded $10 billion in revenue from OpenAI  |  [Startup] Google expands AI Search ads globally as core ad growth slows  |  [Startup] Upwind raises $400M after walking away from Datadog acquisition offer  |  [Startup] Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion  |  [AI] The Download: dead startups fueling AI and interspecies communication</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-29.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-29.mp3" length="6644341" type="audio/mpeg" />
+      <itunes:duration>6:55</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-28 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-28.mp3</link>
       <description>[Startup] Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication  |  [Startup] The data center boom has an upside: innovation for the US grid  |  [AI] How solid-state transformers could help power the AI boom  |  [Startup] Guidewire buys Hyperexponential for $1.7B in cash  |  [Malaysia] Our cities are polluted, with or without haze</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3" length="6572870" type="audio/mpeg" />
       <itunes:duration>6:50</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-25 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3</link>
-      <description>[Startup] Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge  |  [Japan] Japan regulator is boosting scrutiny of AI data center financing  |  [Startup] Crusoe abandons $1.25B plan to use Boom turbines at AI data centers  |  [Startup] Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier  |  [AI] The Download: the Pentagon’s AI-powered lie detector and young organ limits</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-25.mp3" length="5362460" type="audio/mpeg" />
-      <itunes:duration>5:35</itunes:duration>
     </item>
   </channel>
 </rss>
