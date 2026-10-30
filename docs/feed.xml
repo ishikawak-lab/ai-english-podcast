@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-10-30 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-30.mp3</link>
+      <description>[AI] We urgently need to monitor AI agents’ actions in real time  |  [Startup] Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities  |  [Startup] Powering the green transition: Why the global battery race runs through Hong Kong  |  [Startup] AWS will be a $1T business, Jassy says. But first, it will spend big.  |  [Startup] Elon Musk is ‘truly a genius,’ says Vladimir Putin</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-30.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-30.mp3" length="5846875" type="audio/mpeg" />
+      <itunes:duration>6:05</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-29 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-29.mp3</link>
       <description>[Startup] Microsoft recorded $10 billion in revenue from OpenAI  |  [Startup] Google expands AI Search ads globally as core ad growth slows  |  [Startup] Upwind raises $400M after walking away from Datadog acquisition offer  |  [Startup] Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion  |  [AI] The Download: dead startups fueling AI and interspecies communication</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-27.mp3" length="5940915" type="audio/mpeg" />
       <itunes:duration>6:11</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-26 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</link>
-      <description>[Japan] Takaichi says Trump gave her ‘detailed’ briefing on U.S.-China summit  |  [Startup] Insurers claim AI is already increasing healthcare costs  |  [Japan] As temperatures rise, Japan’s sake rice is feeling the heat  |  [Startup] TikTok agrees to pay at least $100M in Alabama settlement  |  [Startup] Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-26.mp3" length="6572870" type="audio/mpeg" />
-      <itunes:duration>6:50</itunes:duration>
     </item>
   </channel>
 </rss>
