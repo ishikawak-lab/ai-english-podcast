@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-02 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-02.mp3</link>
+      <description>[Startup] TechCrunch Mobility: A new, bigger AV boom is here  |  [Malaysia] Confidence pact loosens BN’s hold on Anwar’s govt, say analysts  |  [Malaysia] Sarawak's economic paradox  |  [Startup] AI can make tech CEOs’ lives easier. What about everyone else?  |  [Startup] Binance resumes withdrawals following $6.3 billion breach</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-02.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-02.mp3" length="5416795" type="audio/mpeg" />
+      <itunes:duration>5:38</itunes:duration>
+    </item>
+    <item>
       <title>2026-10-31 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-31.mp3</link>
       <description>[Startup] Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’  |  [AI] We urgently need to monitor AI agents’ actions in real time  |  [Startup] North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the shortlist  |  [Startup] Judge allows NAACP lawsuit over xAI data center pollution to move forward  |  [Startup] OpenAI reportedly lowers funding target for new round</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3" length="5341562" type="audio/mpeg" />
       <itunes:duration>5:33</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-29 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3</link>
-      <description>[Malaysia] OpenAI cancels release of newest model due to safety concerns  |  [Startup] OpenAI reportedly ditches model over safety concerns  |  [Startup] AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion  |  [Malaysia] Anthropic's IPO prospectus shows sweeping AI vision, surging costs  |  [Startup] Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-29.mp3" length="5154734" type="audio/mpeg" />
-      <itunes:duration>5:22</itunes:duration>
     </item>
   </channel>
 </rss>
