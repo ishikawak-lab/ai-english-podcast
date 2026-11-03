@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-03 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-03.mp3</link>
+      <description>[Startup] Are AI fears genuine? Why we should demand evidence, not alarm  |  [Startup] Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them  |  [AI] The agentic web is here  |  [Startup] Apple may try to increase revenue by doing…something with third-party AI apps  |  [Startup] In Southeast Asia, winning at home may no longer be enough</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-03.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-03.mp3" length="5121296" type="audio/mpeg" />
+      <itunes:duration>5:20</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-02 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-02.mp3</link>
       <description>[Startup] TechCrunch Mobility: A new, bigger AV boom is here  |  [Malaysia] Confidence pact loosens BN’s hold on Anwar’s govt, say analysts  |  [Malaysia] Sarawak's economic paradox  |  [Startup] AI can make tech CEOs’ lives easier. What about everyone else?  |  [Startup] Binance resumes withdrawals following $6.3 billion breach</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3" length="5043975" type="audio/mpeg" />
       <itunes:duration>5:15</itunes:duration>
-    </item>
-    <item>
-      <title>2026-09-30 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</link>
-      <description>[AI] DevDay 2026 Recap  |  [Startup] Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk  |  [AI] Introducing GPT-6.1 Sol  |  [Malaysia] Will AI take Asian youths’ jobs?  |  [Startup] Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-09-30.mp3" length="5341562" type="audio/mpeg" />
-      <itunes:duration>5:33</itunes:duration>
     </item>
   </channel>
 </rss>
