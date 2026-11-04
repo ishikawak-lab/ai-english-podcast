@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-04 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-04.mp3</link>
+      <description>[Startup] Could AI agents break fractional-reserve banking?  |  [Malaysia] Strong growth revives case for OPR hike [WATCH]  |  [Startup] Thailand’s labour crisis and the refugees building its AI future  |  [Startup] Orbital Matter 3D-printed the first rigid beam in the vacuum of space  |  [AI] The Download: controlling AI agents and “Super Intelligence” loyalty tests</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-04.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-04.mp3" length="7965927" type="audio/mpeg" />
+      <itunes:duration>8:17</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-03 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-03.mp3</link>
       <description>[Startup] Are AI fears genuine? Why we should demand evidence, not alarm  |  [Startup] Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them  |  [AI] The agentic web is here  |  [Startup] Apple may try to increase revenue by doing…something with third-party AI apps  |  [Startup] In Southeast Asia, winning at home may no longer be enough</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3" length="6089709" type="audio/mpeg" />
       <itunes:duration>6:20</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-01 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</link>
-      <description>[Startup] Google releases Gemini 4 Argon, called its most powerful model yet  |  [AI] “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer  |  [Japan] Google restricts access to new AI model over safety concerns  |  [Japan] U.K. accuses China of using academics to spy on AI and other tech research  |  [Malaysia] BoJ debated need for more rate hikes at September meeting, summary shows</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-01.mp3" length="5043975" type="audio/mpeg" />
-      <itunes:duration>5:15</itunes:duration>
     </item>
   </channel>
 </rss>
