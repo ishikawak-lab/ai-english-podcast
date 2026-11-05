@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-05 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-05.mp3</link>
+      <description>[Malaysia] More Malaysians are turning to AI before they search  |  [Malaysia] AI push to transform government, unlock growth for Malaysian businesses  |  [Startup] AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst  |  [AI] A thousand fewer paths to root  |  [Startup] Grab’s Q3 shows a superapp quietly turning into a lender</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-05.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-05.mp3" length="7180163" type="audio/mpeg" />
+      <itunes:duration>7:28</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-04 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-04.mp3</link>
       <description>[Startup] Could AI agents break fractional-reserve banking?  |  [Malaysia] Strong growth revives case for OPR hike [WATCH]  |  [Startup] Thailand’s labour crisis and the refugees building its AI future  |  [Startup] Orbital Matter 3D-printed the first rigid beam in the vacuum of space  |  [AI] The Download: controlling AI agents and “Super Intelligence” loyalty tests</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3" length="6798568" type="audio/mpeg" />
       <itunes:duration>7:04</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-02 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</link>
-      <description>[Startup] Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president  |  [Malaysia] NUTP, academic propose age limit on generative AI use  |  [Japan] Takaichi says government will compile action plan to spread the use of AI  |  [AI] An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan  |  [Malaysia] OpenAI fires three researchers over mishandling of 'sensitive' information</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-02.mp3" length="6089709" type="audio/mpeg" />
-      <itunes:duration>6:20</itunes:duration>
     </item>
   </channel>
 </rss>
