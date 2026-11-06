@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-06 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-06.mp3</link>
+      <description>[Japan] Japan’s nominal wages rise at fastest pace in almost 30 years  |  [Startup] Google’s US$15B Malaysia bet comes with a promise to pay its own power bill  |  [Startup] The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now  |  [Startup] Airbnb says it’s launching an AI travel agent in the first half of 2027  |  [Malaysia] Shares plunge in Tokyo and Seoul after US tech rout</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-06.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-06.mp3" length="6196287" type="audio/mpeg" />
+      <itunes:duration>6:27</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-05 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-05.mp3</link>
       <description>[Malaysia] More Malaysians are turning to AI before they search  |  [Malaysia] AI push to transform government, unlock growth for Malaysian businesses  |  [Startup] AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst  |  [AI] A thousand fewer paths to root  |  [Startup] Grab’s Q3 shows a superapp quietly turning into a lender</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3" length="5554721" type="audio/mpeg" />
       <itunes:duration>5:47</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-03 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</link>
-      <description>[Japan] AI needs safety layers like nuclear plants: ex-OpenAI engineer  |  [Japan] AI’s race to transform the world before the money runs out  |  [Malaysia] AI, digital forensics key tools to combat fake motor insurance claims  |  [Startup] Federal judge calls Flock ‘indiscriminate mass surveillance’  |  [Startup] Amazon responds to data center backlash, says it no longer uses NDAs</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-03.mp3" length="6798568" type="audio/mpeg" />
-      <itunes:duration>7:04</itunes:duration>
     </item>
   </channel>
 </rss>
