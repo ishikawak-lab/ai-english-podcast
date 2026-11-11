@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-11 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-11.mp3</link>
+      <description>[Malaysia] Tighter scrutiny expected on Malaysia as Nvidia scandal spills over  |  [Startup] OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect  |  [Startup] OpenAI acquires Odessia, travel startup created by Sonder founder  |  [Japan] Are Japan and the U.S. losing South Korea as an ally?  |  [Japan] SoftBank logs $7 billion loss after U.S. data center costs swell</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-11.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-11.mp3" length="6439122" type="audio/mpeg" />
+      <itunes:duration>6:42</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-06 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-06.mp3</link>
       <description>[Japan] Japan’s nominal wages rise at fastest pace in almost 30 years  |  [Startup] Google’s US$15B Malaysia bet comes with a promise to pay its own power bill  |  [Startup] The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now  |  [Startup] Airbnb says it’s launching an AI travel agent in the first half of 2027  |  [Malaysia] Shares plunge in Tokyo and Seoul after US tech rout</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3" length="5105415" type="audio/mpeg" />
       <itunes:duration>5:19</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-04 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</link>
-      <description>[Startup] Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions  |  [Malaysia] OpenAI’s Altman says AI benefits warrant accepting some risks  |  [Malaysia] Can Malaysia break the FBM KLCI's 'lost decade' curse?  |  [Malaysia] Sustainability, AI, and the new era of corporate reporting  |  [Startup] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-04.mp3" length="5554721" type="audio/mpeg" />
-      <itunes:duration>5:47</itunes:duration>
     </item>
   </channel>
 </rss>
