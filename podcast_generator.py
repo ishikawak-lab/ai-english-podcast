@@ -847,7 +847,12 @@ def main() -> None:
         log.error("GEMINI_API_KEY is not set. Export it and re-run.")
         sys.exit(1)
 
-    client = genai.Client(api_key=config.GEMINI_API_KEY)
+    # google-genai 3.x defaults to the v1 API, which rejects JSON mode and
+    # thinking_config; pin v1beta explicitly.
+    client = genai.Client(
+        api_key=config.GEMINI_API_KEY,
+        http_options=types.HttpOptions(api_version="v1beta"),
+    )
 
     # 1. Fetch
     log.info("Step 1/7  Fetching RSS feeds …")

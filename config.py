@@ -41,8 +41,8 @@ MAX_FEED_EPISODES = 30   # keep the last N episodes in feed.xml
 # ──────────────────────────────────────────────
 # Gemini Models
 # ──────────────────────────────────────────────
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-GEMINI_MODEL_FALLBACKS = ["gemini-2.5-flash", "gemini-2.0-flash-lite"]
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL_FALLBACKS = ["gemini-2.5-flash-lite"]
 TTS_MODEL = "gemini-2.5-flash-preview-tts"
 TTS_VOICE = "Kore"   # Options: Kore, Aoede, Charon, Fenrir, Puck
 
