@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-12 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-12.mp3</link>
+      <description>[Japan] Japan wants nuclear submarines, but can it overcome the obstacles?  |  [Startup] Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang  |  [Startup] The unfolding Jensen Huang scandal: a timeline  |  [Startup] Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul  |  [Malaysia] Najib's conditional pardon: Johor MB tells DAP, Amanah to seek Anwar's explanation</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-12.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-12.mp3" length="8202910" type="audio/mpeg" />
+      <itunes:duration>8:32</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-11 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-11.mp3</link>
       <description>[Startup] OpenAI acquires Odessia, travel startup created by Sonder founder  |  [Startup] OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect  |  [Japan] Are Japan and the U.S. losing South Korea as an ally?  |  [Japan] G7 get-together  |  [Startup] What happens to the subscription economy when AI agents review every payment?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3" length="5726502" type="audio/mpeg" />
       <itunes:duration>5:57</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-06 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</link>
-      <description>[Startup] The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia  |  [Startup] Investors do not just fund startups. They fund predictability  |  [Startup] Etched fields funding offers at $40B+ valuation, sources say  |  [Startup] OpenAI will start watermarking ChatGPT’s text in the EU  |  [Startup] Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-06.mp3" length="5105415" type="audio/mpeg" />
-      <itunes:duration>5:19</itunes:duration>
     </item>
   </channel>
 </rss>
