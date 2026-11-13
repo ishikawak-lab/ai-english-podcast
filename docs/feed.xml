@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-13 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-13.mp3</link>
+      <description>[Startup] The unfolding Jensen Huang scandal: a timeline  |  [Startup] Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout  |  [RealEstate] Exclusive: ARA forms AI Task Force to back licensee-in-the-loop laws  |  [Japan] How social media is influencing Japanese children’s views on immigrants  |  [Startup] Nebius tests the neocloud playbook with $40 billion in planned spending</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-13.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-13.mp3" length="10483295" type="audio/mpeg" />
+      <itunes:duration>10:55</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-12 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-12.mp3</link>
       <description>[Japan] Japan wants nuclear submarines, but can it overcome the obstacles?  |  [Startup] Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang  |  [Startup] The unfolding Jensen Huang scandal: a timeline  |  [Startup] Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul  |  [Malaysia] Najib's conditional pardon: Johor MB tells DAP, Amanah to seek Anwar's explanation</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3" length="5380014" type="audio/mpeg" />
       <itunes:duration>5:36</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-07 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</link>
-      <description>[Startup] Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet  |  [Startup] MDI Ventures sharpens SEA thesis around AI, blockchain, digital asset infra  |  [Japan] Takaichi asked Trump to broker Japan-North Korea summit  |  [AI] Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance  |  [RealEstate] CRMLS went on offense against Compass. Will other MLSs follow?</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-07.mp3" length="5726502" type="audio/mpeg" />
-      <itunes:duration>5:57</itunes:duration>
     </item>
   </channel>
 </rss>
