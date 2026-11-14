@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-14 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-14.mp3</link>
+      <description>[Startup] Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B  |  [Startup] Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say  |  [Malaysia] Trump, Xi, Putin to hold historic meeting in China: White House  |  [Japan] Trump, Xi, Putin to hold historic meeting in China: White House  |  [Japan] Nvidia crisis spurs scrutiny of agency that oversees chip curbs</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-14.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-14.mp3" length="6493456" type="audio/mpeg" />
+      <itunes:duration>6:45</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-13 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-13.mp3</link>
       <description>[Startup] The unfolding Jensen Huang scandal: a timeline  |  [Startup] Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout  |  [RealEstate] Exclusive: ARA forms AI Task Force to back licensee-in-the-loop laws  |  [Japan] How social media is influencing Japanese children’s views on immigrants  |  [Startup] Nebius tests the neocloud playbook with $40 billion in planned spending</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3" length="7174313" type="audio/mpeg" />
       <itunes:duration>7:28</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-08 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</link>
-      <description>[Malaysia] World Bank lifts Malaysia growth forecast to 5.1pct, warns of AI slowdown [WATCH]  |  [Startup] Robot data startup Mecka AI nabs $60M from Sequoia  |  [Startup] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users  |  [Startup] Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11  |  [Startup] When the carer has dementia too: Japan turns to physical AI to rescue eldercare</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-08.mp3" length="5380014" type="audio/mpeg" />
-      <itunes:duration>5:36</itunes:duration>
     </item>
   </channel>
 </rss>
