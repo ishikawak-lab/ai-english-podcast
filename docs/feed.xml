@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-15 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-15.mp3</link>
+      <description>[Startup] Where was Nvidia’s security team?  |  [Startup] Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang  |  [Startup] Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B  |  [Japan] Global powers converge on Manila as ASEAN summit kicks off  |  [Malaysia] Three tankers catch fire after hitting mines in Hormuz</description>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-15.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-15.mp3" length="5571856" type="audio/mpeg" />
+      <itunes:duration>5:48</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-14 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-14.mp3</link>
       <description>[Startup] Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B  |  [Startup] Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say  |  [Malaysia] Trump, Xi, Putin to hold historic meeting in China: White House  |  [Japan] Trump, Xi, Putin to hold historic meeting in China: White House  |  [Japan] Nvidia crisis spurs scrutiny of agency that oversees chip curbs</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3" length="6793552" type="audio/mpeg" />
       <itunes:duration>7:04</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-09 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</link>
-      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect  |  [Malaysia] Anwar to table 2027 Budget at 3.30pm today  |  [RealEstate] Leo Pareja says rising rates have already prompted a housing collapse  |  [AI] Building a safer path to autonomous industrial AI</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-09.mp3" length="7174313" type="audio/mpeg" />
-      <itunes:duration>7:28</itunes:duration>
     </item>
   </channel>
 </rss>
