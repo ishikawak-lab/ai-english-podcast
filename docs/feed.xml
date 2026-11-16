@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-16 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-16.mp3</link>
+      <description>[Malaysia] Nvidia allies plan 'war room' to push for Jensen Huang's return  |  [Malaysia] AI safety must protect human lives and the human mind  |  [Startup] Is bad news for Jensen Huang also bad news for the AI industry?  |  [Japan] U.S. Treasury chief wants answers soon from Nvidia  |  [Japan] Nvidia feels the heat on CEO search as Bessent calls for shakeup</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-16.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-16.mp3" length="5441871" type="audio/mpeg" />
+      <itunes:duration>5:40</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-15 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-15.mp3</link>
       <description>[Startup] Where was Nvidia’s security team?  |  [Startup] Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang  |  [Startup] Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B  |  [Japan] Global powers converge on Manila as ASEAN summit kicks off  |  [Malaysia] Three tankers catch fire after hitting mines in Hormuz</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3" length="5939244" type="audio/mpeg" />
       <itunes:duration>6:11</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-10 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</link>
-      <description>[Startup] Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead  |  [Startup] The maker of non-text AI model Jev valued at $7.5B just weeks after launch  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] An Anthropic AI model sent a false homicide tip to Philadelphia police  |  [Startup] SoftBank, Grab, PETROS explore AI infra  platform in Sarawak</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-10.mp3" length="6793552" type="audio/mpeg" />
-      <itunes:duration>7:04</itunes:duration>
     </item>
   </channel>
 </rss>
