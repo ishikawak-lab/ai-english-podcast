@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-17 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-17.mp3</link>
+      <description>[Startup] California state AG sues OpenAI over rogue agent incidents  |  [Startup] Cybersecurity AI startup Corma reaches $1B valuation in about 3 months  |  [AI] Building trustworthy AI by fencing it in, not predicting it  |  [Malaysia] Malaysia investment approvals jump 20.7pct to RM350.4bil in nine months  |  [Startup] Apple reveals new Mac security controls as AI agents raise privacy risks</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-17.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-17.mp3" length="6371830" type="audio/mpeg" />
+      <itunes:duration>6:38</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-16 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-16.mp3</link>
       <description>[Malaysia] Nvidia allies plan 'war room' to push for Jensen Huang's return  |  [Malaysia] AI safety must protect human lives and the human mind  |  [Startup] Is bad news for Jensen Huang also bad news for the AI industry?  |  [Japan] U.S. Treasury chief wants answers soon from Nvidia  |  [Japan] Nvidia feels the heat on CEO search as Bessent calls for shakeup</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3" length="6853738" type="audio/mpeg" />
       <itunes:duration>7:08</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-11 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</link>
-      <description>[Startup] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’  |  [AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] Apple discloses deal to hire team and license tech from personalized podcast startup Huxe  |  [Japan] Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan  |  [Japan] Taiwan’s leader says increasing defense spending to ‘deter war’</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-11.mp3" length="5939244" type="audio/mpeg" />
-      <itunes:duration>6:11</itunes:duration>
     </item>
   </channel>
 </rss>
