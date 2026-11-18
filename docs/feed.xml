@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-18 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-18.mp3</link>
+      <description>[Startup] Nvidia is abandoning China after Jensen Huang’s ouster  |  [Startup] Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt  |  [Startup] Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit  |  [Malaysia] Bank of Japan governor says central bank should keep raising rates  |  [Japan] Nvidia doubles revenue in third quarter; board won't reinstate Huang</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-18.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-18.mp3" length="4911899" type="audio/mpeg" />
+      <itunes:duration>5:06</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-17 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-17.mp3</link>
       <description>[Startup] California state AG sues OpenAI over rogue agent incidents  |  [Startup] Cybersecurity AI startup Corma reaches $1B valuation in about 3 months  |  [AI] Building trustworthy AI by fencing it in, not predicting it  |  [Malaysia] Malaysia investment approvals jump 20.7pct to RM350.4bil in nine months  |  [Startup] Apple reveals new Mac security controls as AI agents raise privacy risks</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3" length="6519789" type="audio/mpeg" />
       <itunes:duration>6:47</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-12 | PREP | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</link>
-      <description>[Startup] Will the HomeView be Apple’s first smart home success?  |  [Malaysia] SJPP guarantees RM123.8bil in business financing  |  [RealEstate] MBA forecast: Mortgage volume to dip below $2T in 2027 as 7% rates linger  |  [Malaysia] Defence budget must make up for years of underinvestment, says analyst  |  [Malaysia] 2027 Budget: Make growth pay</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-12.mp3" length="6853738" type="audio/mpeg" />
-      <itunes:duration>7:08</itunes:duration>
     </item>
   </channel>
 </rss>
