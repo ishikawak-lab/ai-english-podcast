@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-19 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-19.mp3</link>
+      <description>[Startup] Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’  |  [Startup] A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres  |  [Japan] Nvidia turmoil spurs valuation rethink of Japan’s AI shares  |  [RealEstate] Why housing construction is sliding back toward COVID-era lows  |  [RealEstate] Single-family permits telegraph a weakened 2027 building pipeline</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-19.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-19.mp3" length="7166789" type="audio/mpeg" />
+      <itunes:duration>7:27</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-18 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-18.mp3</link>
       <description>[Startup] Nvidia is abandoning China after Jensen Huang’s ouster  |  [Startup] Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt  |  [Startup] Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit  |  [Malaysia] Bank of Japan governor says central bank should keep raising rates  |  [Japan] Nvidia doubles revenue in third quarter; board won't reinstate Huang</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3" length="7022176" type="audio/mpeg" />
       <itunes:duration>7:18</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-13 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</link>
-      <description>[Startup] AI can generate a video in minutes. Making it usable is the hard part  |  [Japan] Katayama to be first Japanese chair of IMF-World Bank development panel  |  [Startup] Everyone is talking about AI adoption. But are enterprises actually ready for it?  |  [Startup] Microsoft president says UK is best placed to drive AI regulation  |  [Japan] Why doesn't the United States appoint career diplomats as ambassadors, as Japan and many other countries do?</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-13.mp3" length="6519789" type="audio/mpeg" />
-      <itunes:duration>6:47</itunes:duration>
     </item>
   </channel>
 </rss>
