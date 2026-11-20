@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-20 | SOAR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-20.mp3</link>
+      <description>[Malaysia] US approved nearly 900,000 AI chip shipments to China in six months  |  [Japan] Meta says 'reevaluating' 2030 net zero target amid AI buildout  |  [Japan] The 20-year-old who thinks AI will kill us  |  [Malaysia] AI surge could strain US capacity and overheat economy  |  [Malaysia] APEC ministers call for WTO reform, deeper regional trade integration</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-20.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-20.mp3" length="7628634" type="audio/mpeg" />
+      <itunes:duration>7:56</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-19 | Before-After-Bridge | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-19.mp3</link>
       <description>[Startup] Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’  |  [Startup] A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres  |  [Japan] Nvidia turmoil spurs valuation rethink of Japan’s AI shares  |  [RealEstate] Why housing construction is sliding back toward COVID-era lows  |  [RealEstate] Single-family permits telegraph a weakened 2027 building pipeline</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3" length="5842695" type="audio/mpeg" />
       <itunes:duration>6:05</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-14 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</link>
-      <description>[Startup] CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes  |  [Startup] Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts  |  [Japan] GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan  |  [Startup] Intero Biosystems wants drugmakers to test on mini human intestines, not animals  |  [RealEstate] AI can speed up permitting, but messy zoning data holds it back</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-14.mp3" length="7022176" type="audio/mpeg" />
-      <itunes:duration>7:18</itunes:duration>
     </item>
   </channel>
 </rss>
