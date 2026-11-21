@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-21 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-21.mp3</link>
+      <description>[Japan] Tokyo is being reshaped by a historic real estate boom  |  [AI] The Download: inside the quest to make our minds immortal  |  [Japan] Japan wary of U.S., Russia and China holding regular summits  |  [Startup] Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now  |  [Startup] AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-21.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-21.mp3" length="7677953" type="audio/mpeg" />
+      <itunes:duration>7:59</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-20 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-20.mp3</link>
       <description>[Malaysia] US approved nearly 900,000 AI chip shipments to China in six months  |  [Japan] Meta says 'reevaluating' 2030 net zero target amid AI buildout  |  [Japan] The 20-year-old who thinks AI will kill us  |  [Malaysia] AI surge could strain US capacity and overheat economy  |  [Malaysia] APEC ministers call for WTO reform, deeper regional trade integration</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3" length="7528742" type="audio/mpeg" />
       <itunes:duration>7:50</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-15 | Before-After-Bridge | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</link>
-      <description>[Startup] Anthropic is letting METR researchers look under the hood with employee-level access  |  [Startup] Meta launches an open-weight AI model that runs on Macs  |  [AI] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta  |  [Startup] Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps  |  [AI] Bringing GPT-Rosalind to academic research labs</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-15.mp3" length="5842695" type="audio/mpeg" />
-      <itunes:duration>6:05</itunes:duration>
     </item>
   </channel>
 </rss>
