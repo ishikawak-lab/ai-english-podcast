@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-22 | Pyramid | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-22.mp3</link>
+      <description>[Malaysia] Fossil fuel dispute threatens to scupper climate deal  |  [Startup] A tale of two Nvidias  |  [Startup] Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance  |  [Startup] After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore  |  [RealEstate] Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-22.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-22.mp3" length="5673421" type="audio/mpeg" />
+      <itunes:duration>5:54</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-21 | 5Ws+H | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-21.mp3</link>
       <description>[Japan] Tokyo is being reshaped by a historic real estate boom  |  [AI] The Download: inside the quest to make our minds immortal  |  [Japan] Japan wary of U.S., Russia and China holding regular summits  |  [Startup] Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now  |  [Startup] AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3" length="6911835" type="audio/mpeg" />
       <itunes:duration>7:11</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-16 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</link>
-      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [Startup] India becomes the latest country to report rogue AI agent activity  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet  |  [Startup] Replit is no longer working with Anthropic, CEO says</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-16.mp3" length="7528742" type="audio/mpeg" />
-      <itunes:duration>7:50</itunes:duration>
     </item>
   </channel>
 </rss>
