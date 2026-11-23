@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-23 | PREP | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-23.mp3</link>
+      <description>[Startup] OpenAI’s chief scientist has thoughts on how to limit AI development  |  [Startup] Why we really fear AI  |  [Japan] U.S. probing alleged spy tied to ex-Nvidia CEO, spy chief says  |  [Malaysia] Only 3,128 5-year-olds register for Penang Year One intake next year  |  [Malaysia] Agong pelihara keseimbangan Perlembagaan menerusi titah pengampunan Najib</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-23.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-23.mp3" length="6234322" type="audio/mpeg" />
+      <itunes:duration>6:29</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-22 | Pyramid | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-22.mp3</link>
       <description>[Malaysia] Fossil fuel dispute threatens to scupper climate deal  |  [Startup] A tale of two Nvidias  |  [Startup] Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance  |  [Startup] After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore  |  [RealEstate] Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3" length="5146793" type="audio/mpeg" />
       <itunes:duration>5:21</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-17 | 5Ws+H | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</link>
-      <description>[AI] Roundtables: A Conversation With the Creator of AI-Designed Viruses  |  [RealEstate] Can mortgage rates get under 7% for the holidays?  |  [AI] This implant can restore sight for patients with macular degeneration  |  [Startup] Meta removes language that raised scraping and AI training concerns  |  [Startup] Replit makes OpenAI its default over Anthropic, CEO says</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-17.mp3" length="6911835" type="audio/mpeg" />
-      <itunes:duration>7:11</itunes:duration>
     </item>
   </channel>
 </rss>
