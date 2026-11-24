@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-24 | PSI | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-24.mp3</link>
+      <description>[Japan] South Korea scrambles jets as Russian warplanes enter air zone  |  [Japan] North Korea threatens to close Swiss diplomatic office  |  [Startup] AI reached Indonesia’s bank call centres, but it never reached the boardroom  |  [Startup] Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes  |  [Malaysia] Miti to advise data centres against hosting US-blacklisted firms</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-24.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-24.mp3" length="6992082" type="audio/mpeg" />
+      <itunes:duration>7:17</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-23 | PREP | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-23.mp3</link>
       <description>[Startup] OpenAI’s chief scientist has thoughts on how to limit AI development  |  [Startup] Why we really fear AI  |  [Japan] U.S. probing alleged spy tied to ex-Nvidia CEO, spy chief says  |  [Malaysia] Only 3,128 5-year-olds register for Penang Year One intake next year  |  [Malaysia] Agong pelihara keseimbangan Perlembagaan menerusi titah pengampunan Najib</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3" length="7573046" type="audio/mpeg" />
       <itunes:duration>7:53</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-18 | Pyramid | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3</link>
-      <description>[Malaysia] MediAsas plan to offer financial, health safety net to Malaysia's M40: Dzulkefly  |  [Malaysia] Anthropic to commit 5% stake to new public benefit fund  |  [Startup] No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market  |  [Startup] Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’  |  [Malaysia] E-Commerce Bill set for first parliamentary sitting next year</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-18.mp3" length="5146793" type="audio/mpeg" />
-      <itunes:duration>5:21</itunes:duration>
     </item>
   </channel>
 </rss>
