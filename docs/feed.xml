@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-25 | SCR | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-25.mp3</link>
+      <description>[Startup] When the AI story, the energy story and the trade story become the same story  |  [Startup] When AI can do everything better, what makes a human valuable?  |  [Startup] Trump reportedly says pardoning Jensen Huang is ‘an option’  |  [Malaysia] Govt ready to expedite border development ahead of Indonesia’s capital relocation  |  [Malaysia] High Court dismisses bid to challenge diesel subsidy removal</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-25.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-25.mp3" length="6035373" type="audio/mpeg" />
+      <itunes:duration>6:17</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-24 | PSI | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-24.mp3</link>
       <description>[Japan] South Korea scrambles jets as Russian warplanes enter air zone  |  [Japan] North Korea threatens to close Swiss diplomatic office  |  [Startup] AI reached Indonesia’s bank call centres, but it never reached the boardroom  |  [Startup] Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes  |  [Malaysia] Miti to advise data centres against hosting US-blacklisted firms</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3" length="5624102" type="audio/mpeg" />
       <itunes:duration>5:51</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-20 | PSI | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3</link>
-      <description>[AI] NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation  |  [Malaysia] Can Toyota and Daihatsu help Perodua take on China’s EV giants?  |  [RealEstate] Real-REMAX CEO says AI will take over housing systems  |  [Startup] Anthropic pitches AI safety bill that may block a model if 50+ people could be killed  |  [Startup] SpaceX’s AI business is beating expectations</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-20.mp3" length="7573046" type="audio/mpeg" />
-      <itunes:duration>7:53</itunes:duration>
     </item>
   </channel>
 </rss>
