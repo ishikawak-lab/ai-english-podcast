@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-26 | Before-After-Bridge | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-26.mp3</link>
+      <description>[Malaysia] Petronas ships first Malaysia-produced Bio-LNG cargo to Japan  |  [Japan] North Korea's Kim urges wider tactical nuclear weapons deployment  |  [Startup] From coffee carts to stablecoins: SEA’s 60 rising startups, and our bets on each  |  [Japan] Community cafeterias for kids in Japan hit record 13,800  |  [Startup] FCC approves SpaceX plan to put AI data centers in space</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-26.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-26.mp3" length="7733123" type="audio/mpeg" />
+      <itunes:duration>8:03</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-25 | SCR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-25.mp3</link>
       <description>[Startup] When the AI story, the energy story and the trade story become the same story  |  [Startup] When AI can do everything better, what makes a human valuable?  |  [Startup] Trump reportedly says pardoning Jensen Huang is ‘an option’  |  [Malaysia] Govt ready to expedite border development ahead of Indonesia’s capital relocation  |  [Malaysia] High Court dismisses bid to challenge diesel subsidy removal</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-22.mp3" length="5933392" type="audio/mpeg" />
       <itunes:duration>6:10</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-21 | SCR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</link>
-      <description>[AI] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required  |  [Startup] Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing  |  [EarlyEd] How AI Is Breaking the Way We Reward High-Achieving Students  |  [AI] OpenAI models are coming to Google Cloud  |  [Startup] The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-21.mp3" length="5624102" type="audio/mpeg" />
-      <itunes:duration>5:51</itunes:duration>
     </item>
   </channel>
 </rss>
