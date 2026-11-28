@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education" />
     <item>
+      <title>2026-11-28 | 5Ws+H | Ken's AI English Podcast</title>
+      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-28.mp3</link>
+      <description>[Japan] OpenAI says Apple pressured suppliers to shun its devices  |  [Startup] Three weeks after a US$15B pledge, Google gets a US$145.8M lawsuit from Malaysia  |  [Startup] Washington now decides who rents SEA’s GPUs, and Fitch says lenders have noticed  |  [Startup] Ecosystem Roundup: Nvidia pauses SEA server shipments as export scrutiny reaches the hubs  |  [Startup] Nvidia hits pause on chip shipments to Southeast Asia</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-28.mp3</guid>
+      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-28.mp3" length="6551135" type="audio/mpeg" />
+      <itunes:duration>6:49</itunes:duration>
+    </item>
+    <item>
       <title>2026-11-27 | SOAR | Ken's AI English Podcast</title>
       <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-11-27.mp3</link>
       <description>[Startup] We replaced a marketing team with AI: 3M views and 22,000 followers in 3 months, zero ad spend  |  [Startup] Nvidia hits pause on chip shipments to Southeast Asia  |  [Japan] Faster inflation in Tokyo supports case for BOJ rate hike in December  |  [Startup] Live commerce’s next growth wave will be won on trust, not traffic  |  [Japan] Health ministry mulls raising care insurance premiums for some older adults</description>
@@ -268,15 +277,6 @@
       <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-24.mp3</guid>
       <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-24.mp3" length="7569702" type="audio/mpeg" />
       <itunes:duration>7:53</itunes:duration>
-    </item>
-    <item>
-      <title>2026-10-23 | SOAR | Ken's AI English Podcast</title>
-      <link>https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3</link>
-      <description>[Startup] OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”  |  [Startup] Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping  |  [Japan] Can a traditional ‘ryokan’ inn go global?  |  [AI] Securing our frontier model training environment  |  [AI] OpenAI and Poland’s NASK partner to advance AI safety and security</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3</guid>
-      <enclosure url="https://ishikawak-lab.github.io/ai-english-podcast/audio/2026-10-23.mp3" length="7196047" type="audio/mpeg" />
-      <itunes:duration>7:29</itunes:duration>
     </item>
   </channel>
 </rss>
